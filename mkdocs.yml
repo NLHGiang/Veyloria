@@ -1,0 +1,47 @@
+site_name: Veyloria
+site_description: Veyloria — Game Design Knowledge Base
+site_author: NLHGiang
+
+theme:
+  name: material
+  language: vi
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Chế độ tối
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Chế độ sáng
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+plugins:
+  - search
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Veyloria: index.md
+  - Concept:
+      - Tổng quan: concept/overview.md
+      - The Forgotten One: concept/the-forgotten-one.md
+      - Core Mechanic: concept/core-mechanic.md
+  - Gameplay:
+      - Session Design: gameplay/session-design.md
+      - Pet as Natural Hint: gameplay/pet.md
+  - Maps:
+      - The Bridge: maps/bridge.md
+  - Design Principles: design-principles.md
