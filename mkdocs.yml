@@ -45,3 +45,5 @@ nav:
   - Maps:
       - The Bridge: maps/bridge.md
   - Design Principles: design-principles.md
+  - Knowledge Brainstorm:
+      - Full Brainstorm: knowledge-brainstorm.md
