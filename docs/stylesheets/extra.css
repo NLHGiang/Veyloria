@@ -1,0 +1,34 @@
+:root {
+  --md-primary-fg-color: #273469;
+  --md-primary-fg-color--light: #3f4d8a;
+  --md-primary-fg-color--dark: #1b244b;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-hue: 230;
+}
+
+.md-header {
+  backdrop-filter: blur(12px);
+}
+
+.md-main__inner {
+  max-width: 1180px;
+}
+
+.md-content h1 {
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+.md-content h2 {
+  font-weight: 700;
+}
+
+blockquote {
+  border-left-width: 4px;
+}
+
+.md-typeset .admonition {
+  border-radius: 12px;
+}
