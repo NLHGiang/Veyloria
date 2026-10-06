@@ -25,6 +25,9 @@ Những tài liệu định nghĩa Veyloria là gì, nhân vật là ai và ý t
 - **[Core Mechanic — Memory affects the World](concept/core-mechanic.md)**  
   Memory hoạt động như lớp mechanic phía sau thế giới và ảnh hưởng đến world state.
 
+- **[Signature Mechanic — The World Remembers](knowledge-brainstorm.md#4-signature-mechanic--the-world-remembers)**  
+  Cơ chế đặc trưng: Player Action → World Remembers → Memory Conflict → Player Curiosity.
+
 ### 🎮 Gameplay
 
 Các nguyên tắc trực tiếp quyết định người chơi sẽ chơi như thế nào.
@@ -51,6 +54,40 @@ Các ví dụ cụ thể để kiểm chứng concept bằng gameplay thực t�
 
 - **[Knowledge Brainstorm — Full](knowledge-brainstorm.md)**  
   Bản brainstorm đầy đủ, dùng làm nguồn tham chiếu tổng hợp cho các ý tưởng hiện tại. Nội dung chi tiết không bị rút gọn thành overview.
+
+---
+
+## Signature Mechanic
+
+### The World Remembers
+
+Điểm đặc trưng của Veyloria không chỉ là memory ảnh hưởng đến thế giới, mà là:
+
+> **Thế giới ghi nhớ những gì người chơi đã làm — nhưng không nhất thiết theo cách người chơi nhớ.**
+
+Signature mechanic có 3 tầng:
+
+**Player Action → World Remembers → Memory Conflict**
+
+#### 1. Player Action
+
+Mỗi session có một hành động rõ ràng.
+
+> Vấn đề → Hành động → World thay đổi → Kết thúc session.
+
+#### 2. World Remembers
+
+Hành động không kết thúc cùng session.
+
+NPC, map, object, pet hoặc khu vực khác có thể phản ứng với hành động đó ở những session sau.
+
+#### 3. Memory Conflict
+
+Thế giới có thể ghi nhớ một phiên bản khác với điều người chơi nhớ.
+
+> **"Ủa? Mình nhớ là mình đã làm khác mà?"**
+
+Đây là lớp tạo ra câu hỏi mới và động lực để người chơi tiếp tục khám phá.
 
 ---
 
@@ -95,6 +132,10 @@ Pet là một phần của gameplay.
 
 > **Người chơi biết mình phải làm gì, nhưng không nhất thiết hiểu ngay mọi thứ mình nhìn thấy.**
 
+### Long-term Loop
+
+> **Player Action → World Remembers → Memory Conflict → Player Curiosity → Next Session**
+
 ---
 
 ## Design North Star
@@ -104,5 +145,9 @@ Pet là một phần của gameplay.
 > **Mỗi thay đổi của thế giới là một mảnh ghép cho câu chuyện lớn hơn.**
 
 Và:
+
+> **The world remembers what the player did — but not necessarily in the way the player remembers it.**
+
+Cùng với:
 
 > **Ký ức là core mechanic phía sau; người chơi không nhất thiết phải liên tục được nhắc rằng họ đang "chơi một game về ký ức".**
