@@ -117,7 +117,140 @@ Memory là **logic nền của thế giới**, không phải lúc nào cũng là
 
 ---
 
-## 4. Gameplay và Story/Lore
+## 4. Signature Mechanic — The World Remembers
+
+Điểm đặc trưng của Veyloria không nằm ở việc người chơi **tìm lại ký ức**, mà ở việc **thế giới ghi nhớ những gì người chơi đã làm**.
+
+Nhưng thế giới không phải lúc nào cũng nhớ giống người chơi.
+
+Signature mechanic gồm 3 tầng:
+
+### 4.1. Tầng 1 — Player Action
+
+Trong mỗi session, người chơi thực hiện **một hành động rất rõ ràng** để giải quyết vấn đề trước mắt.
+
+Ví dụ:
+
+> Cây cầu bị hỏng → tìm cách sửa cầu → cầu hoạt động trở lại.
+
+Gameplay ở tầng này phải đơn giản và dễ hiểu.
+
+**Vấn đề → Hành động → Thay đổi → Hoàn thành session**
+
+Người chơi không cần hiểu toàn bộ câu chuyện để biết mình phải làm gì.
+
+### 4.2. Tầng 2 — World Remembers
+
+Hành động của người chơi **không biến mất khi session kết thúc**.
+
+Thế giới ghi nhận hành động đó và có thể phản ứng ở những session sau thông qua:
+
+- NPC nhớ hoặc nhắc lại hành động của người chơi;
+- một khu vực thay đổi;
+- một object xuất hiện hoặc biến mất;
+- pet có phản ứng khác;
+- một route mới được mở hoặc thay đổi;
+- một sự kiện ở nơi khác bị ảnh hưởng.
+
+Ví dụ:
+
+**Session 1:**
+
+> Người chơi sửa cây cầu.
+
+Session kết thúc.
+
+**Đến Session 3:**
+
+> NPC nói về cây cầu như thể nó đã được sửa từ rất lâu.
+
+Hoặc:
+
+> Một object mới xuất hiện bên dưới cầu, chỉ có thể tồn tại vì cây cầu đã được sửa.
+
+Hành động của người chơi trở thành **một phần của trạng thái thế giới**.
+
+### 4.3. Tầng 3 — Memory Conflict
+
+Đây là tầng tạo nên bản sắc riêng của Veyloria.
+
+**Thế giới nhớ một chuyện. Người chơi lại nhớ một chuyện khác.**
+
+Ví dụ:
+
+Session 1:
+
+> Người chơi nhớ rất rõ mình đã sửa cây cầu.
+
+Session 3:
+
+> Một NPC nói: "Cậu đã phá cây cầu đó mà."
+
+Người chơi:
+
+> "Ủa? Mình nhớ là mình đã sửa nó mà?"
+
+Hoặc:
+
+> Người chơi nhớ mình đã gặp một căn nhà màu xanh.
+
+Nhưng khi quay lại:
+
+> Không có căn nhà nào ở đó.
+
+NPC khẳng định:
+
+> "Ở đây chưa từng có căn nhà."
+
+Nhưng trong inventory của người chơi vẫn còn một món đồ có dòng:
+
+> "Lấy từ căn nhà màu xanh."
+
+Lúc này, câu hỏi không còn đơn giản là:
+
+> **"Chuyện gì đã xảy ra?"**
+
+Mà trở thành:
+
+> **"Ký ức của ai mới là đúng?"**
+
+### 4.4. Vì sao mechanic này quan trọng?
+
+Mỗi session vẫn có thể cực kỳ đơn giản:
+
+**Vấn đề → Hành động → World thay đổi → Kết thúc**
+
+Không cần biến mỗi session thành một puzzle phức tạp hay một đoạn lore dài.
+
+Điểm khác biệt nằm ở chỗ:
+
+> **Ý nghĩa của hành động không kết thúc cùng session.**
+
+Một hành động ở Session 1 có thể trở lại ở Session 3.
+
+Một chi tiết tưởng như không quan trọng ở Session 2 có thể thay đổi cách người chơi hiểu Session 1.
+
+Một điều người chơi chắc chắn mình đã làm có thể bị chính thế giới phủ nhận.
+
+Vì vậy, vòng lặp giữ chân người chơi không chỉ là:
+
+> **"Chuyện gì xảy ra tiếp theo?"**
+
+mà còn là:
+
+> **"Có phải chuyện mình vừa chơi thực sự đã xảy ra như mình nhớ không?"**
+
+### 4.5. Design North Star
+
+> **The world remembers what the player did — but not necessarily in the way the player remembers it.**
+
+Đây là điểm Veyloria có thể xây dựng thành signature mechanic riêng:
+
+**Player Action → World Remembers → Memory Conflict → Player Curiosity → Next Session**
+
+---
+
+## 5. Gameplay và Story/Lore
 
 Một nguyên tắc quan trọng của Veyloria:
 
@@ -125,7 +258,7 @@ Một nguyên tắc quan trọng của Veyloria:
 
 Game có hai lớp.
 
-### 4.1. Gameplay
+### 5.1. Gameplay
 
 Người chơi phải hiểu rõ:
 
@@ -137,7 +270,7 @@ Người chơi phải hiểu rõ:
 
 Không nên để người chơi bị mất phương hướng chỉ vì muốn giữ mystery.
 
-### 4.2. Story / Lore
+### 5.2. Story / Lore
 
 Phần câu chuyện phía sau có thể để mở.
 
@@ -154,7 +287,7 @@ Những chi tiết này không nhất thiết phải được giải thích ngay
 
 Một chi tiết nhỏ ở session này có thể trở thành thông tin quan trọng ở session khác.
 
-### 4.3. Trải nghiệm mong muốn
+### 5.3. Trải nghiệm mong muốn
 
 Người chơi nên có cảm giác:
 
@@ -168,7 +301,7 @@ Người chơi nên có cảm giác:
 
 ---
 
-## 5. Session Design
+## 6. Session Design
 
 Mỗi mini-map là một trải nghiệm ngắn, độc lập.
 
@@ -178,7 +311,7 @@ Mỗi mini-map là một trải nghiệm ngắn, độc lập.
 
 Không nên thiết kế progression quá dài hoặc bắt người chơi backtracking nhiều chỉ để hoàn thành một mini-map.
 
-### 5.1. Cấu trúc cơ bản
+### 6.1. Cấu trúc cơ bản
 
 **Khám phá → Phát hiện vấn đề → Tìm cách xử lý → Thế giới thay đổi → Hoàn thành session**
 
@@ -204,7 +337,7 @@ Người chơi đi qua.
 
 Session kết thúc.
 
-### 5.2. Không nhồi quá nhiều thứ
+### 6.2. Không nhồi quá nhiều thứ
 
 Một mini-map 10–15 phút không cần có:
 
@@ -219,7 +352,7 @@ Trọng tâm là **một vấn đề + một thay đổi của thế giới**.
 
 ---
 
-## 6. Pet as Natural Hint
+## 7. Pet as Natural Hint
 
 Pet không chỉ là nhân vật companion đi theo cho dễ thương.
 
@@ -227,7 +360,7 @@ Pet là **một phần của gameplay**.
 
 Pet có thể trở thành hệ thống hint tự nhiên mà không cần UI.
 
-### 6.1. Các phản ứng có thể có
+### 7.1. Các phản ứng có thể có
 
 Pet có thể:
 
@@ -239,7 +372,7 @@ Pet có thể:
 - quay lại khu vực mà người chơi vừa bỏ qua;
 - đứng chờ tại một vị trí.
 
-### 6.2. Không biến thành quest marker
+### 7.2. Không biến thành quest marker
 
 Không nên làm:
 
@@ -257,7 +390,7 @@ Người chơi tự diễn giải:
 
 và tự khám phá.
 
-### 6.3. Ví dụ
+### 7.3. Ví dụ
 
 Nhân vật đang đi qua một cây cầu.
 
@@ -278,7 +411,7 @@ Pet trở thành một phần của **ngôn ngữ gameplay**.
 
 ---
 
-## 7. Mini-map Example – The Bridge
+## 8. Mini-map Example – The Bridge
 
 ### Goal
 
@@ -286,7 +419,7 @@ Pet trở thành một phần của **ngôn ngữ gameplay**.
 
 Đây là ví dụ đại diện cho nguyên tắc gameplay rõ ràng nhưng story mở.
 
-### 7.1. Bắt đầu
+### 8.1. Bắt đầu
 
 Người chơi bước vào khu vực.
 
@@ -298,7 +431,7 @@ Mục tiêu gameplay rất rõ:
 
 > Muốn đi tiếp thì phải xử lý cây cầu.
 
-### 7.2. Khám phá
+### 8.2. Khám phá
 
 Trong quá trình tìm cách xử lý, người chơi có thể gặp một số chi tiết bất thường:
 
@@ -310,7 +443,7 @@ Trong quá trình tìm cách xử lý, người chơi có thể gặp một số
 
 Không cần giải thích những thứ này ngay.
 
-### 7.3. Main Action
+### 8.3. Main Action
 
 Người chơi tìm được cách xử lý vấn đề chính của cây cầu.
 
@@ -318,7 +451,7 @@ Một hành động được thực hiện.
 
 Trạng thái cây cầu thay đổi.
 
-### 7.4. Kết thúc
+### 8.4. Kết thúc
 
 Người chơi có thể đi qua.
 
@@ -334,13 +467,13 @@ Nhưng chưa nhất thiết hiểu:
 
 Đó là phần story được giữ lại.
 
-### 7.5. Nguyên tắc
+### 8.5. Nguyên tắc
 
 > **Player hiểu mình phải làm gì trong session, nhưng không nhất thiết hiểu ngay ý nghĩa của mọi thứ mình nhìn thấy.**
 
 ---
 
-## 8. Long-term Player Experience
+## 9. Long-term Player Experience
 
 Veyloria không nên đi theo công thức đơn giản:
 
@@ -363,7 +496,7 @@ Người chơi dần nhận ra rằng:
 
 ---
 
-## 9. The Core Question
+## 10. The Core Question
 
 Ban đầu người chơi muốn biết:
 
@@ -389,23 +522,23 @@ mà trở thành:
 
 ---
 
-## 10. Design Principles
+## 11. Design Principles
 
-### 10.1. Gameplay clean — Story open-ended
+### 11.1. Gameplay clean — Story open-ended
 
 Gameplay phải rõ ràng.
 
 Lore có thể để người chơi tự ghép nối.
 
-### 10.2. Mỗi session có một vấn đề
+### 11.2. Mỗi session có một vấn đề
 
 Một mini-map 10–15 phút nên có một vấn đề mà người chơi có thể nhận biết tương đối nhanh.
 
-### 10.3. Một hành động chính
+### 11.3. Một hành động chính
 
 Mỗi session nên có một hành động trung tâm tạo ra sự thay đổi.
 
-### 10.4. Thế giới phải phản hồi
+### 11.4. Thế giới phải phản hồi
 
 Sau hành động chính, người chơi phải nhìn thấy một thay đổi thực sự trong thế giới.
 
@@ -417,7 +550,23 @@ Mà phải có:
 
 > **World State Changed.**
 
-### 10.5. Không lạm dụng "memory"
+### 11.5. Thế giới phải nhớ hành động
+
+Thay đổi của session không nên luôn kết thúc cùng session.
+
+Một hành động có thể để lại hậu quả ở session sau thông qua NPC, map, object, pet hoặc các trạng thái khác của thế giới.
+
+### 11.6. Memory Conflict phải tạo câu hỏi mới
+
+Khi thế giới phản hồi khác với ký ức của người chơi, mục tiêu không phải lập tức giải thích ai đúng.
+
+Điều quan trọng là tạo ra cảm giác:
+
+> **"Ủa? Mình nhớ là mình đã làm khác mà?"**
+
+Mâu thuẫn này có thể trở thành động lực để người chơi tiếp tục khám phá.
+
+### 11.7. Không lạm dụng "memory"
 
 Memory không nên trở thành từ khóa xuất hiện liên tục.
 
@@ -431,13 +580,13 @@ Không phải session nào cũng cần:
 
 Người chơi nên **cảm nhận memory thông qua world state**.
 
-### 10.6. Chi tiết nhỏ có thể có giá trị lớn
+### 11.8. Chi tiết nhỏ có thể có giá trị lớn
 
 Một vật thể, dấu vết hoặc phản ứng của pet có thể chưa có ý nghĩa ngay.
 
 Nhưng khi người chơi gặp một tình huống khác, nó có thể trở thành mảnh ghép quan trọng.
 
-### 10.7. Không giải thích mọi thứ ngay
+### 11.9. Không giải thích mọi thứ ngay
 
 Không phải mọi câu hỏi đều cần câu trả lời trong cùng session.
 
@@ -449,7 +598,7 @@ trước khi tạo cảm giác:
 
 > **"Đây là câu trả lời."**
 
-### 10.8. Người chơi được quyền diễn giải
+### 11.10. Người chơi được quyền diễn giải
 
 Mục tiêu không phải ép người chơi hiểu lore theo một đáp án duy nhất ngay từ đầu.
 
@@ -457,7 +606,7 @@ Các chi tiết nên đủ rõ để người chơi có thể hình thành giả
 
 ---
 
-## 11. Design North Star
+## 12. Design North Star
 
 Có thể cô đọng định hướng hiện tại thành:
 
@@ -470,3 +619,11 @@ Có thể cô đọng định hướng hiện tại thành:
 Và:
 
 > **Ký ức là core mechanic phía sau; người chơi không nhất thiết phải liên tục được nhắc rằng họ đang "chơi một game về ký ức".**
+
+Signature mechanic của Veyloria có thể được cô đọng thành:
+
+> **The world remembers what the player did — but not necessarily in the way the player remembers it.**
+
+Vòng lặp dài hạn:
+
+**Player Action → World Remembers → Memory Conflict → Player Curiosity → Next Session**
