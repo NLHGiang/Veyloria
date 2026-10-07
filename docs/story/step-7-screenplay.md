@@ -5698,3 +5698,1230 @@ Then:
 
 A single footstep is heard after the screen has already gone completely black.
 
+
+
+# ACT VI — THE TRUTH
+
+> **ACT THEME:** Truth is not the memory that wins. It is what remains when every memory is questioned.
+>
+> **CENTRAL CONFLICT:** The protagonist discovers that the Memory Conflict is not simply the result of forgotten history. Veyloria itself has been preserving contradictory versions of the same reality.
+>
+> **ACT QUESTION:** If there is no single memory that can restore the past, what does it mean to know the truth?
+
+---
+
+## SCENE 06-01 — THE ROAD BACK
+
+### SCENE HEADING
+
+**EXT. FOREST ROAD — MORNING**
+
+The same road from the end of Act V.
+
+Morning mist is lifting.
+
+The protagonist and V01 walk side by side.
+
+No dialogue.
+
+The world feels ordinary.
+
+Birds.
+
+Wind.
+
+Distant water.
+
+A farmer works in a field.
+
+A cart passes.
+
+Nothing announces that anything has changed.
+
+Then V01 stops.
+
+The protagonist takes several more steps before noticing.
+
+They turn.
+
+V01 is looking at the road behind them.
+
+The protagonist walks back.
+
+There are old wheel marks in the dirt.
+
+Several sets.
+
+Some are recent.
+
+Some are almost gone.
+
+One set runs directly beneath the protagonist's feet.
+
+The protagonist kneels.
+
+Touches the ground.
+
+Nothing happens.
+
+**PROTAGONIST**
+
+I've been here.
+
+V01 looks at them.
+
+V01 turns toward the trees.
+
+It starts walking.
+
+The protagonist follows.
+
+---
+
+## SCENE 06-02 — THE PLACE THAT REMEMBERS
+
+### SCENE HEADING
+
+**EXT. FOREST CLEARING — DAY**
+
+The trees open into a clearing.
+
+At its center stands an old stone marker.
+
+No name.
+
+No symbol.
+
+Just a vertical slab.
+
+The protagonist approaches.
+
+There are several layers of carving on its surface.
+
+Some are deep.
+
+Some are almost worn away.
+
+Some appear to have been carved over older markings.
+
+The protagonist runs a hand across them.
+
+### MEMORY FRAGMENT
+
+The clearing.
+
+Years earlier.
+
+The same stone.
+
+Different people.
+
+A group stands around it.
+
+Someone is carving a name.
+
+Another person interrupts.
+
+**VOICE (MEMORY)**
+
+That's not what happened.
+
+The carving stops.
+
+Another name is added.
+
+Then crossed out.
+
+Then another.
+
+The image breaks apart.
+
+### BACK TO SCENE
+
+The protagonist pulls their hand away.
+
+**PROTAGONIST**
+
+This isn't my memory.
+
+V01 looks at the stone.
+
+**PROTAGONIST**
+
+But I saw it.
+
+V01 touches the stone.
+
+The stone gives a faint sound.
+
+**KNOCK.**
+
+The ground beneath them responds.
+
+A low vibration.
+
+A narrow seam appears in the earth.
+
+A door.
+
+---
+
+## SCENE 06-03 — BELOW THE STONE
+
+### SCENE HEADING
+
+**INT. UNDERGROUND CHAMBER — DAY**
+
+The door opens into darkness.
+
+The protagonist descends.
+
+V01 follows.
+
+The chamber below is older than the Archive.
+
+The walls are made of rough stone.
+
+No polished surfaces.
+
+No organized shelves.
+
+Only thousands of small marks.
+
+Names.
+
+Dates.
+
+Events.
+
+Some are repeated.
+
+Some contradict each other.
+
+The protagonist moves along the wall.
+
+One inscription reads:
+
+> **THE BRIDGE STOOD.**
+
+A few steps later:
+
+> **THE BRIDGE NEVER STOOD.**
+
+Another:
+
+> **THE FIRE BEGAN AT NIGHT.**
+
+Then:
+
+> **THE FIRE BEGAN AT DAWN.**
+
+The protagonist stops.
+
+**PROTAGONIST**
+
+Someone recorded all of this.
+
+V01 looks down another passage.
+
+They continue.
+
+---
+
+## SCENE 06-04 — THE FIRST RECORD
+
+### SCENE HEADING
+
+**INT. UNDERGROUND CHAMBER — ARCHIVE OF RECORDS**
+
+At the end of the passage is a circular room.
+
+Unlike the Memory Archive, there are no glowing memories.
+
+Only physical records.
+
+Clay tablets.
+
+Wooden boards.
+
+Stone fragments.
+
+Pieces of cloth.
+
+Broken objects.
+
+Each one has been preserved.
+
+An OLD FIGURE stands beside the wall.
+
+Older than the people in the settlement.
+
+Not supernatural.
+
+Simply someone who has spent too long preserving things nobody else wanted to keep.
+
+**FIGURE**
+
+Not records.
+
+The protagonist turns.
+
+**FIGURE**
+
+Witnesses.
+
+**PROTAGONIST**
+
+Who are you?
+
+**FIGURE**
+
+Someone who stopped asking which version was true.
+
+The protagonist looks at the records.
+
+**PROTAGONIST**
+
+Then what did you do?
+
+The Figure gestures toward the room.
+
+**FIGURE**
+
+Kept all of them.
+
+A beat.
+
+**PROTAGONIST**
+
+Why?
+
+**FIGURE**
+
+Because the first mistake was believing that remembering and knowing were the same thing.
+
+---
+
+## SCENE 06-05 — THE SAME DAY
+
+### SCENE HEADING
+
+**INT. UNDERGROUND CHAMBER — RECORD ROOM**
+
+The Figure places three objects on a stone table.
+
+A burned piece of wood.
+
+A child's toy.
+
+A broken metal clasp.
+
+**FIGURE**
+
+These came from the settlement.
+
+The protagonist looks at them.
+
+**FIGURE**
+
+Three people described the same day.
+
+The Figure places the objects apart.
+
+**FIGURE**
+
+One remembered the fire.
+
+**FIGURE**
+
+One remembered the rescue.
+
+**FIGURE**
+
+One remembered the person who caused it.
+
+The protagonist looks at the three objects.
+
+**PROTAGONIST**
+
+And all three were true?
+
+The Figure looks at them.
+
+**FIGURE**
+
+Not completely.
+
+A beat.
+
+**PROTAGONIST**
+
+So which one is the truth?
+
+The Figure places the three objects together.
+
+Burned wood.
+
+Toy.
+
+Clasp.
+
+Together they reveal a symbol none of them showed alone.
+
+The same symbol is carved into the protagonist's metal object.
+
+The protagonist's expression changes.
+
+---
+
+## SCENE 06-06 — WHAT THE OBJECT REALLY DOES
+
+### SCENE HEADING
+
+**INT. UNDERGROUND CHAMBER — CONTINUOUS**
+
+The protagonist takes out the metal object.
+
+The Figure immediately steps back.
+
+**FIGURE**
+
+Don't use it.
+
+**PROTAGONIST**
+
+I'm not.
+
+The protagonist places it on the table.
+
+Nothing happens.
+
+**PROTAGONIST**
+
+Then what is it?
+
+The Figure studies it.
+
+**FIGURE**
+
+A separator.
+
+**PROTAGONIST**
+
+Separator of what?
+
+**FIGURE**
+
+Event from memory.
+
+The protagonist looks at V01.
+
+**FIGURE**
+
+When an event becomes too dangerous to hold as one memory, the object can separate the event from the stories people build around it.
+
+**PROTAGONIST**
+
+That's what happened to the settlement.
+
+**FIGURE**
+
+Partly.
+
+A beat.
+
+**PROTAGONIST**
+
+Partly?
+
+The Figure nods.
+
+**FIGURE**
+
+You used it three times.
+
+The protagonist looks at the three marks.
+
+**FIGURE**
+
+But you didn't create the conflict.
+
+**PROTAGONIST**
+
+Then what did?
+
+The Figure looks toward the ceiling.
+
+**FIGURE**
+
+Veyloria was already remembering differently.
+
+---
+
+## SCENE 06-07 — BEFORE THE PROTAGONIST
+
+### SCENE HEADING
+
+**INT. UNDERGROUND CHAMBER — RECORD ROOM**
+
+The Figure walks to the oldest wall.
+
+The markings here are almost invisible.
+
+They illuminate one by one as V01 approaches.
+
+The first image appears.
+
+A village.
+
+Different village.
+
+Different people.
+
+Same contradiction.
+
+Another image.
+
+A bridge.
+
+Different versions.
+
+Another.
+
+A woman remembered as a hero by one settlement and a traitor by another.
+
+Another.
+
+A child who remembers a house that no longer exists.
+
+The protagonist looks at V01.
+
+**PROTAGONIST**
+
+How long?
+
+**FIGURE**
+
+Long before you.
+
+The protagonist looks back at the wall.
+
+**PROTAGONIST**
+
+Then why me?
+
+The Figure is silent.
+
+The protagonist waits.
+
+**PROTAGONIST**
+
+Why was I involved?
+
+**FIGURE**
+
+Because you tried to fix it.
+
+---
+
+## SCENE 06-08 — THE REAL MISTAKE
+
+### SCENE HEADING
+
+**INT. UNDERGROUND CHAMBER — MEMORY TABLE**
+
+The room changes.
+
+Not into a memory.
+
+Into a reconstruction.
+
+The settlement appears above the table.
+
+The protagonist sees themselves.
+
+Not one version.
+
+Several.
+
+One tries to save people.
+
+One starts the fire.
+
+One carries the metal object.
+
+One returns to the Archive.
+
+They are not separate realities.
+
+They are fragments of the same sequence.
+
+The protagonist watches.
+
+**PROTAGONIST**
+
+I thought these were different memories.
+
+**FIGURE**
+
+They are.
+
+**PROTAGONIST**
+
+But they're all the same event.
+
+**FIGURE**
+
+Yes.
+
+The fragments overlap.
+
+The fire.
+
+The rescue.
+
+The object.
+
+The evacuation.
+
+The damage.
+
+The forgetting.
+
+All connected.
+
+**PROTAGONIST**
+
+Why couldn't I see it?
+
+The Figure looks at them.
+
+**FIGURE**
+
+Because you wanted one answer.
+
+A beat.
+
+**FIGURE**
+
+You wanted one version of yourself.
+
+The protagonist says nothing.
+
+---
+
+## SCENE 06-09 — THE TRUTH
+
+### SCENE HEADING
+
+**INT. UNDERGROUND CHAMBER — CONTINUOUS**
+
+The reconstruction reaches its final moment.
+
+The protagonist sees what happened.
+
+The metal object was activated.
+
+Not to erase the settlement.
+
+Not to rewrite history.
+
+It separated the event into incompatible memories because the protagonist believed a single remembered truth would cause the same disaster to happen again.
+
+But the attempt had consequences.
+
+People lost pieces of what they shared.
+
+Some remembered the protagonist as a savior.
+
+Some remembered them as the destroyer.
+
+Some forgot the protagonist entirely.
+
+The protagonist watches themselves make the choice.
+
+Then erase their own memory.
+
+**PROTAGONIST**
+
+I did this.
+
+The Figure does not correct them.
+
+**PROTAGONIST**
+
+Not all of it.
+
+A beat.
+
+**PROTAGONIST**
+
+But this part.
+
+The Figure nods.
+
+**PROTAGONIST**
+
+I thought if nobody could remember the same thing...
+
+They look at the fragmented reconstruction.
+
+**PROTAGONIST**
+
+...then it couldn't happen again.
+
+**FIGURE**
+
+You were trying to protect the future.
+
+A beat.
+
+**FIGURE**
+
+You forgot that people need a shared past to build one.
+
+Silence.
+
+That is the truth.
+
+Not that the protagonist was secretly innocent.
+
+Not that they were secretly evil.
+
+They made a choice.
+
+They believed it would prevent something worse.
+
+It failed.
+
+And the world continued living with the consequences.
+
+---
+
+## SCENE 06-10 — V01'S MEMORY
+
+### SCENE HEADING
+
+**INT. UNDERGROUND CHAMBER — CONTINUOUS**
+
+The protagonist turns toward V01.
+
+**PROTAGONIST**
+
+You knew.
+
+V01 remains still.
+
+**PROTAGONIST**
+
+You remembered all of it.
+
+V01 approaches the reconstruction.
+
+It touches the image of the protagonist before the memory erasure.
+
+The scene changes.
+
+### MEMORY
+
+Three days before the beginning of the story.
+
+The protagonist kneels beside V01.
+
+They are exhausted.
+
+**PAST PROTAGONIST**
+
+If I remember everything, I'll undo it.
+
+V01 looks at them.
+
+**PAST PROTAGONIST**
+
+I'll try to fix it again.
+
+A beat.
+
+**PAST PROTAGONIST**
+
+And I'll make it worse.
+
+The protagonist places the metal object in V01's paws.
+
+**PAST PROTAGONIST**
+
+So if I forget...
+
+A breath.
+
+**PAST PROTAGONIST**
+
+...don't let me fix the past.
+
+V01 looks at them.
+
+**PAST PROTAGONIST**
+
+Let me live with it.
+
+### BACK TO SCENE
+
+The protagonist closes their eyes.
+
+Everything falls into place.
+
+The reason V01 refused to answer.
+
+The reason the Archive kept opening.
+
+The reason the protagonist kept finding contradictions.
+
+The reason they returned.
+
+**PROTAGONIST**
+
+You weren't protecting my memories.
+
+V01 looks up.
+
+**PROTAGONIST**
+
+You were protecting my choice.
+
+---
+
+## SCENE 06-11 — THE TRUTH IS NOT A WEAPON
+
+### SCENE HEADING
+
+**INT. UNDERGROUND CHAMBER — LATER**
+
+The Figure places the metal object back on the stone table.
+
+**FIGURE**
+
+Now you know.
+
+The protagonist looks at it.
+
+**PROTAGONIST**
+
+Can I undo it?
+
+The Figure pauses.
+
+**FIGURE**
+
+Yes.
+
+A beat.
+
+**PROTAGONIST**
+
+And no?
+
+The Figure nods.
+
+**FIGURE**
+
+You can restore the memories.
+
+**FIGURE**
+
+You cannot restore the people who lived without them.
+
+**FIGURE**
+
+You can make the world remember one version.
+
+**FIGURE**
+
+You cannot make that version become true.
+
+The protagonist understands.
+
+Truth cannot be manufactured by consensus.
+
+---
+
+## SCENE 06-12 — THE LAST CONTRADICTION
+
+### SCENE HEADING
+
+**INT. UNDERGROUND CHAMBER — RECORD ROOM**
+
+The protagonist walks alone among the records.
+
+They stop at the oldest inscription.
+
+It has two versions.
+
+The protagonist reads both.
+
+> **WE REMEMBERED.**
+
+Then:
+
+> **WE FORGOT.**
+
+They look at V01.
+
+**PROTAGONIST**
+
+Which one came first?
+
+V01 does not answer.
+
+The Figure speaks from behind.
+
+**FIGURE**
+
+Both.
+
+A beat.
+
+**FIGURE**
+
+That's Veyloria.
+
+The protagonist turns.
+
+**FIGURE**
+
+It remembers that it forgot.
+
+---
+
+## SCENE 06-13 — WHAT TRUTH COSTS
+
+### SCENE HEADING
+
+**EXT. SETTLEMENT — NIGHT**
+
+The protagonist returns to the settlement.
+
+People are still rebuilding.
+
+The protagonist watches them.
+
+The Old Woman approaches.
+
+**OLD WOMAN**
+
+Did you find your answer?
+
+**PROTAGONIST**
+
+Yes.
+
+**OLD WOMAN**
+
+Was it enough?
+
+The protagonist looks at the houses.
+
+At the graves.
+
+At the people.
+
+**PROTAGONIST**
+
+No.
+
+A beat.
+
+**PROTAGONIST**
+
+But it's true.
+
+**OLD WOMAN**
+
+Then what will you do with it?
+
+**PROTAGONIST**
+
+Tell them.
+
+**OLD WOMAN**
+
+All of it?
+
+**PROTAGONIST**
+
+Enough that they can choose what to remember.
+
+**OLD WOMAN**
+
+And if they choose to remember you as the villain?
+
+**PROTAGONIST**
+
+They can.
+
+---
+
+## SCENE 06-14 — THE SHARED MEMORY
+
+### SCENE HEADING
+
+**EXT. SETTLEMENT — COURTYARD — MORNING**
+
+The community gathers.
+
+No ceremony.
+
+No throne.
+
+The protagonist places three objects on a table.
+
+Burned wood.
+
+Child's toy.
+
+Broken clasp.
+
+People recognize them.
+
+Some react emotionally.
+
+Some look confused.
+
+Some disagree immediately.
+
+**MAN**
+
+That's not what happened.
+
+Another person answers.
+
+**WOMAN**
+
+It is.
+
+Voices rise.
+
+The protagonist does not interrupt.
+
+They let the disagreement exist.
+
+Then they speak.
+
+**PROTAGONIST**
+
+You're both remembering something real.
+
+Silence.
+
+The protagonist tells them what they found.
+
+Not as a final authority.
+
+As evidence.
+
+The fire.
+
+The rescue.
+
+The choice.
+
+The forgetting.
+
+The consequences.
+
+Some people reject parts of it.
+
+Some accept them.
+
+Some begin crying.
+
+The protagonist does not ask them to forgive.
+
+Only to remember together.
+
+---
+
+## SCENE 06-15 — THE CHOICE
+
+### SCENE HEADING
+
+**EXT. SETTLEMENT — COURTYARD — LATER**
+
+The three objects remain on the table.
+
+The metal object sits beside them.
+
+The protagonist picks it up.
+
+V01 watches.
+
+**PROTAGONIST**
+
+If I destroy this...
+
+A beat.
+
+**PROTAGONIST**
+
+...we lose the ability to separate memories.
+
+The Figure stands nearby.
+
+**FIGURE**
+
+Yes.
+
+**PROTAGONIST**
+
+If I keep it...
+
+**FIGURE**
+
+Someone will eventually use it again.
+
+The protagonist looks at V01.
+
+Then at the people.
+
+Then at the object.
+
+They place it back on the table.
+
+**PROTAGONIST**
+
+Then neither.
+
+The protagonist leaves it there.
+
+Not destroyed.
+
+Not hidden.
+
+Visible.
+
+A thing that can be understood before it is used.
+
+---
+
+## SCENE 06-16 — WHAT VEYLORIA REMEMBERS
+
+### SCENE HEADING
+
+**EXT. SETTLEMENT — SUNSET**
+
+The settlement is quieter.
+
+People move through the streets.
+
+The child from Act V approaches the protagonist.
+
+**CHILD**
+
+Are you leaving again?
+
+The protagonist looks toward the road.
+
+**PROTAGONIST**
+
+Yes.
+
+**CHILD**
+
+Why?
+
+The protagonist looks at V01.
+
+**PROTAGONIST**
+
+Because there are other places that remember differently.
+
+The child thinks.
+
+**CHILD**
+
+Are you going to fix them?
+
+The protagonist smiles faintly.
+
+**PROTAGONIST**
+
+No.
+
+A beat.
+
+**PROTAGONIST**
+
+I'm going to listen.
+
+The child nods.
+
+The protagonist and V01 walk toward the road.
+
+Behind them, the settlement continues.
+
+Not healed.
+
+Not rewritten.
+
+Remembering.
+
+---
+
+# ACT VI REVEAL
+
+Act VI does not introduce a hidden identity twist.
+
+The central truth is the nature of the Memory Conflict itself:
+
+- Veyloria had contradictory memories **before** the protagonist's final actions.
+- The protagonist did not create the phenomenon.
+- They tried to contain it.
+- The metal object can separate an event from the memories built around it.
+- The protagonist used it three times.
+- Each use reduced the possibility of a shared memory and created further fragmentation.
+- The protagonist then erased their own memory because they knew remembering everything might tempt them to repeat the same mistake.
+- V01 knew the truth but was instructed not to reveal it.
+- The Archive preserves contradictions rather than selecting a canonical version.
+- The truth is not one person's memory.
+- The truth is the underlying sequence that can be reconstructed when conflicting memories, objects, locations and consequences are considered together.
+
+### ACT VI CORE LINE
+
+> **“It remembers that it forgot.”**
+
+### THEMATIC RESOLUTION
+
+**Memory:**  
+We do not remember the same past.
+
+**Identity:**  
+The past explains who we became, but does not dictate who we must be.
+
+**Consequence:**  
+A good intention does not erase the damage caused by a choice.
+
+**Truth:**  
+Truth survives contradiction, but it cannot undo its consequences.
+
+### TRANSITION TO ACT VII
+
+The protagonist has finally answered:
+
+> **What happened?**
+
+But the answer creates a larger problem.
+
+They now know that Veyloria's memories are fragmented.
+
+They know why.
+
+They know their own role.
+
+And they know that restoring a single version of the past would itself be another act of control.
+
+The next question is no longer:
+
+> **What is the truth?**
+
+It is:
+
+> **Who gets to decide what the world remembers?**
