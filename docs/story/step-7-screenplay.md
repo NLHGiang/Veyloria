@@ -2,10 +2,10 @@
 
 # VEYLORIA — THE WORLD REMEMBERS
 
-> **Status:** Working screenplay — Step 7  
-> **Scope of this commit:** Prologue + Act I + Act II  
-> **Pipeline position:** Step 7 — Long-form screenplay  
-> **Important:** Chưa chuyển sang gameplay adaptation. Step 8 chỉ bắt đầu sau khi screenplay/story direction được tiếp tục hoàn thiện và chốt.
+> **Status:** Working screenplay — Step 7
+> **Scope:** Detailed Production Screenplay — Prologue through Act III
+> **Pipeline position:** Step 7 — Long-form screenplay
+> **Important:** Chưa chuyển sang gameplay adaptation. Step 8 chỉ bắt đầu sau khi screenplay/story direction được hoàn thiện và chốt.
 
 ---
 
@@ -13,7 +13,7 @@
 
 - **Title:** VEYLORIA — THE WORLD REMEMBERS
 - **World Principle:** The World Remembers
-- **Premise:** Protagonist awakens with incomplete/absent memories while the world remembers them. Different people remember contradictory versions of the protagonist and past events.
+- **Premise:** The protagonist awakens with incomplete/absent memories while the world remembers them. Different people remember contradictory versions of the protagonist and past events.
 - **Themes:** Memory vs Truth · Identity · Consequence · Letting Go
 - **Core Fantasy:** Entering a world that remembers what you have forgotten.
 - **Story Principle:** Memory ≠ Truth.
@@ -28,7 +28,11 @@ The story must not collapse into a simple “recover your lost memories” plot.
 
 ## P00-01 — BLACK
 
+### SCENE HEADING
+
 **INT./BLACK — TIMELESS**
+
+### OPENING IMAGE
 
 No image.
 
@@ -48,346 +52,546 @@ The protagonist inhales sharply.
 
 Silence.
 
+The sound of breathing is close enough to feel physical, but there is no visible body.
+
 A voice comes from somewhere impossible to locate.
 
-**VOICE (O.S.)**  
+### DIALOGUE
+
+**VOICE (O.S.)**
 You came back.
 
-A beat.
+A long beat.
 
-**VOICE (O.S.)**  
+The footsteps stop.
+
+**VOICE (O.S.)**
 ...didn't you?
 
-No explanation.
+The protagonist tries to answer.
 
-No name.
+Nothing comes.
 
-No indication of who is speaking.
+Not because they are afraid.
+
+Because they do not know whether the voice is speaking to them.
 
 A faint white light begins to appear.
+
+It grows slowly.
+
+Not like sunrise.
+
+Like a memory trying to become visible.
+
+### EMOTIONAL BEAT
+
+The scene should create one immediate contradiction:
+
+The protagonist has just awakened, yet someone is already treating their arrival as a **return**.
 
 ### TRANSITION
 
 The black becomes morning light.
 
+CUT TO:
+
 ---
 
 ## P00-02 — THE FIELD
 
+### SCENE HEADING
+
 **EXT. UNKNOWN FIELD — DAWN**
+
+### OPENING IMAGE
+
+Tall grass moves beneath a pale sky.
+
+Morning mist lies low over the field.
+
+The protagonist is lying alone in the grass.
+
+No weapon.
+
+No bag.
+
+No visible wound.
+
+No object bearing a name.
+
+Nothing around them suggests how they arrived.
+
+### ACTION / BLOCKING
 
 The protagonist opens their eyes.
 
-Tall grass moves in the wind.
+They remain still for several seconds.
 
-The sky is pale.
+Their breathing is shallow.
 
-There is no obvious sign of danger.
+They raise one hand into the light.
 
-The protagonist slowly sits up.
+Turn it over.
 
-Checks their hands.
+Look at the palm.
 
-Their clothes.
+Nothing.
 
-Their pockets.
+They touch their face.
 
-Nothing useful.
+Then their clothes.
 
-No belongings that establish identity.
+They check their pockets.
 
-No obvious injury.
+Empty.
 
-The protagonist looks around.
+They sit up.
 
-**PROTAGONIST**  
+Look left.
+
+Look right.
+
+The horizon is unfamiliar.
+
+### DIALOGUE
+
+**PROTAGONIST**
 Where?
 
 Silence.
 
-They stand.
+They swallow.
 
-**PROTAGONIST**  
+Stand.
+
+**PROTAGONIST**
 Where am I?
 
-A small movement in the grass.
+A movement in the grass.
 
-V01 is already there.
+The protagonist turns sharply.
+
+V01 is standing several meters away.
 
 Watching.
 
-Not afraid.
+Not frightened.
 
-The protagonist notices the creature.
+Not threatening.
 
-**PROTAGONIST**  
+Simply waiting.
+
+The protagonist lowers their shoulders slightly.
+
+**PROTAGONIST**
 Hey.
 
-V01 watches.
+V01 tilts its head.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 Are you lost?
 
 V01 turns and starts walking.
 
-Stops.
+After several steps, it stops.
 
 Looks back.
 
-The protagonist doesn't move.
+The protagonist remains where they are.
 
 V01 waits.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 Yeah.
 
 A beat.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 Me too.
-
-V01 continues.
 
 The protagonist follows.
 
-After several steps:
+### WALKING BEAT
 
-**PROTAGONIST**  
+For a while there is no dialogue.
+
+The protagonist watches V01's movements.
+
+There is an odd familiarity in the way the creature moves.
+
+The protagonist tries to place it.
+
+Fails.
+
+**PROTAGONIST**
 Do I know you?
 
-V01 doesn't answer.
+V01 does not answer.
 
-In the distance—
+Ahead, beyond the field, something becomes visible through the mist:
+
+A settlement.
+
+Then—
 
 A BELL.
 
 The protagonist stops.
 
-Something in the sound catches them.
+Their body reacts before their mind does.
 
-Not recognition exactly.
+Their eyes close for half a second.
 
-A bodily reaction.
+A tiny involuntary flinch.
 
-They look toward the settlement beyond the field.
+Not recognition.
+
+Something deeper.
+
+### VISUAL STORYTELLING
+
+The bell continues across the landscape.
+
+People are too distant to identify.
+
+Smoke rises from chimneys.
+
+Birds move above the rooftops.
+
+The world feels ordinary.
+
+That normality is important.
+
+Nothing announces that the protagonist has entered a fantasy world.
+
+The world simply continues as though it already knows them.
 
 V01 keeps walking.
 
-The protagonist follows.
+The protagonist looks toward the settlement.
 
-### REVEAL
+Then follows.
 
-Veyloria is introduced as a living world rather than an exposition-heavy fantasy setting.
+### TRANSITION
 
-V01 knows where to go but does not explain why.
+The camera remains behind them as they move through the grass.
+
+The bell sounds again.
+
+MATCH CUT TO:
 
 ---
 
 ## P00-03 — THE SETTLEMENT GATE
 
+### SCENE HEADING
+
 **EXT. SETTLEMENT GATE — MORNING**
 
-MATCH CUT:
+### OPENING IMAGE
 
-The distant bell becomes a hand pulling a bell rope.
+A hand pulls a bell rope.
 
-The settlement is ordinary.
+The bell swings above the settlement gate.
+
+MATCH CUT from the sound in the field.
+
+The settlement is alive.
 
 People work.
 
-Children move through the street.
+A vendor arranges food.
+
+A child runs between houses.
 
 Smoke rises from cooking fires.
 
-Then the protagonist approaches.
+A woman carries water.
 
-A guard sees them.
+Nothing is unusual.
 
-Freezes.
+Until the protagonist enters the frame.
 
-**GUARD**  
+### ACTION / BLOCKING
+
+The protagonist and V01 approach from the road.
+
+A GUARD sees them.
+
+His hand stops halfway toward the gate.
+
+His expression changes.
+
+He takes one step backward.
+
+### DIALOGUE
+
+**GUARD**
 ...No.
 
 The protagonist stops.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 What?
 
-The guard takes a step back.
+The guard does not answer.
 
-**GUARD**  
+He looks at V01.
+
+Then back at the protagonist.
+
+**GUARD**
 You can't be here.
 
-People begin noticing.
+People nearby begin noticing.
 
-A murmur moves through the crowd.
+A murmur spreads.
 
-**VOICE IN CROWD**  
+**VOICE IN CROWD**
 That's them.
 
-**ANOTHER VOICE**  
+**ANOTHER VOICE**
 Impossible.
 
-**ANOTHER VOICE**  
+**ANOTHER VOICE**
 Don't say that name.
 
 The protagonist looks from face to face.
 
-**PROTAGONIST**  
+Some people stare with anger.
+
+Some with fear.
+
+One woman looks as though she has seen a ghost.
+
+Another person quietly begins crying.
+
+A child watches.
+
+The child's mother immediately pulls them behind her.
+
+### EMOTIONAL BEAT
+
+The protagonist has no memory of these people.
+
+They are nevertheless reacting to the protagonist as though a shared history is standing directly in front of them.
+
+### DIALOGUE
+
+**PROTAGONIST**
 Do you know me?
 
-Nobody answers.
+Silence.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 Please.
 
-A woman turns away.
+The guard cannot answer.
 
-Someone else stares with anger.
+An OLD WOMAN steps out from the crowd.
 
-Another person looks as if they are about to cry.
+She is calm.
 
-A child watches with curiosity.
+Not because she is certain.
 
-The child's mother immediately pulls them away.
+Because she has already lived through whatever everyone else is afraid of.
 
-The protagonist is left standing in the middle of the street.
-
-An OLD WOMAN steps forward.
-
-**OLD WOMAN**  
+**OLD WOMAN**
 Let them in.
 
-The guard hesitates.
+The guard turns.
 
-The Old Woman looks directly at the protagonist.
+**GUARD**
+You know what happened.
 
-**OLD WOMAN**  
+**OLD WOMAN**
+I know.
+
+She looks directly at the protagonist.
+
+**OLD WOMAN**
 You came back.
 
 The protagonist's face tightens.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 Do I know you?
 
-**OLD WOMAN**  
+The Old Woman studies their face.
+
+**OLD WOMAN**
 Everyone here has already decided who you are.
 
 A beat.
 
-**OLD WOMAN (CONT'D)**  
+**OLD WOMAN**
 You're the only one who hasn't.
 
-She turns.
+She turns toward the settlement.
 
-**OLD WOMAN (CONT'D)**  
+**OLD WOMAN**
 Come.
 
-The protagonist follows.
+The protagonist does not move.
 
-V01 follows behind.
+V01 walks past them.
 
----
+The Old Woman watches V01.
 
-## P00-04 — THE WOMAN WHO REMEMBERS
+Then looks back at the protagonist.
 
-**EXT. SETTLEMENT GATE — CONTINUOUS**
+**OLD WOMAN**
+It remembers the way.
 
-The Old Woman notices V01.
-
-Her expression changes.
-
-Recognition.
-
-**OLD WOMAN**  
-You too.
-
-V01 remains silent.
-
-The protagonist looks between them.
-
-**PROTAGONIST**  
-You said that before.
-
-The Old Woman looks at them.
-
-**OLD WOMAN**  
-Who else said it?
-
-The protagonist doesn't answer.
-
-**OLD WOMAN**  
-What do you want me to call you?
-
-The protagonist hesitates.
-
-**PROTAGONIST**  
-I don't know.
-
-The Old Woman continues walking.
-
-**OLD WOMAN**  
-Your name isn't going to tell you who you are.
-
-The protagonist follows.
-
-**PROTAGONIST**  
-Then what will?
-
-The Old Woman looks at them.
-
-**OLD WOMAN**  
-What you did.
-
-A beat.
-
-**PROTAGONIST**  
-What was I like?
-
-The Old Woman considers.
-
-**OLD WOMAN**  
-Kind.
-
-Beat.
-
-**OLD WOMAN (CONT'D)**  
-Stubborn.
-
-Beat.
-
-**OLD WOMAN (CONT'D)**  
-Brave.
-
-Another beat.
-
-**OLD WOMAN (CONT'D)**  
-And sometimes cruel.
-
-The protagonist stops.
-
-**PROTAGONIST**  
-Which one?
-
-The Old Woman turns.
-
-**OLD WOMAN**  
-All of them.
-
-She looks at the protagonist for a long moment.
-
-**OLD WOMAN (CONT'D)**  
-It is if you were a person.
-
-The protagonist doesn't understand.
-
-The Old Woman continues into the settlement.
+That sentence lands strangely.
 
 The protagonist follows.
 
 ### TRANSITION
 
+The crowd parts reluctantly.
+
+As protagonist passes, whispers continue behind them.
+
+The gate closes.
+
+CUT TO:
+
+---
+
+## P00-04 — THE WOMAN WHO REMEMBERS
+
+### SCENE HEADING
+
+**EXT. SETTLEMENT STREET — CONTINUOUS**
+
+### ACTION / BLOCKING
+
+The Old Woman walks slowly.
+
+The protagonist follows.
+
+V01 remains between them and the crowd.
+
+The Old Woman glances down at V01.
+
+Her expression changes.
+
+Recognition.
+
+**OLD WOMAN**
+You too.
+
+V01 pauses.
+
+The protagonist notices.
+
+**PROTAGONIST**
+You said that before.
+
+The Old Woman looks at them.
+
+**OLD WOMAN**
+Who else said it?
+
+The protagonist hesitates.
+
+That question reveals she is testing something.
+
+**PROTAGONIST**
+I don't know.
+
+They continue.
+
+**OLD WOMAN**
+What do you want me to call you?
+
+**PROTAGONIST**
+I don't know.
+
+The Old Woman nods as though that answer confirms something.
+
+**OLD WOMAN**
+Your name isn't going to tell you who you are.
+
+**PROTAGONIST**
+Then what will?
+
+She stops.
+
+Turns.
+
+**OLD WOMAN**
+What you did.
+
+The protagonist absorbs that.
+
+**PROTAGONIST**
+What was I like?
+
+The Old Woman considers.
+
+**OLD WOMAN**
+Kind.
+
+Beat.
+
+**OLD WOMAN**
+Stubborn.
+
+Beat.
+
+**OLD WOMAN**
+Brave.
+
+Another beat.
+
+**OLD WOMAN**
+And sometimes cruel.
+
+The protagonist stops walking.
+
+**PROTAGONIST**
+Which one?
+
+The Old Woman turns fully toward them.
+
+**OLD WOMAN**
+All of them.
+
+A beat.
+
+**OLD WOMAN**
+It is if you were a person.
+
+The protagonist does not understand.
+
+**PROTAGONIST**
+What does that mean?
+
+The Old Woman resumes walking.
+
+**OLD WOMAN**
+You'll understand when you stop asking me to choose one memory for you.
+
+The protagonist follows.
+
+### REVEAL
+
+The story establishes its first rule without explaining it:
+
+A person is not preserved as one consistent memory.
+
+Different relationships preserve different versions.
+
+### TRANSITION
+
 The crowd closes behind them.
+
+The protagonist disappears into the settlement.
+
+CUT TO:
 
 ---
 
@@ -395,328 +599,434 @@ The crowd closes behind them.
 
 ## 01-01 — THE HOUSE OF MEMORIES
 
+### SCENE HEADING
+
 **INT. OLD WOMAN'S HOUSE — DAY**
+
+### OPENING IMAGE
 
 A small, ordinary home.
 
 Old furniture.
 
-A table.
+A wooden table.
 
-Shelves.
+Shelves filled with objects.
 
-Objects that have clearly been kept for years.
+Some are useful.
 
-Nothing magical.
+Some have clearly been kept for sentimental reasons.
+
+Nothing is magical.
+
+The room feels lived in.
+
+### ACTION / BLOCKING
 
 V01 enters first.
 
 It pauses beside an empty chair.
 
-The Old Woman notices.
+The protagonist notices.
 
-**OLD WOMAN**  
+The Old Woman notices the protagonist noticing.
+
+**OLD WOMAN**
 You used to sit there.
 
 The protagonist looks at the chair.
 
 Nothing.
 
-**PROTAGONIST**  
+They touch the backrest.
+
+Nothing.
+
+**PROTAGONIST**
 I don't remember.
 
-**OLD WOMAN**  
+**OLD WOMAN**
 You hated uncertainty.
 
 A beat.
 
-**OLD WOMAN (CONT'D)**  
+**OLD WOMAN**
 You still do.
 
 The protagonist sits opposite her.
 
-**PROTAGONIST**  
+### DIALOGUE
+
+**PROTAGONIST**
 What was I like?
 
-**OLD WOMAN**  
+**OLD WOMAN**
 You want me to make it simple.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 Was I a good person?
 
-The Old Woman doesn't answer immediately.
+The Old Woman does not answer immediately.
 
-**OLD WOMAN**  
+She looks at the empty chair.
+
+Then at V01.
+
+Then back.
+
+**OLD WOMAN**
 That's the wrong question.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 Why?
 
-**OLD WOMAN**  
+**OLD WOMAN**
 Because good people can do terrible things.
 
 A beat.
 
-**OLD WOMAN (CONT'D)**  
+**OLD WOMAN**
 And terrible people can save someone.
 
 The protagonist looks down.
 
-**OLD WOMAN (CONT'D)**  
+**OLD WOMAN**
 Ask what you did.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 How can I know?
 
-**OLD WOMAN**  
+**OLD WOMAN**
 You can't.
 
 Beat.
 
-**OLD WOMAN (CONT'D)**  
+**OLD WOMAN**
 Not yet.
 
-The protagonist looks up.
+She points toward the settlement edge.
 
-The Old Woman points toward the settlement edge.
+### REVEAL / DIRECTION
 
-**OLD WOMAN (CONT'D)**  
+**OLD WOMAN**
 Start with the house at the edge of the village.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 What house?
 
-**OLD WOMAN**  
+**OLD WOMAN**
 The one nobody lives in anymore.
 
 V01 looks toward the door.
+
+The protagonist follows its gaze.
+
+### EMOTIONAL BEAT
+
+The protagonist is frustrated because the first person who appears willing to help refuses to provide a moral verdict.
+
+Instead, she redirects the protagonist toward evidence.
+
+### TRANSITION
+
+The protagonist stands.
+
+The empty chair remains in frame after they leave.
 
 ---
 
 ## 01-02 — THE CHILD
 
+### SCENE HEADING
+
 **EXT. OLD WOMAN'S HOUSE — MOMENTS LATER**
 
-The protagonist exits.
+### OPENING IMAGE
+
+The protagonist steps outside.
+
+The settlement is quieter than before.
+
+People watch from a distance.
 
 A CHILD approaches.
 
-V01 is immediately comfortable around them.
+V01 immediately becomes comfortable.
 
-The child looks at the protagonist.
+The child crouches beside V01.
 
-**CHILD**  
+V01 accepts the contact.
+
+The protagonist notices the familiarity.
+
+### DIALOGUE
+
+**CHILD**
 You came back.
 
 The protagonist exhales.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 Everyone keeps saying that.
 
 The child smiles.
 
 They hold out a small old metal object.
 
-**CHILD**  
+**CHILD**
 You gave me this.
 
-The protagonist takes it.
+The protagonist accepts it.
 
-Feels its weight.
+Turns it over.
 
-**PROTAGONIST**  
+Feels its worn edges.
+
+**PROTAGONIST**
 Why?
 
-**CHILD**  
+**CHILD**
 You said it would keep me safe.
 
 A beat.
 
 The child points toward the water.
 
-**CHILD (CONT'D)**  
+**CHILD**
 You were scared of the water.
 
-The protagonist touches the metal object.
+The protagonist looks toward the river.
+
+Their grip tightens.
 
 ### MEMORY FRAGMENT
 
 Water.
 
-A crying child.
+Not a complete scene.
+
+Only sensations.
+
+Cold.
+
+Noise.
+
+A child's crying.
 
 A hand reaching.
 
-The protagonist's voice:
+The protagonist's own voice:
 
-**PROTAGONIST (MEMORY)**  
+**PROTAGONIST (MEMORY)**
 I'll come back.
+
+The fragment disappears.
 
 ### BACK TO SCENE
 
-The protagonist pulls their hand away.
+The protagonist pulls their hand away from the metal object.
 
-The child watches.
+The child watches carefully.
 
-**CHILD**  
+**CHILD**
 You remember?
 
-**PROTAGONIST**  
+**PROTAGONIST**
 No.
 
 A beat.
 
-**PROTAGONIST (CONT'D)**  
+**PROTAGONIST**
 I saw something.
 
 The child nods.
 
-**CHILD**  
+**CHILD**
 That's enough.
 
 The child runs away.
 
 The protagonist watches.
 
-V01 remains beside them.
+### EMOTIONAL BEAT
 
-### REVEAL
+The protagonist does not feel relieved.
 
-A memory fragment does not need to be complete to carry emotional truth.
+The fragment proves that something is there.
 
-The metal object becomes a recurring memory trigger and continuity object.
+It does not prove what it means.
+
+V01 stays beside them.
+
+### CONTINUITY
+
+The **metal object** is established as a recurring physical anchor.
+
+It should remain visibly present whenever memory becomes relevant.
 
 ---
 
 ## 01-03 — THE MAN WHO REMEMBERS DIFFERENTLY
 
+### SCENE HEADING
+
 **EXT. OLD WOMAN'S HOUSE — CONTINUOUS**
 
-A MAN approaches.
+### OPENING IMAGE
 
-His body language is tense.
+The child's footsteps disappear.
 
-He doesn't look at V01.
+An adult MAN approaches from the opposite side of the street.
 
-Only at the protagonist.
+His posture is rigid.
 
-**MAN**  
+He stops several meters away.
+
+He does not come closer.
+
+### DIALOGUE
+
+**MAN**
 You left.
 
-The protagonist says nothing.
+The protagonist looks at him.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 Did I try to save everyone?
 
 The man's expression hardens.
 
-**MAN**  
+**MAN**
 That's what made it worse.
 
-**PROTAGONIST**  
+The protagonist absorbs the sentence.
+
+**PROTAGONIST**
 What does that mean?
 
-**MAN**  
+**MAN**
 You changed what happened.
 
-The protagonist looks toward the settlement.
-
-**PROTAGONIST**  
+**PROTAGONIST**
 How?
 
-The man looks away.
+The man looks toward the houses.
 
-**MAN**  
+**MAN**
 Nobody remembers the same day anymore.
 
-He leaves.
+The protagonist waits for an explanation.
 
-The protagonist watches him go.
+The man gives none.
 
-### REVEAL
+He turns and walks away.
 
-The first explicit contradiction is established.
+### EMOTIONAL BEAT
 
-Different people are not merely hiding information.
+The protagonist is left with the first contradiction that cannot be solved by simply asking another person.
 
-They genuinely remember different versions of the same past.
+One person seems to remember rescue.
+
+Another remembers destruction.
+
+Both speak as though their memory is true.
+
+### TRANSITION
+
+The protagonist looks down at the metal object.
+
+The bell sounds faintly in the distance.
+
+CUT TO:
 
 ---
 
 ## 01-04 — THE FIRST QUESTION
 
+### SCENE HEADING
+
 **INT. OLD WOMAN'S HOUSE — NIGHT**
+
+### OPENING IMAGE
+
+The room is dark except for a small lamp.
 
 The protagonist sits at the table.
 
-The metal object is in their hand.
+The metal object rests in their hand.
 
 V01 lies near their feet.
 
 The Old Woman sits opposite.
 
-The house is quiet.
+Outside, the settlement is quiet.
 
-**PROTAGONIST**  
+### DIALOGUE
+
+**PROTAGONIST**
 Everyone remembers something different.
 
-**OLD WOMAN**  
+**OLD WOMAN**
 Yes.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 Was I a good person?
 
-The Old Woman looks at them.
+The Old Woman looks directly at them.
 
-**OLD WOMAN**  
+**OLD WOMAN**
 That's the wrong question.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 Then what is the right one?
 
-**OLD WOMAN**  
+**OLD WOMAN**
 Ask what you did.
 
-The protagonist looks down.
-
-**PROTAGONIST**  
+**PROTAGONIST**
 How can I know?
 
-**OLD WOMAN**  
+**OLD WOMAN**
 You can't.
 
 A beat.
 
-**OLD WOMAN (CONT'D)**  
+**OLD WOMAN**
 Not yet.
 
-She points toward the settlement edge.
+She points toward the darkness outside.
 
-**OLD WOMAN (CONT'D)**  
+**OLD WOMAN**
 The house.
 
-The protagonist looks toward the dark window.
+The protagonist looks toward the window.
 
-From somewhere outside—
+A child's voice comes from outside.
 
-A child's voice.
-
-**CHILD (O.S.)**  
+**CHILD (O.S.)**
 They promised.
 
 The protagonist looks up.
 
+The Old Woman does not react.
+
 ### ACT I TURN
 
-The objective changes.
+The protagonist's objective changes.
 
 Not:
 
-> Who am I?
+> **Who am I?**
 
 But:
 
-> What did I do?
+> **What did I do?**
+
+The protagonist stands.
+
+V01 follows.
+
+CUT TO BLACK.
 
 ---
 
@@ -724,487 +1034,740 @@ But:
 
 ## 02-01 — THE ABANDONED HOUSE
 
+### SCENE HEADING
+
 **EXT. SETTLEMENT EDGE — MORNING**
 
-The protagonist and V01 approach the abandoned house.
+### OPENING IMAGE
 
-A leaning roof.
+Sương buổi sáng đang tan.
 
-A broken window.
+Những căn nhà cuối cùng của settlement nằm phía sau.
 
-Vines cover part of the wall.
+Phía trước là một con đường đất hẹp.
 
-No warning sign.
+Hai bên là cỏ cao.
 
-No obvious danger.
+Cuối con đường:
 
-But no footprints.
+**một căn nhà bỏ hoang.**
 
-The metal object is tied in the protagonist's hand.
+Mái nhà nghiêng.
 
-At roughly ten meters from the house—
+Một cửa sổ vỡ.
 
-The protagonist stops.
+Cây leo phủ một phần tường.
 
-They look at the door.
+Không có hàng rào.
 
-Nothing.
+Không có biển cảnh báo.
 
-They step closer.
+Không có dấu chân mới.
 
-An old chain hangs from the door.
+Căn nhà không giống một nơi vừa xảy ra thảm họa.
 
-The protagonist touches it.
+Nó giống một nơi mà mọi người đã **ngừng quay lại**.
+
+### CHARACTER BLOCKING
+
+Protagonist đứng ở đầu con đường.
+
+V01 đi trước vài bước.
+
+Nó không chạy.
+
+Không dò xét.
+
+Nó đi như thể đã biết nơi này.
+
+Protagonist nhìn căn nhà.
+
+Một cảm giác quen thuộc xuất hiện.
+
+Không phải ký ức.
+
+Chỉ là phản ứng của cơ thể.
+
+Protagonist bước đi.
+
+Cỏ cao quệt qua chân.
+
+Mỗi bước tiến gần căn nhà, nhịp thở càng chậm lại.
+
+V01 dừng trước cửa.
+
+Quay đầu nhìn protagonist.
+
+### DIALOGUE
+
+**PROTAGONIST**
+You know this place.
+
+V01 không trả lời.
+
+Protagonist tiến thêm một bước.
+
+**PROTAGONIST**
+Don't you?
+
+V01 quay lại phía căn nhà.
+
+Nó bước thêm một bước.
+
+### APPROACH
+
+Khoảng cách còn khoảng mười mét.
+
+Protagonist đột ngột dừng lại.
+
+Bàn tay siết chặt món đồ kim loại.
+
+Một âm thanh rất nhỏ:
+
+**TINK.**
+
+Protagonist nhìn xuống.
 
 ### MEMORY FRAGMENT
 
-The protagonist locks the door.
+Một bàn tay.
 
-A child's voice from inside.
+Một sợi xích.
 
-The protagonist pulls the chain tight.
+Một cánh cửa.
+
+**CLICK.**
+
+Cánh cửa bị khóa.
+
+Một đứa trẻ khóc ở phía bên kia.
+
+Hình ảnh biến mất.
 
 ### BACK TO SCENE
 
-The protagonist releases the chain.
+Protagonist thở mạnh.
 
-**PROTAGONIST**  
+V01 quay đầu lại.
+
+**PROTAGONIST**
 I did this.
 
 A beat.
 
-**PROTAGONIST (CONT'D)**  
+**PROTAGONIST**
 Didn't I?
 
-V01 doesn't answer.
+V01 chỉ nhìn.
 
-The house seems to react to their presence.
+Không xác nhận.
 
-A faint creak.
+Không phủ nhận.
 
-The protagonist opens the door.
+### ENVIRONMENTAL REACTION
+
+Gió lùa qua cỏ.
+
+Cánh cửa căn nhà rung nhẹ.
+
+Một tiếng gỗ kêu.
+
+Protagonist đặt tay lên then cửa.
+
+Do dự.
+
+Rồi mở.
+
+### TRANSITION
+
+Bóng tối trong căn nhà nuốt lấy ánh sáng ngoài cửa.
+
+CUT TO:
+
+**INT. ABANDONED HOUSE — CONTINUOUS**
 
 ---
 
 ## 02-02 — INSIDE THE HOUSE
 
+### SCENE HEADING
+
 **INT. ABANDONED HOUSE — CONTINUOUS**
 
-Dust.
+### OPENING IMAGE
 
-Cold air.
+Bụi trong không khí.
 
-Ordinary abandoned objects.
+Ánh sáng lọt qua cửa sổ vỡ thành những vệt mỏng.
 
-A cup.
+Một chiếc cốc nằm trên bàn.
 
-A chair.
+Một chiếc ghế.
 
-Child-sized shoes.
+Một đôi giày trẻ em.
 
-The protagonist walks slowly.
+Mọi thứ đều nhỏ hơn ký ức mà protagonist vừa cảm thấy.
 
-V01 moves ahead.
+### ACTION / BLOCKING
 
-The protagonist touches a table.
+Protagonist bước vào.
 
-A spoon falls.
+Sàn nhà kêu dưới chân.
+
+V01 đi trước.
+
+Nó dừng ở cầu thang.
+
+Protagonist nhìn quanh.
+
+Không có người.
+
+Không có dấu hiệu ai vừa rời đi.
+
+Chỉ có dấu vết của một cuộc sống đã kết thúc từ lâu.
+
+Protagonist chạm vào mặt bàn.
 
 ### MEMORY FRAGMENT
 
-A child laughing.
+Một chiếc thìa rơi xuống.
 
-**CHILD (MEMORY)**  
+Tiếng cười trẻ con.
+
+**CHILD (MEMORY)**
 Again!
 
-The protagonist smiles instinctively.
+Protagonist trong ký ức cười.
 
-Then the memory disappears.
+Một phản xạ ấm áp.
 
-The smile vanishes.
+### BACK TO SCENE
 
-**PROTAGONIST**  
+Protagonist cũng gần như mỉm cười.
+
+Rồi nhận ra mình đang cười.
+
+Nụ cười biến mất.
+
+**PROTAGONIST**
 There was a child here.
 
-V01 looks upstairs.
+V01 nhìn lên cầu thang.
 
-The protagonist follows.
+Protagonist đi theo.
+
+### EMOTIONAL BEAT
+
+Đây là lần đầu protagonist trải nghiệm một ký ức **dễ chịu**.
+
+Điều đó quan trọng.
+
+Quá khứ không chỉ là tội lỗi.
+
+Nếu mọi ký ức đều xấu, câu chuyện sẽ trở thành điều tra tội ác.
+
+Ở đây, quá khứ bắt đầu trở nên phức tạp.
+
+### TRANSITION
+
+V01 đi lên cầu thang.
+
+Protagonist theo sau.
 
 ---
 
 ## 02-03 — THE HALLWAY
 
+### SCENE HEADING
+
 **INT. ABANDONED HOUSE — UPSTAIRS HALLWAY — DAY**
 
-Three doors.
+### OPENING IMAGE
 
-One has a burned handle.
+Hành lang hẹp.
 
-The protagonist holds the metal object.
+Ba cánh cửa.
 
-A tiny sound:
+Ánh sáng yếu.
+
+Một cánh cửa có tay nắm bị cháy đen.
+
+V01 đứng ở cuối hành lang.
+
+Protagonist tiến chậm.
+
+Món đồ kim loại lại phát ra:
 
 **TINK.**
 
-They look at it.
+Protagonist nhìn nó.
 
-Then touch the burned door.
+Rồi đặt tay lên cánh cửa cháy.
 
 ### MEMORY FRAGMENT
 
-Smoke.
+Khói.
 
-A child crying.
+Không khí nóng.
 
-The protagonist kneels.
+Một đứa trẻ khóc.
 
-**PROTAGONIST (MEMORY)**  
+Protagonist quỳ xuống.
+
+**PROTAGONIST (MEMORY)**
 Stay here.
 
-**CHILD (MEMORY)**  
+**CHILD (MEMORY)**
 Are you coming back?
 
-**PROTAGONIST (MEMORY)**  
+Protagonist nhìn đứa trẻ.
+
+Một khoảng lặng.
+
+**PROTAGONIST (MEMORY)**
 I promise.
 
 ### BACK TO SCENE
 
-The protagonist pulls their hand away.
+Protagonist giật tay khỏi cửa.
 
-**PROTAGONIST**  
+Thở gấp.
+
+**PROTAGONIST**
 I don't remember saying that.
 
-They stare at the door.
+V01 nhìn protagonist.
 
-They do not open it.
+Protagonist nhìn lại cánh cửa.
 
-Instead, they move toward the final door.
+Tay đặt lên then.
+
+Dừng lại.
+
+Không mở.
+
+Thay vào đó, protagonist đi về phía cánh cửa cuối hành lang.
+
+### EMOTIONAL BEAT
+
+Protagonist đang bắt đầu sợ không phải điều mình đã quên.
+
+Mà là điều mình **đã từng hứa**.
 
 ---
 
 ## 02-04 — THE CHILD'S ROOM
 
+### SCENE HEADING
+
 **INT. CHILD'S ROOM — CONTINUOUS**
 
-A small room.
+### OPENING IMAGE
 
-Dust-covered toys.
+Một căn phòng trẻ em.
 
-Child drawings on the wall.
+Đồ chơi phủ bụi.
 
-One drawing is immediately recognizable.
+Một chiếc giường nhỏ.
 
-The protagonist.
+Những hình vẽ trên tường.
 
-The child.
+Một bức vẽ nổi bật hơn tất cả.
+
+Protagonist.
+
+Đứa trẻ.
 
 V01.
 
-Written beneath them:
+Bên dưới:
 
 > **THEY PROMISED.**
 
-The protagonist touches the drawing.
+### ACTION
+
+Protagonist đứng trước bức vẽ.
+
+Không chạm vào ngay.
+
+Sau đó đặt tay lên giấy.
 
 ### MEMORY — RAINY EVENING
 
-The room is alive.
+Mưa đập vào cửa sổ.
 
-Rain against the window.
+Căn phòng còn nguyên sức sống.
 
-The child stands near the bed.
+Đứa trẻ đứng cạnh giường.
 
-The protagonist prepares to leave.
+Protagonist chuẩn bị rời đi.
 
-V01 waits near the door.
+V01 đứng gần cửa.
 
-**CHILD (MEMORY)**  
+**CHILD (MEMORY)**
 Don't go.
 
-**PROTAGONIST (MEMORY)**  
+**PROTAGONIST (MEMORY)**
 I have to.
 
-**CHILD (MEMORY)**  
+**CHILD (MEMORY)**
 Why?
 
-The protagonist hesitates.
+Protagonist nhìn về phía cửa.
 
-**PROTAGONIST (MEMORY)**  
+**PROTAGONIST (MEMORY)**
 If I don't, someone gets hurt.
 
-The child looks at them.
+Đứa trẻ nhìn protagonist.
 
-**CHILD (MEMORY)**  
+**CHILD (MEMORY)**
 What about me?
 
-The protagonist cannot answer immediately.
+Protagonist im lặng.
 
-Then:
+Câu hỏi không có câu trả lời đúng.
 
-**PROTAGONIST (MEMORY)**  
+Cuối cùng:
+
+**PROTAGONIST (MEMORY)**
 I'll come back.
 
-**CHILD (MEMORY)**  
+**CHILD (MEMORY)**
 Promise?
 
-The protagonist kneels.
+Protagonist quỳ xuống ngang tầm mắt đứa trẻ.
 
-**PROTAGONIST (MEMORY)**  
+**PROTAGONIST (MEMORY)**
 Promise.
 
-They leave.
+Protagonist đứng.
 
-V01 follows.
+V01 đi theo.
+
+Cánh cửa đóng.
 
 ### BACK TO SCENE
 
-The protagonist stands frozen.
+Protagonist vẫn đứng trước bức vẽ.
 
-Their eyes are wet.
+Mắt đỏ.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 I left you.
 
 A beat.
 
-**PROTAGONIST (CONT'D)**  
+**PROTAGONIST**
 I actually left you.
 
-V01 approaches.
+V01 tiến lại.
 
-It doesn't explain.
+Không giải thích.
 
-It doesn't comfort with words.
+Không an ủi bằng lời.
 
-It simply stays close.
+Nó chỉ đứng gần protagonist.
 
-The protagonist looks at the drawing.
+Protagonist nhìn bức vẽ.
 
 ### REVEAL
 
-The promise was real.
+Lời hứa là thật.
 
-Whether it was kept is still unknown.
+Nhưng câu chuyện chưa xác nhận protagonist có giữ lời hay không.
+
+Điều đó phải được giữ lại.
 
 ---
 
 ## 02-05 — THE HIDDEN WALL
 
+### SCENE HEADING
+
 **INT. CHILD'S ROOM — LATER**
 
-The protagonist notices a crack in the plaster.
+### OPENING IMAGE
 
-They brush away dust.
+Protagonist vẫn ở trong phòng.
 
-The plaster breaks.
+Ánh sáng đã thay đổi.
 
-Behind it—
+Một vệt nắng chiếu lên bức tường đối diện.
 
-A symbol.
+Một vết nứt nhỏ chạy qua lớp plaster.
 
-The same shape as the markings on the stone outside the settlement.
+Protagonist nhìn thấy.
 
-The protagonist touches it.
+### ACTION
 
-The room changes.
+Họ tiến tới.
 
-Not like a normal flashback.
+Dùng tay phủi bụi.
 
-For a moment, the abandoned room becomes lived-in.
+Một mảng plaster bong ra.
 
-Warm.
+Bên dưới là một ký hiệu.
 
-The child is drawing.
+Chính ký hiệu từng xuất hiện trên những stone marker bên ngoài settlement.
 
-The protagonist and V01 are together.
+Protagonist chạm vào nó.
 
-Then an offscreen voice:
+### MEMORY LAYER
 
-**VOICE (MEMORY)**  
+Căn phòng thay đổi.
+
+Không phải flashback tuyến tính.
+
+Không có cảm giác “quay ngược thời gian”.
+
+Căn phòng hiện tại và căn phòng quá khứ chồng lên nhau.
+
+Trong một khoảnh khắc:
+
+Phòng sáng.
+
+Đứa trẻ đang vẽ.
+
+Protagonist và V01 cùng ở đó.
+
+Một giọng nói ngoài khung hình:
+
+**VOICE (MEMORY)**
 You shouldn't teach them that.
 
-The protagonist turns.
+Protagonist quay lại.
 
-**PROTAGONIST (MEMORY)**  
+**PROTAGONIST (MEMORY)**
 Who was that?
 
-The memory collapses.
+Hình ảnh vỡ.
 
 ### BACK TO SCENE
 
-The protagonist pulls their hand away.
+Protagonist rút tay khỏi ký hiệu.
 
-Silence.
+Im lặng.
 
-The symbol remains.
+Ký hiệu vẫn còn.
 
 ### REVEAL
 
 Memory is not a linear recording.
 
-Places can hold broken, layered impressions.
+Places can retain broken, layered impressions.
 
-The symbol is part of a larger memory system whose meaning is not yet explained.
+The symbol is part of a larger system.
+
+Its meaning remains unknown.
+
+### TRANSITION
+
+Protagonist nhìn ký hiệu lần cuối.
+
+CUT TO:
 
 ---
 
 ## 02-06 — THE MAN AT THE EDGE
 
+### SCENE HEADING
+
 **EXT. ABANDONED HOUSE — LATE AFTERNOON**
 
-The angry man waits outside.
+### OPENING IMAGE
 
-The protagonist exits.
+Mặt trời đã thấp.
 
-The man looks at the house.
+Bóng căn nhà kéo dài trên cỏ.
 
-**MAN**  
+The Man đứng ngoài.
+
+Ông ta đã chờ.
+
+### ACTION / BLOCKING
+
+Protagonist bước ra.
+
+Man nhìn họ.
+
+Không nhìn V01.
+
+### DIALOGUE
+
+**MAN**
 I wanted to know if you'd find it.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 Find what?
 
-**MAN**  
+Man nhìn căn nhà.
+
+**MAN**
 The part you couldn't erase.
 
-The protagonist steps closer.
+Protagonist tiến lại gần.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 What did I erase?
 
-The man studies them.
+Man nhìn thẳng vào mắt protagonist.
 
-**MAN**  
+**MAN**
 You really don't remember.
 
 A beat.
 
-**MAN (CONT'D)**  
+**MAN**
 Good.
 
-The protagonist's expression hardens.
+Protagonist's expression changes.
 
-**MAN (CONT'D)**  
+**PROTAGONIST**
+Why is that good?
+
+**MAN**
 If you remembered, you'd start defending yourself.
 
-**PROTAGONIST**  
+Protagonist looks back at the house.
+
+**PROTAGONIST**
 The child.
 
-The man says nothing.
+Man says nothing.
 
-**PROTAGONIST (CONT'D)**  
+**PROTAGONIST**
 I promised to come back.
 
-**MAN**  
+**MAN**
 You did.
 
 A beat.
 
-**MAN (CONT'D)**  
+**MAN**
 You came back too late.
 
-The protagonist freezes.
+Protagonist freezes.
 
-**PROTAGONIST**  
+### REVEAL
+
+**PROTAGONIST**
 What happened?
 
-The man looks directly at them.
+The Man answers with one word.
 
-**MAN**  
+**MAN**
 Fire.
 
 Silence.
 
-**MAN (CONT'D)**  
+**MAN (CONT'D)**
 You started it.
 
-The protagonist stares.
+Protagonist cannot move.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 Why?
 
-**MAN**  
+**MAN**
 To stop something worse.
 
-The protagonist cannot answer.
+### EMOTIONAL BEAT
 
-### REVEAL
+The protagonist has now learned something that memory cannot soften:
 
-The protagonist deliberately started the fire.
+They deliberately started the fire.
 
-The action was dangerous and consequential, but the reason remains unknown.
+The story refuses to immediately justify them.
+
+### TRANSITION
+
+The Man walks toward the settlement.
+
+Protagonist remains beside the abandoned house.
+
+V01 waits.
+
+Then follows.
 
 ---
 
 ## 02-07 — THE FIRST CONTRADICTION
 
+### SCENE HEADING
+
 **EXT. SETTLEMENT EDGE — SUNSET**
 
-The protagonist and the man walk back toward the settlement.
+### OPENING IMAGE
 
-The sun is low.
+The settlement is visible in the distance.
 
-The protagonist finally speaks.
+The sky is orange.
 
-**PROTAGONIST**  
+Smoke rises from chimneys.
+
+The protagonist and the Man walk along the edge of the road.
+
+For a long time, neither speaks.
+
+### DIALOGUE
+
+**PROTAGONIST**
 She said I saved people.
 
-The man doesn't look at them.
+The Man keeps walking.
 
-**MAN**  
+**MAN**
 She remembers what you wanted to save.
 
-**PROTAGONIST**  
+Protagonist looks at him.
+
+**PROTAGONIST**
 And you remember what I destroyed.
 
-**MAN**  
+**MAN**
 Yes.
 
-The protagonist stops.
+Protagonist stops.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 Which one is true?
 
-The man turns.
+The Man stops too.
 
-**MAN**  
+Turns.
+
+**MAN**
 Both.
 
 Silence.
 
-**MAN (CONT'D)**  
+**MAN**
 That's what you couldn't accept.
 
-The protagonist looks toward the settlement.
+Protagonist looks toward the settlement.
 
-**PROTAGONIST**  
+**PROTAGONIST**
 What did I do?
 
-The man looks at them.
+The Man studies them.
 
-**MAN**  
+**MAN**
 You chose.
-
-The protagonist waits.
-
-**PROTAGONIST**  
-That's all?
-
-The man's answer is immediate.
-
-**MAN**  
-No.
 
 A beat.
 
-**MAN (CONT'D)**  
+**PROTAGONIST**
+That's all?
+
+**MAN**
+No.
+
+Beat.
+
+**MAN**
 That's everything.
 
-The protagonist absorbs this.
-
-A BELL sounds.
-
-The sound bridges present and memory.
+The bell sounds.
 
 ### MEMORY FRAGMENT
 
@@ -1214,84 +1777,83 @@ Running.
 
 The protagonist turns.
 
-**PROTAGONIST (MEMORY)**  
+**PROTAGONIST (MEMORY)**
 Run.
 
-A child appears behind them.
+A child behind them.
 
-**CHILD (MEMORY)**  
+**CHILD (MEMORY)**
 Wait!
 
-The protagonist turns back.
+Protagonist turns.
 
-**PROTAGONIST (MEMORY)**  
+**PROTAGONIST (MEMORY)**
 RUN!
 
-CUT.
+The memory ends before the protagonist can see what happens next.
 
 ### ACT II TURN
 
-The protagonist's internal objective changes again.
+The protagonist no longer seeks a moral label.
 
-Not:
+The internal objective is now:
 
-> I need to know who I was.
+> **I need to know what I chose.**
 
-But:
+Not because they want to prove they were good.
 
-> I need to know what I chose.
+Because they now understand that their choices are the only stable thread connecting the contradictory memories around them.
 
 ---
 
 # ACT II CONTINUITY LOCK
 
-## Known by the protagonist
+### KNOWN
 
-- They lived in the settlement.
-- They had a relationship with a child.
-- They promised to return.
-- They returned at least once.
+- Protagonist lived in the settlement.
+- Protagonist had a relationship with a child.
+- Protagonist promised to return.
+- Protagonist returned at least once.
 - A fire occurred.
-- They were directly involved.
-- They deliberately took a dangerous action.
-- That action may have saved some people while harming others.
-- Different people remember the event differently.
+- Protagonist deliberately started the fire.
+- Protagonist believed they were stopping something worse.
+- Protagonist's actions harmed people while possibly saving others.
+- Different people remember the same past differently.
+- V01 was present during at least some critical events.
 
-## Still unknown
+### UNKNOWN
 
-- The exact action that caused the central event.
+- Exact action that caused the central catastrophe.
 - What the protagonist was trying to stop.
 - The child's ultimate fate.
-- The identity of the voice saying, “You shouldn't teach them that.”
-- The meaning of the recurring symbol.
-- How the protagonist can affect memory.
+- Identity of the voice: “You shouldn't teach them that.”
+- Meaning of the recurring symbol.
+- Why the protagonist believed fire was necessary.
+- How the protagonist affects memory.
 - Why the protagonist lost their memory.
-- How the protagonist altered the world's memory.
+- Whether the protagonist's actions altered the world's memory.
 
-## Character State
+### CHARACTER STATE
 
-**Protagonist:**  
-Moves from identity-seeking toward consequence-seeking. Increasingly distrusts simple moral labels.
+**Protagonist:** Moves from identity-seeking to consequence-seeking. Increasingly distrusts simple moral labels.
 
-**V01:**  
-Has witnessed memory fragments and reacts before the protagonist, but does not explain them.
+**V01:** Recognizes locations and reacts before the protagonist, but does not explain. Its silence must remain meaningful rather than becoming exposition.
 
-**Old Woman:**  
-Represents lived memory without claiming absolute truth.
+**Old Woman:** Represents lived memory. She refuses to provide a single moral interpretation.
 
-**The Man:**  
-Represents consequence and damage. He refuses to absolve the protagonist merely because they cannot remember.
+**The Man:** Represents consequence and damage. He refuses to absolve protagonist because of memory loss.
 
-## Visual Motifs
+### VISUAL MOTIFS
 
 1. **Metal object** — memory trigger / emotional anchor.
-2. **Empty chair** — unexplained visual callback.
+2. **Empty chair** — unexplained callback to protagonist's former life.
 3. **Symbol** — recurring memory-system motif.
 4. **Bell** — auditory bridge between present and buried memory.
 5. **Fire** — choice / destruction.
 6. **Water** — consequence / helplessness.
+7. **Door / threshold** — boundary between remembered and forgotten states.
 
-## Act II Core Question
+### ACT II CORE QUESTION
 
 > **What did you choose?**
 
