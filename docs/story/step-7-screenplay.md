@@ -1294,3 +1294,1215 @@ Represents consequence and damage. He refuses to absolve the protagonist merely 
 ## Act II Core Question
 
 > **What did you choose?**
+
+
+# ACT III — THE CONTRADICTION
+
+---
+
+## 03-01 — THE ROAD OF MEMORIES
+
+**EXT. ROAD BEYOND THE SETTLEMENT — MORNING**
+
+A narrow dirt road cuts through tall grass.
+
+The settlement is already far behind.
+
+No one follows.
+
+The protagonist walks beside V01.
+
+The small metal object hangs from their hand.
+
+For several minutes, neither speaks.
+
+The morning is unusually quiet.
+
+Then—
+
+A BELL.
+
+The same sound from the settlement.
+
+The protagonist stops.
+
+V01 stops too.
+
+The protagonist looks back.
+
+Nothing.
+
+Another BELL.
+
+Closer this time.
+
+The protagonist closes their eyes.
+
+### MEMORY FRAGMENT
+
+Not the settlement.
+
+Not the fire.
+
+A road.
+
+Rain.
+
+The protagonist running.
+
+Someone running behind them.
+
+A voice:
+
+**VOICE (MEMORY)**  
+Wait!
+
+The protagonist turns—
+
+CUT.
+
+Back to the road.
+
+The protagonist opens their eyes.
+
+Breathing harder.
+
+V01 watches.
+
+**PROTAGONIST**  
+I was running.
+
+V01 says nothing.
+
+**PROTAGONIST (CONT'D)**  
+Away from the fire.
+
+A beat.
+
+**PROTAGONIST (CONT'D)**  
+Or toward it.
+
+V01 looks down the road.
+
+Then starts walking.
+
+The protagonist follows.
+
+---
+
+### LATER
+
+The road rises toward a hill.
+
+At the top stands a weathered stone marker.
+
+The same symbol from the abandoned house is carved into it.
+
+The protagonist approaches.
+
+They run their fingers over the carving.
+
+Nothing happens.
+
+They pull their hand away.
+
+Nothing.
+
+Then—
+
+A distant CHILD'S LAUGHTER.
+
+The protagonist turns.
+
+No child.
+
+The laughter comes again.
+
+This time from the other side of the hill.
+
+V01 suddenly moves.
+
+The animal runs ahead.
+
+**PROTAGONIST**  
+V01.
+
+V01 stops.
+
+Looks back.
+
+Waiting.
+
+The protagonist follows.
+
+### TRANSITION
+
+The camera stays on the stone marker.
+
+The carved symbol catches the morning light.
+
+For one brief instant, the carving appears deeper.
+
+As if freshly cut.
+
+CUT TO:
+
+---
+
+## 03-02 — THE SAVIOR
+
+**EXT. RIVERSIDE SETTLEMENT — AFTERNOON**
+
+A second settlement.
+
+Smaller.
+
+Built beside a wide, slow river.
+
+People are working.
+
+Children carry baskets.
+
+A woman hangs wet clothes.
+
+Everything feels ordinary.
+
+Until the protagonist enters.
+
+A young man carrying wood sees them.
+
+He drops everything.
+
+The wood hits the ground.
+
+**YOUNG MAN**  
+You.
+
+The protagonist stops.
+
+**PROTAGONIST**  
+Do I know you?
+
+The young man laughs once.
+
+Not because it's funny.
+
+Because he doesn't know what else to do.
+
+**YOUNG MAN**  
+No.
+
+A beat.
+
+**YOUNG MAN (CONT'D)**  
+You know me.
+
+He approaches.
+
+His expression changes from anger to something much more complicated.
+
+Relief.
+
+**YOUNG MAN**  
+You're alive.
+
+The protagonist has no answer.
+
+An older woman emerges from a house.
+
+She sees the protagonist.
+
+Her face softens.
+
+She walks directly toward them.
+
+Unlike the people in the first settlement, she isn't afraid.
+
+She takes the protagonist's hands.
+
+**OLDER WOMAN**  
+Thank you.
+
+The protagonist gently pulls away.
+
+**PROTAGONIST**  
+For what?
+
+The woman looks at them.
+
+Almost confused.
+
+**OLDER WOMAN**  
+For bringing us back.
+
+The protagonist glances at V01.
+
+**PROTAGONIST**  
+I don't remember doing that.
+
+**OLDER WOMAN**  
+You wouldn't.
+
+The protagonist stiffens.
+
+**PROTAGONIST**  
+Why?
+
+The woman studies them.
+
+**OLDER WOMAN**  
+Because you weren't there to remember it.
+
+Silence.
+
+The protagonist looks toward the river.
+
+**PROTAGONIST**  
+What happened here?
+
+The young man answers.
+
+**YOUNG MAN**  
+The flood.
+
+The protagonist looks at the water.
+
+A faint flash—
+
+### MEMORY FRAGMENT
+
+Water.
+
+Violent.
+
+Buildings collapsing.
+
+People screaming.
+
+The protagonist standing waist-deep in the river.
+
+Holding a rope.
+
+V01 on the opposite bank.
+
+The protagonist screams:
+
+**PROTAGONIST (MEMORY)**  
+NOW!
+
+People pull.
+
+A child is dragged from the water.
+
+Another flash—
+
+The protagonist cuts a rope.
+
+A bridge collapses.
+
+People on the far side scream.
+
+CUT.
+
+The protagonist staggers.
+
+The older woman catches their arm.
+
+**OLDER WOMAN**  
+Easy.
+
+The protagonist looks at her.
+
+**PROTAGONIST**  
+I cut the bridge.
+
+Nobody answers.
+
+**PROTAGONIST (CONT'D)**  
+I cut it.
+
+The young man nods.
+
+**YOUNG MAN**  
+You did.
+
+**PROTAGONIST**  
+People were on it.
+
+**YOUNG MAN**  
+Yes.
+
+**PROTAGONIST**  
+Then why are you thanking me?
+
+The older woman looks toward the river.
+
+**OLDER WOMAN**  
+Because there were people behind you.
+
+The protagonist looks at her.
+
+**OLDER WOMAN (CONT'D)**  
+If you hadn't cut the bridge, the flood would have reached them.
+
+The protagonist looks back at the river.
+
+The young man continues.
+
+**YOUNG MAN**  
+My sister was there.
+
+A beat.
+
+**YOUNG MAN (CONT'D)**  
+She survived.
+
+The protagonist looks at him.
+
+**PROTAGONIST**  
+Who died?
+
+The young man's expression changes.
+
+**YOUNG MAN**  
+My brother.
+
+Silence.
+
+The protagonist understands.
+
+The same action.
+
+Two memories.
+
+Two consequences.
+
+Neither cancels the other.
+
+**PROTAGONIST**  
+So I'm a hero here.
+
+The older woman shakes her head.
+
+**OLDER WOMAN**  
+No.
+
+The protagonist looks at her.
+
+**OLDER WOMAN (CONT'D)**  
+You're the person who cut the bridge.
+
+That lands harder than praise.
+
+The protagonist looks at V01.
+
+V01 is staring at the river.
+
+As if remembering something too.
+
+### REVEAL
+
+The world doesn't remember the protagonist as a single person.
+
+It remembers **actions through consequences**.
+
+### TRANSITION
+
+The protagonist walks away from the river.
+
+The young man watches.
+
+He doesn't call them back.
+
+---
+
+## 03-03 — THE DESTROYER
+
+**EXT. DRY VALLEY — LATE AFTERNOON**
+
+The landscape changes.
+
+The river is gone.
+
+Grass gives way to cracked earth.
+
+Trees stand dead along the valley.
+
+At the far end—
+
+A ruined watchtower.
+
+The protagonist approaches.
+
+A man sits beside a collapsed wall.
+
+He is older than the young man at the river.
+
+His clothes are worn.
+
+He sees the protagonist.
+
+Unlike the others—
+
+He doesn't move.
+
+**MAN**  
+You took your time.
+
+The protagonist stops.
+
+**PROTAGONIST**  
+Do I know you?
+
+The man looks at V01.
+
+Then back.
+
+**MAN**  
+You don't.
+
+He spits into the dust.
+
+**MAN (CONT'D)**  
+Of course you don't.
+
+The protagonist keeps distance.
+
+**PROTAGONIST**  
+What happened here?
+
+The man gestures toward the valley.
+
+**MAN**  
+You happened.
+
+A beat.
+
+**PROTAGONIST**  
+What did I do?
+
+**MAN**  
+You opened the gate.
+
+The protagonist's face changes.
+
+### MEMORY FRAGMENT
+
+A huge stone gate.
+
+People behind it.
+
+Something moving beyond.
+
+The protagonist stands beside a mechanism.
+
+Someone screams:
+
+**VOICE (MEMORY)**  
+Don't!
+
+The protagonist pulls the lever.
+
+The gate opens.
+
+A wave of dark water—
+
+No.
+
+Not water.
+
+Something else.
+
+The image breaks apart before it can resolve.
+
+BACK TO SCENE.
+
+The protagonist grips their head.
+
+**PROTAGONIST**  
+What came through?
+
+The man doesn't answer.
+
+**PROTAGONIST (CONT'D)**  
+What came through?
+
+**MAN**  
+Nothing.
+
+The protagonist looks at him.
+
+**MAN (CONT'D)**  
+That's what you don't understand.
+
+The man stands.
+
+**MAN (CONT'D)**  
+You opened it.
+
+**PROTAGONIST**  
+And?
+
+**MAN**  
+Nothing came through.
+
+A beat.
+
+**MAN (CONT'D)**  
+Everything left.
+
+The protagonist doesn't understand.
+
+The man points toward the valley.
+
+**MAN**  
+The water.
+
+The dead trees.
+
+The soil.
+
+The homes.
+
+All of it.
+
+**MAN (CONT'D)**  
+You drained the valley.
+
+The protagonist looks around.
+
+**PROTAGONIST**  
+Why?
+
+**MAN**  
+You said there was something beneath it.
+
+**PROTAGONIST**  
+Was there?
+
+The man laughs bitterly.
+
+**MAN**  
+You tell me.
+
+The protagonist looks at V01.
+
+V01 doesn't meet their eyes.
+
+**PROTAGONIST**  
+You were there.
+
+V01 finally looks up.
+
+The protagonist waits.
+
+Nothing.
+
+**PROTAGONIST**  
+You remember.
+
+V01 takes one step toward them.
+
+The man watches.
+
+**MAN**  
+It remembers.
+
+The protagonist turns.
+
+**MAN (CONT'D)**  
+That's the difference.
+
+Silence.
+
+The man walks toward the ruins.
+
+**MAN (CONT'D)**  
+People remember what they saw.
+
+He touches the broken wall.
+
+**MAN (CONT'D)**  
+Places remember what happened.
+
+Then he looks directly at the protagonist.
+
+**MAN (CONT'D)**  
+And some things remember what you wanted.
+
+The protagonist absorbs this.
+
+**PROTAGONIST**  
+What did I want?
+
+The man looks almost sorry.
+
+**MAN**  
+That's what I was hoping you'd tell me.
+
+He walks away.
+
+### EMOTIONAL BEAT
+
+For the first time, the protagonist realizes that recovering memory may not answer the question.
+
+Their memories may themselves be part of the problem.
+
+They look down at their hands.
+
+No blood.
+
+No scars.
+
+Nothing that proves anything.
+
+The absence itself becomes disturbing.
+
+### TRANSITION
+
+Wind crosses the valley.
+
+The dead grass bends.
+
+Underneath it—
+
+A line of the familiar symbol.
+
+CUT TO:
+
+---
+
+## 03-04 — THE MEMORY ARCHIVE
+
+**EXT. ARCHIVE ENTRANCE — NIGHT**
+
+Night has fallen.
+
+The protagonist follows the symbol through the valley.
+
+It leads to a structure built into the mountain.
+
+No doors.
+
+Only a narrow opening.
+
+V01 enters.
+
+The protagonist hesitates.
+
+Then follows.
+
+---
+
+**INT. MEMORY ARCHIVE — CONTINUOUS**
+
+Darkness.
+
+Then—
+
+A faint blue-white glow.
+
+Not from lamps.
+
+From the walls.
+
+Thousands of small objects are embedded in stone.
+
+Keys.
+
+Buttons.
+
+Pieces of pottery.
+
+Broken toys.
+
+Letters.
+
+Weapons.
+
+Jewelry.
+
+Fragments of everyday life.
+
+Each one faintly glowing.
+
+The protagonist walks slowly.
+
+Their footsteps echo.
+
+**PROTAGONIST**  
+What is this place?
+
+No answer.
+
+V01 moves between the objects.
+
+The protagonist notices something.
+
+A small wooden cup.
+
+They touch it.
+
+### MEMORY
+
+A kitchen.
+
+Morning.
+
+Someone laughs.
+
+The protagonist is younger.
+
+A woman places the cup on the table.
+
+**WOMAN (MEMORY)**  
+You're going to break it.
+
+**PROTAGONIST (MEMORY)**  
+I won't.
+
+The cup falls.
+
+SMASH.
+
+The memory ends.
+
+The protagonist pulls their hand away.
+
+They stare at the cup.
+
+**PROTAGONIST**  
+That's not important.
+
+A voice answers from the darkness.
+
+**ARCHIVIST (O.S.)**  
+Then why did it survive?
+
+The protagonist turns.
+
+An old figure stands between the shelves.
+
+The Archivist carries no weapon.
+
+Only a bundle of keys.
+
+They look at the protagonist without surprise.
+
+**ARCHIVIST**  
+You came back.
+
+The protagonist's expression hardens.
+
+**PROTAGONIST**  
+Everyone says that.
+
+**ARCHIVIST**  
+Because everyone remembers it.
+
+**PROTAGONIST**  
+Did I come here before?
+
+The Archivist considers the question.
+
+**ARCHIVIST**  
+Yes.
+
+**PROTAGONIST**  
+What did I do?
+
+**ARCHIVIST**  
+You asked me to forget you.
+
+Silence.
+
+The protagonist freezes.
+
+**PROTAGONIST**  
+I asked you to what?
+
+**ARCHIVIST**  
+Forget you.
+
+The protagonist steps closer.
+
+**PROTAGONIST**  
+Why?
+
+The Archivist looks at V01.
+
+**ARCHIVIST**  
+Because you were afraid of what remembering you would do.
+
+The protagonist looks around.
+
+Thousands of objects.
+
+Thousands of memories.
+
+**PROTAGONIST**  
+Did you?
+
+**ARCHIVIST**  
+Forget you?
+
+A small smile.
+
+**ARCHIVIST (CONT'D)**  
+No.
+
+The protagonist's breathing changes.
+
+**PROTAGONIST**  
+Then who did?
+
+The Archivist doesn't answer immediately.
+
+They walk to a stone wall.
+
+There is a circular depression in it.
+
+Empty.
+
+The exact shape of the metal object in the protagonist's hand.
+
+The protagonist notices.
+
+**PROTAGONIST**  
+That belongs there.
+
+The Archivist nods.
+
+**ARCHIVIST**  
+It did.
+
+The protagonist places the object against the depression.
+
+It fits perfectly.
+
+The entire chamber changes.
+
+Not physically.
+
+Perceptually.
+
+Objects begin glowing.
+
+Hundreds.
+
+Thousands.
+
+Voices overlap.
+
+Children.
+
+Adults.
+
+Crying.
+
+Laughter.
+
+Arguments.
+
+Promises.
+
+Accusations.
+
+One voice rises above the others.
+
+The protagonist's own voice.
+
+**PROTAGONIST (MEMORY)**  
+If they remember me, they'll come looking.
+
+Another voice:
+
+**VOICE (MEMORY)**  
+Who?
+
+**PROTAGONIST (MEMORY)**  
+Everyone.
+
+The chamber goes silent.
+
+A single memory appears.
+
+### MEMORY — THE NIGHT OF THE FIRE
+
+The protagonist stands before the Archivist.
+
+V01 beside them.
+
+The protagonist is exhausted.
+
+Their clothes are wet.
+
+Smoke stains their face.
+
+**PROTAGONIST (MEMORY)**  
+You can't keep it.
+
+**ARCHIVIST (MEMORY)**  
+It's already happened.
+
+**PROTAGONIST (MEMORY)**  
+That's not what I mean.
+
+The protagonist places the metal object on the table.
+
+**PROTAGONIST (MEMORY)**  
+Take this.
+
+**ARCHIVIST (MEMORY)**  
+Why?
+
+**PROTAGONIST (MEMORY)**  
+Because if I remember, I'll do it again.
+
+The Archivist looks at them.
+
+**ARCHIVIST (MEMORY)**  
+And if you forget?
+
+The protagonist looks toward V01.
+
+A long silence.
+
+**PROTAGONIST (MEMORY)**  
+Maybe the world won't have to.
+
+The memory breaks.
+
+BACK TO SCENE.
+
+The protagonist stumbles backward.
+
+**PROTAGONIST**  
+No.
+
+The Archivist remains still.
+
+**PROTAGONIST (CONT'D)**  
+No, that's not—
+
+**ARCHIVIST**  
+You weren't trying to recover your memory.
+
+The protagonist looks at them.
+
+**ARCHIVIST (CONT'D)**  
+You were trying to remove yourself from it.
+
+The protagonist shakes their head.
+
+**PROTAGONIST**  
+Why?
+
+The Archivist's expression softens.
+
+**ARCHIVIST**  
+Because you believed forgetting was the same as stopping.
+
+A beat.
+
+**ARCHIVIST (CONT'D)**  
+It isn't.
+
+The protagonist looks at the metal object.
+
+**PROTAGONIST**  
+Who erased me?
+
+The Archivist steps closer.
+
+**ARCHIVIST**  
+You did.
+
+Silence.
+
+**PROTAGONIST**  
+I erased my own memory?
+
+**ARCHIVIST**  
+Part of it.
+
+**PROTAGONIST**  
+Part?
+
+The Archivist looks around the chamber.
+
+**ARCHIVIST**  
+You cannot erase a world.
+
+They gesture toward the walls.
+
+**ARCHIVIST (CONT'D)**  
+You can only erase the part of it that lives inside you.
+
+The protagonist looks around.
+
+The glowing objects.
+
+The broken memories.
+
+The contradictory lives.
+
+**PROTAGONIST**  
+Then why do they remember me differently?
+
+The Archivist answers immediately.
+
+**ARCHIVIST**  
+Because you were different with each of them.
+
+The protagonist is silent.
+
+**ARCHIVIST (CONT'D)**  
+You wanted one truth.
+
+A beat.
+
+**ARCHIVIST (CONT'D)**  
+There wasn't one.
+
+The protagonist's eyes fill, but they don't cry.
+
+**PROTAGONIST**  
+Then what am I supposed to believe?
+
+The Archivist looks directly at them.
+
+**ARCHIVIST**  
+Don't.
+
+A long silence.
+
+**ARCHIVIST (CONT'D)**  
+Remember.
+
+The word hangs in the room.
+
+V01 approaches the protagonist.
+
+For the first time, the protagonist doesn't ask V01 for an answer.
+
+Instead—
+
+They kneel.
+
+They place a hand on V01's head.
+
+**PROTAGONIST**  
+You remember too, don't you?
+
+V01 closes its eyes.
+
+The chamber lights flicker.
+
+One final memory surfaces.
+
+Not of fire.
+
+Not of the flood.
+
+Not of the abandoned house.
+
+A field.
+
+The same field from the beginning.
+
+The protagonist is standing there.
+
+But this time—
+
+They are not alone.
+
+Someone else stands opposite them.
+
+Someone whose face remains hidden by white light.
+
+The unknown figure says:
+
+**UNKNOWN FIGURE (MEMORY)**  
+When you wake up, they will tell you who you are.
+
+The protagonist in the memory answers:
+
+**PROTAGONIST (MEMORY)**  
+And if I don't believe them?
+
+The figure steps closer.
+
+**UNKNOWN FIGURE (MEMORY)**  
+Then listen to what the world remembers.
+
+The memory cuts to black.
+
+BACK TO SCENE.
+
+The protagonist opens their eyes.
+
+The Archivist has disappeared.
+
+Only the empty depression remains in the wall.
+
+The metal object is still in the protagonist's hand.
+
+V01 stands beside them.
+
+The protagonist looks toward the darkness beyond the archive.
+
+For the first time, their question changes.
+
+Not:
+
+**Who am I?**
+
+Not:
+
+**What did I do?**
+
+But—
+
+**PROTAGONIST**  
+What does the world remember that I don't?
+
+V01 starts walking.
+
+The protagonist follows.
+
+### ACT III REVEAL
+
+The protagonist's missing memory was **self-inflicted**, but not erased completely.
+
+The world retained fragments through people, places, objects, and consequences.
+
+The contradictions are not necessarily errors.
+
+They are the consequences of different relationships with the protagonist.
+
+The protagonist's central problem is therefore not memory loss.
+
+It is the gap between:
+
+**what the protagonist remembers,  
+what others remember,  
+and what actually happened.**
+
+### TRANSITION TO ACT IV
+
+The protagonist and V01 disappear into the darkness of the archive.
+
+Behind them, the stone wall begins to glow.
+
+A single sentence appears where the metal object had been:
+
+**THE WORLD REMEMBERS.**
+
+Then, beneath it—
+
+A second line slowly emerges.
+
+**BUT IT DOES NOT AGREE.**
+
+CUT TO BLACK.
