@@ -1,10 +1,6 @@
 # Veyloria
 
-> **Trạng thái tài liệu:** Pre-V1 / Working Source  
-> Toàn bộ nội dung hiện tại là nguồn đang được xây dựng và kiểm chứng. Chưa có tài liệu nào được xem là **Veyloria V1 chính thức**. Không tạo nhánh tài liệu "DNA V2"; các quyết định mới sẽ được tích hợp trực tiếp vào bộ source hiện tại khi được chốt.
-
-
-> **Gameplay clean — Story open-ended.**
+> **Cách chơi rõ — câu chuyện chưa kể hết.**
 
 Veyloria là một thế giới nơi những gì được nhớ, bị quên hoặc bị thay đổi có thể tác động trực tiếp đến thực tại.
 
@@ -12,98 +8,104 @@ Người chơi không cần liên tục được nhắc rằng đây là một g
 
 ---
 
-## Knowledge Base
+## Ngôn ngữ
 
-Đây là trang trung tâm của toàn bộ knowledge base. Các tài liệu được chia theo từng lớp để có thể phát triển dần từ **concept → gameplay → world/lore → từng mini-map**.
+Ba ngăn. Thiết kế, thứ tự đọc và hồ sơ Minipower đều tiếng Việt. ID của hồ sơ Minipower giữ tiếng Anh.
 
-### 🧠 Concept
+| Ngăn | Ngôn ngữ | Gồm |
+|---|---|---|
+| Thiết kế | Tiếng Việt | Ý tưởng, cách chơi, bản đồ, nguyên tắc, quyết định, nền câu chuyện, bản gom ý |
+| Thứ tự đọc | Tiếng Việt | 04 hướng làm việc đến 09 ánh xạ nội dung, gồm 08.01–08.10 và 09.01–09.10 |
+| Hồ sơ Minipower | Tiếng Việt, ID giữ tiếng Anh | `00-governance/` … `06-changes/`, mở từ [mục lục khung](README.md) |
 
-Những tài liệu định nghĩa Veyloria là gì, nhân vật là ai và ý tưởng cốt lõi vận hành thế giới như thế nào.
+Tên riêng giữ nguyên: **Veyloria**, **V01**, **The Forgotten One**, **The World Remembers**, **The Bridge**, tên nhân vật và tên địa danh. Mã định danh (`DOC-xx`, `QUEST-###`, `TRACE-###`) và khóa trạng thái trong khối mã giữ nguyên.
 
-- **[Concept Overview](concept/overview.md)**  
-  Tổng quan ý tưởng Veyloria, hướng trải nghiệm và câu hỏi trung tâm.
+## Tài liệu thiết kế
 
-- **[The Forgotten One](concept/the-forgotten-one.md)**  
+Trang này là cửa vào. Đọc từ **ý tưởng → cách chơi → thế giới → từng bản đồ nhỏ**.
+
+### Ý tưởng
+
+Những tài liệu định nghĩa Veyloria là gì, nhân vật là ai và ý tưởng chính của thế giới vận hành ra sao.
+
+- **[Tổng quan](design/concept/overview.md)**  
+  Ý tưởng Veyloria, hướng trải nghiệm và câu hỏi trung tâm.
+
+- **[The Forgotten One](design/concept/the-forgotten-one.md)**  
   Nhân vật chính, quá khứ chưa biết, mất ký ức và những cách khác nhau mà thế giới nhớ về nhân vật.
 
-- **[Core Mechanic — Memory affects the World](concept/core-mechanic.md)**  
-  Memory hoạt động như lớp mechanic phía sau thế giới và ảnh hưởng đến world state.
+- **[Cơ chế chính](design/concept/core-mechanic.md)**  
+  Ký ức nằm phía sau thế giới và làm thế giới đổi.
 
-- **[Signature Mechanic — The World Remembers](knowledge-brainstorm.md#4-signature-mechanic--the-world-remembers)**  
-  Cơ chế đặc trưng: Player Action → World Remembers → Memory Conflict → Player Curiosity.
+- **[The World Remembers](design/knowledge-brainstorm.md#4-cơ-chế-đặc-trưng--the-world-remembers)**  
+  Cơ chế đặc trưng: hành động → thế giới ghi nhớ → ký ức lệch nhau → người chơi muốn biết tiếp.
 
-### 🎮 Gameplay
+### Cách chơi
 
-Các nguyên tắc trực tiếp quyết định người chơi sẽ chơi như thế nào.
+Các nguyên tắc quyết định người chơi sẽ chơi như thế nào.
 
-- **[Session Design](gameplay/session-design.md)**  
-  Cấu trúc một session 10–15 phút, vấn đề chính, hành động chính và world-state change.
+- **[Một phiên chơi](design/gameplay/session-design.md)**  
+  Cấu trúc một phiên 10–15 phút: một vấn đề, một hành động chính, một thay đổi của thế giới.
 
-- **[Pet as Natural Hint](gameplay/pet.md)**  
-  Vai trò của pet như một hệ thống hint tự nhiên, không biến thành quest marker.
+- **[Pet](design/gameplay/pet.md)**  
+  Pet gợi ý tự nhiên, không thành dấu nhiệm vụ.
 
-### 🗺️ Maps
+### Bản đồ
 
-Các ví dụ cụ thể để kiểm chứng concept bằng gameplay thực tế.
+- **[The Bridge](design/maps/bridge.md)**  
+  Bản đồ mẫu: một vấn đề, một hành động, một thay đổi của thế giới, và một lớp chuyện chưa giải thích.
 
-- **[The Bridge](maps/bridge.md)**  
-  Mini-map mẫu: một vấn đề rõ ràng, một hành động chính, một thay đổi của thế giới và một lớp story chưa được giải thích.
+### Quyết định
 
-### 🧭 Step 4 — DNA Proposal
+- **[Đề xuất DNA](design/decisions/dna-proposal.md)**  
+  Bản để tranh luận. Chưa chốt.
 
-- **[DNA V2 Proposal](decisions/dna-v2-proposal.md)**  
-  Bản đề xuất DNA được đưa ra để tranh luận/chốt; chưa phải canon và không phải Veyloria V1 chính thức.
+- **[Hướng làm việc](design/decisions/04-working-direction.md)**  
+  Quyết định mới được ghi thẳng vào các tài liệu hiện tại.
 
-- **[Working Direction — Step 4](decisions/working-direction.md)**  
-  Ghi nhận hướng làm việc và nguyên tắc tích hợp quyết định trực tiếp vào source hiện tại.
+- **[Bước 5 — Thế giới](design/decisions/05-world-premise-themes-core-fantasy.md)**  
+  Thế giới, tiền đề, chủ đề và cảm giác chính khi chơi. Đang làm, chờ chốt.
 
-### 📐 Step 5 — World + Premise + Themes + Core Fantasy
+### Câu chuyện
 
-- **[Step 5 Decision](decisions/step-5-world-premise-themes-core-fantasy.md)**  
-  Bản định nghĩa World, Premise, Themes và Core Fantasy được xây dựng từ Step 4; hiện là working decision và chờ chốt cuối cùng.
+- **[Nền câu chuyện](design/story/06-story-bible.md)**  
+  Phần gốc của câu chuyện: nhân vật, V01, tiến trình, bí ẩn, cảm xúc và phần chưa chốt.
 
-### 📖 Step 6 — Story Bible
+### Nguyên tắc và bản gom ý
 
-- **[Story Bible](story/story-bible.md)**  
-  Xương sống narrative của Veyloria: protagonist, V01, narrative progression, mystery architecture, emotional/thematic arcs, canon hierarchy và các vùng bí mật chưa được khóa.
+- **[Nguyên tắc thiết kế](design/design-principles.md)**  
+  Cách chơi rõ, câu chuyện chưa kể hết, mỗi phiên một vấn đề, thế giới phải đáp lại.
 
-### 📐 Design Principles
-
-- **[Design Principles](design-principles.md)**  
-  Các nguyên tắc xuyên suốt: gameplay rõ, story mở, mỗi session có một vấn đề, không lạm dụng memory, world phải phản hồi và người chơi được quyền diễn giải.
-
-### 📚 Full Brainstorm
-
-- **[Knowledge Brainstorm — Full](knowledge-brainstorm.md)**  
-  Bản brainstorm đầy đủ, dùng làm nguồn tham chiếu tổng hợp cho các ý tưởng hiện tại. Nội dung chi tiết không bị rút gọn thành overview.
+- **[Bản gom ý](design/knowledge-brainstorm.md)**  
+  Nguồn tham chiếu gom ý. Không rút thành bản tóm tắt.
 
 ---
 
-## Signature Mechanic
+## Cơ chế đặc trưng
 
 ### The World Remembers
 
-Điểm đặc trưng của Veyloria không chỉ là memory ảnh hưởng đến thế giới, mà là:
+Điểm đặc trưng của Veyloria không chỉ là ký ức làm đổi thế giới, mà là:
 
 > **Thế giới ghi nhớ những gì người chơi đã làm — nhưng không nhất thiết theo cách người chơi nhớ.**
 
-Signature mechanic có 3 tầng:
+Cơ chế này có 3 tầng:
 
-**Player Action → World Remembers → Memory Conflict**
+**Hành động → Thế giới ghi nhớ → Ký ức lệch nhau**
 
-#### 1. Player Action
+#### 1. Hành động
 
-Mỗi session có một hành động rõ ràng.
+Mỗi phiên có một hành động rõ ràng.
 
-> Vấn đề → Hành động → World thay đổi → Kết thúc session.
+> Vấn đề → Hành động → Thế giới đổi → Hết phiên.
 
-#### 2. World Remembers
+#### 2. Thế giới ghi nhớ
 
-Hành động không kết thúc cùng session.
+Hành động không kết thúc cùng phiên.
 
-NPC, map, object, pet hoặc khu vực khác có thể phản ứng với hành động đó ở những session sau.
+NPC, bản đồ, vật thể, pet hoặc khu vực khác có thể phản ứng với hành động đó ở những phiên sau.
 
-#### 3. Memory Conflict
+#### 3. Ký ức lệch nhau
 
 Thế giới có thể ghi nhớ một phiên bản khác với điều người chơi nhớ.
 
@@ -113,26 +115,26 @@ Thế giới có thể ghi nhớ một phiên bản khác với điều người
 
 ---
 
-## Design Snapshot
+## Tóm tắt thiết kế
 
-### Session
+### Phiên chơi
 
-**10–15 phút / session**
+**10–15 phút mỗi phiên**
 
-Mỗi mini-map tập trung vào:
+Mỗi bản đồ nhỏ tập trung vào:
 
 > **Một vấn đề → Một hành động chính → Một thay đổi của thế giới**
 
-### Gameplay
+### Cách chơi
 
 Người chơi luôn cần hiểu:
 
 - Mình đang ở đâu?
 - Ở đây có vấn đề gì?
 - Mình cần làm gì?
-- Khi nào session hoàn thành?
+- Khi nào phiên hoàn thành?
 
-### Story / Lore
+### Câu chuyện
 
 Không cần giải thích toàn bộ.
 
@@ -146,45 +148,44 @@ Người chơi có thể bắt gặp:
 
 ### Pet
 
-Pet là một phần của gameplay.
+Pet là một phần của cách chơi.
 
 > **Không chỉ đi cùng. Nó có thể khiến người chơi nhận ra rằng một nơi đáng để khám phá.**
 
-### Core Experience
+### Cảm giác khi chơi
 
 > **Người chơi biết mình phải làm gì, nhưng không nhất thiết hiểu ngay mọi thứ mình nhìn thấy.**
 
-### Long-term Loop
+### Từ phiên này sang phiên sau
 
-> **Player Action → World Remembers → Memory Conflict → Player Curiosity → Next Session**
+> **Hành động → Thế giới ghi nhớ → Ký ức lệch nhau → Người chơi muốn biết tiếp → Phiên sau**
 
 ---
 
-## Design North Star
+## Kim chỉ nam
 
-> **Mỗi session cho người chơi một vấn đề rõ ràng để giải quyết.**  
-> **Mỗi session để lại một câu hỏi chưa được giải thích hoàn toàn.**  
-> **Mỗi thay đổi của thế giới là một mảnh ghép cho câu chuyện lớn hơn.**
+> **Mỗi phiên cho người chơi một vấn đề rõ ràng để giải quyết.**  
+> **Mỗi phiên để lại một câu hỏi chưa được giải thích hết.**  
+> **Mỗi thay đổi của thế giới là một phần của câu chuyện lớn hơn.**
 
 Và:
 
-> **The world remembers what the player did — but not necessarily in the way the player remembers it.**
+> **Thế giới ghi nhớ những gì người chơi đã làm — nhưng không nhất thiết theo cách người chơi nhớ.**
 
 Cùng với:
 
-> **Ký ức là core mechanic phía sau; người chơi không nhất thiết phải liên tục được nhắc rằng họ đang "chơi một game về ký ức".**
+> **Ký ức nằm phía sau cách chơi; người chơi không cần bị nhắc liên tục rằng đây là game về ký ức.**
 
 
-## 🎬 Step 7 — Production Screenplay
+## Thứ tự đọc
 
-- **[Production Screenplay — Step 7](story/step-7-screenplay.md)**  
-  Kịch bản dài dạng production screenplay hiện đã được triển khai qua Prologue, Act I và Act II, gồm scene heading, action, dialogue, character beats, reveals, transitions và continuity lock.
+Đọc theo số, từ 04 đến 09. Menu site xếp chúng trong mục **Thứ tự đọc**.
 
-
-## 🎮 Step 8 — Gameplay Adaptation
-
-- **[Step 8 — Gameplay Adaptation](gameplay/step-8-gameplay-adaptation.md)**  
-  Khung chuyển hóa World, Story Bible và Screenplay thành gameplay architecture; gồm roadmap từ 8.1 đến 8.10.
-
-- **[8.1 — Player Fantasy + Gameplay Pillars + Core Gameplay Loop](gameplay/step-8-1-player-fantasy-gameplay-pillars-core-loop.md)**  
-  Định nghĩa player fantasy, player agency, 5 gameplay pillars, core gameplay loop, macro loop và progression philosophy.
+- **[04 — Hướng làm việc](design/decisions/04-working-direction.md)**
+- **[05 — Thế giới](design/decisions/05-world-premise-themes-core-fantasy.md)**
+- **[06 — Nền câu chuyện](design/story/06-story-bible.md)**
+- **[07 — Kịch bản](design/story/07-screenplay.md)**
+- **[08 — Thích nghi cách chơi](design/gameplay/08-gameplay-adaptation.md)**  
+  Các mục 08.01–08.10 nằm cùng thư mục.
+- **[09 — Ánh xạ nội dung](design/gameplay/09-story-to-gameplay-content-mapping.md)**  
+  Các mục 09.01–09.10 nằm cùng thư mục. Chưa có 09.03.

@@ -1,0 +1,14 @@
+#!/usr/bin/env node
+import { readFileSync } from "node:fs"
+import { spawnSync } from "node:child_process"
+import { dirname, join } from "node:path"
+import { fileURLToPath } from "node:url"
+const root = dirname(dirname(fileURLToPath(import.meta.url)))
+const cfg = JSON.parse(readFileSync(join(root, "clients.json"), "utf8"))
+if (!cfg.factory_root) {
+  process.stderr.write("Thiếu factory_root trong .minipower/clients.json\n")
+  process.exit(1)
+}
+const cli = join(cfg.factory_root, "cli", "minipower.mjs")
+const r = spawnSync(process.execPath, [cli, ...process.argv.slice(2)], { stdio: "inherit" })
+process.exit(r.status === null ? 1 : r.status)

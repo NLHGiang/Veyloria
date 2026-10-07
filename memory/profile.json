@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "project_name": "Veyloria",
+  "project_summary": "Knowledge base thiết kế game Veyloria (DNA), Pre-V1. Prototype và factory Minipower ở thư mục cha chỉ là input.",
+  "current_phase": "discovery",
+  "project_mode": "mvp",
+  "docs_provider": "local",
+  "tasks_provider": "none",
+  "chat_provider": "none",
+  "code_provider": "local",
+  "trace_store": "sqlite",
+  "surfaces": [
+    "docs"
+  ]
+}

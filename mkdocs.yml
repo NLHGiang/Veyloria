@@ -31,19 +31,49 @@ plugins:
   - search
 
 extra_css:
-  - stylesheets/extra.css
+  - design/stylesheets/extra.css
 
 nav:
   - Veyloria: index.md
-  - Concept:
-      - Tổng quan: concept/overview.md
-      - The Forgotten One: concept/the-forgotten-one.md
-      - Core Mechanic: concept/core-mechanic.md
-  - Gameplay:
-      - Session Design: gameplay/session-design.md
-      - Pet as Natural Hint: gameplay/pet.md
-  - Maps:
-      - The Bridge: maps/bridge.md
-  - Design Principles: design-principles.md
-  - Knowledge Brainstorm:
-      - Full Brainstorm: knowledge-brainstorm.md
+  - Thiết kế:
+      - Ý tưởng:
+          - Tổng quan: design/concept/overview.md
+          - The Forgotten One: design/concept/the-forgotten-one.md
+          - Cơ chế lõi: design/concept/core-mechanic.md
+      - Cách chơi:
+          - Một phiên chơi: design/gameplay/session-design.md
+          - Pet: design/gameplay/pet.md
+      - Bản đồ:
+          - The Bridge: design/maps/bridge.md
+      - Nguyên tắc thiết kế: design/design-principles.md
+      - Đề xuất DNA: design/decisions/dna-proposal.md
+      - Bản gom ý: design/knowledge-brainstorm.md
+  - Thứ tự đọc:
+      - 04 Hướng làm việc: design/decisions/04-working-direction.md
+      - 05 Thế giới: design/decisions/05-world-premise-themes-core-fantasy.md
+      - 06 Nền câu chuyện: design/story/06-story-bible.md
+      - 07 Kịch bản: design/story/07-screenplay.md
+      - 08 Thích nghi cách chơi:
+          - 08 Tổng quan: design/gameplay/08-gameplay-adaptation.md
+          - 08.01 Fantasy và vòng lặp: design/gameplay/08-01-player-fantasy-gameplay-pillars-core-loop.md
+          - 08.02 Hệ thống: design/gameplay/08-02-gameplay-systems-mechanics.md
+          - 08.03 Tương tác: design/gameplay/08-03-player-interaction-model.md
+          - 08.04 Ký ức thế giới: design/gameplay/08-04-world-state-memory-architecture.md
+          - 08.05 Tiến trình: design/gameplay/08-05-progression-unlock-structure.md
+          - 08.06 Nhiệm vụ: design/gameplay/08-06-quest-activity-structure.md
+          - 08.07 Nhịp phiên chơi: design/gameplay/08-07-session-loop-content-cadence.md
+          - 08.08 Gắn với câu chuyện: design/gameplay/08-08-gameplay-to-story-integration.md
+          - 08.09 Ràng buộc: design/gameplay/08-09-gameplay-constraints-anti-patterns.md
+          - 08.10 Bản chốt: design/gameplay/08-10-gameplay-adaptation-baseline.md
+      - 09 Ánh xạ nội dung:
+          - 09 Tổng quan: design/gameplay/09-story-to-gameplay-content-mapping.md
+          - 09.01 Khung ánh xạ: design/gameplay/09-01-story-gameplay-mapping-framework.md
+          - 09.02 Nhịp câu chuyện: design/gameplay/09-02-story-beat-quest-structure.md
+          - 09.04 Chuỗi nhiệm vụ: design/gameplay/09-04-quest-chains-dependencies-progression.md
+          - 09.05 Trạng thái nhiệm vụ: design/gameplay/09-05-quest-state-objectives-runtime-quest-logic.md
+          - 09.06 Phần thưởng và hệ quả: design/gameplay/09-06-quest-rewards-consequences-world-state-changes.md
+          - 09.07 Nhiệm vụ và không gian: design/gameplay/09-07-quest-level-world-state-integration.md
+          - 09.08 Tiến trình người chơi: design/gameplay/09-08-progression-mapping-story-quest-level-player-progression.md
+          - 09.09 Ma trận truy vết: design/gameplay/09-09-story-quest-mechanic-level-progression-traceability-matrix.md
+          - 09.10 Bản chốt nội dung: design/gameplay/09-10-gameplay-content-baseline.md
+  - Hồ sơ Minipower: README.md
