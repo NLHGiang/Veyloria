@@ -3601,3 +3601,1330 @@ You don't remember choosing.
 - Người xem/player lần đầu thấy protagonist trong quá khứ chủ động để lại một thông điệp cho chính mình.
 - Reveal hiện tại mới chỉ là: **“I don't remember choosing.”**
 - Chưa reveal ai can thiệp ký ức, tại sao protagonist tự xóa/để mất ký ức, sự kiện thật sự ở settlement, V01 biết bao nhiêu, metal object thực sự là gì, và vì sao thế giới có thể “remember” những hành động mà protagonist không nhớ.
+
+
+---
+
+# ACT IV — THE PERSON YOU WERE
+
+> **ACT THEME:** Identity is not recovered. It is chosen.
+>
+> **CENTRAL CONFLICT:** The protagonist meets versions of themselves that all appear to be real.
+>
+> **ACT QUESTION:** If the person you were made choices you cannot accept, are they still you?
+
+---
+
+## SCENE 04-01 — THE ROOM WITHOUT A DOOR
+
+### SCENE HEADING
+
+**INT. MEMORY ARCHIVE — UNKNOWN DEPTH**
+
+### OPENING IMAGE
+
+Black.
+
+Không có hình ảnh.
+
+Không có tiếng bước chân.
+
+Chỉ có tiếng thở.
+
+Của protagonist.
+
+Một nhịp.
+
+Hai nhịp.
+
+Rồi—
+
+Một tiếng CLICK.
+
+Metal object trong tay protagonist tự phát sáng.
+
+Ánh sáng rất yếu.
+
+Đủ để nhìn thấy bàn tay.
+
+Protagonist mở mắt.
+
+Họ đang đứng.
+
+Không nhớ mình đã đứng dậy từ lúc nào.
+
+V01 không còn ở bên cạnh.
+
+Protagonist quay lại.
+
+Không có lối ra.
+
+Không có Archivist.
+
+Không có những vật thể treo trong bóng tối.
+
+Chỉ có một căn phòng đá hình vuông.
+
+Bốn bức tường.
+
+Một chiếc ghế.
+
+Một chiếc bàn.
+
+Trên bàn—
+
+một chiếc đèn dầu.
+
+Protagonist tiến lại.
+
+Ngọn đèn tự sáng.
+
+Trên ghế có một người đang ngồi.
+
+Quay lưng lại.
+
+### DIALOGUE
+
+**PROTAGONIST**
+
+Who are you?
+
+Người ngồi trên ghế không trả lời.
+
+Protagonist nhìn quanh.
+
+**PROTAGONIST**
+
+Where is V01?
+
+Không phản ứng.
+
+Protagonist bước thêm một bước.
+
+Người trên ghế cuối cùng lên tiếng.
+
+**PAST SELF**
+
+You already know.
+
+Protagonist đứng chết lặng.
+
+Giọng nói.
+
+Không giống hoàn toàn.
+
+Nhưng—
+
+là giọng của họ.
+
+**PROTAGONIST**
+
+...me?
+
+Past Self cười rất khẽ.
+
+Không vui.
+
+Không buồn.
+
+Chỉ mệt.
+
+**PAST SELF**
+
+The version you keep trying to find.
+
+Protagonist nhìn người đó.
+
+**PROTAGONIST**
+
+Turn around.
+
+Past Self không quay.
+
+**PAST SELF**
+
+You don't want that.
+
+**PROTAGONIST**
+
+I do.
+
+Một khoảng im lặng.
+
+**PAST SELF**
+
+No.
+
+Past Self đứng lên.
+
+Quay lại.
+
+Gương mặt giống protagonist.
+
+Không phải một bản sao hoàn hảo.
+
+Có những khác biệt nhỏ.
+
+Một vết sẹo.
+
+Một ánh mắt khác.
+
+Một sự bình tĩnh mà protagonist hiện tại không có.
+
+Nhưng không thể nhầm.
+
+Đó là họ.
+
+### EMOTIONAL BEAT
+
+Protagonist không sợ.
+
+Điều đáng sợ hơn:
+
+**họ nhận ra chính mình.**
+
+---
+
+## SCENE 04-02 — THE PERSON YOU WERE
+
+### SCENE HEADING
+
+**INT. MEMORY ARCHIVE — THE ROOM**
+
+Past Self đứng đối diện protagonist.
+
+Hai người nhìn nhau.
+
+Không ai nói trước.
+
+Cuối cùng—
+
+**PROTAGONIST**
+
+What did you do?
+
+Past Self trả lời ngay.
+
+**PAST SELF**
+
+Which part?
+
+Protagonist cau mày.
+
+**PROTAGONIST**
+
+The fire.
+
+**PAST SELF**
+
+I started it.
+
+**PROTAGONIST**
+
+Why?
+
+**PAST SELF**
+
+Because something had to burn.
+
+**PROTAGONIST**
+
+What?
+
+Past Self nhìn họ.
+
+**PAST SELF**
+
+A memory.
+
+Protagonist lắc đầu.
+
+**PROTAGONIST**
+
+That's not an answer.
+
+**PAST SELF**
+
+It's the only one you still have.
+
+Protagonist tiến lên.
+
+**PROTAGONIST**
+
+People were hurt.
+
+Past Self không phủ nhận.
+
+**PAST SELF**
+
+Yes.
+
+**PROTAGONIST**
+
+People lost their homes.
+
+**PAST SELF**
+
+Yes.
+
+**PROTAGONIST**
+
+You did that.
+
+Past Self nhìn thẳng vào họ.
+
+**PAST SELF**
+
+Yes.
+
+Một khoảng im lặng.
+
+**PROTAGONIST**
+
+Then you're a monster.
+
+Past Self không phản ứng.
+
+Một lúc sau—
+
+**PAST SELF**
+
+Maybe.
+
+Protagonist chờ một lời biện hộ.
+
+Không có.
+
+**PAST SELF**
+
+That's why you erased me.
+
+Protagonist khựng lại.
+
+**PROTAGONIST**
+
+I erased you?
+
+**PAST SELF**
+
+You erased the part of you that could remember making that choice.
+
+**PROTAGONIST**
+
+That's not why.
+
+**PAST SELF**
+
+Then why?
+
+Protagonist không trả lời.
+
+Past Self gật đầu.
+
+**PAST SELF**
+
+Exactly.
+
+---
+
+## SCENE 04-03 — THREE DAYS
+
+### SCENE HEADING
+
+**INT. MEMORY ARCHIVE — MEMORY CHAMBER**
+
+Past Self chạm vào mặt bàn.
+
+Căn phòng biến đổi.
+
+Không còn đá.
+
+Không còn đèn.
+
+Một không gian ký ức xuất hiện.
+
+### MEMORY
+
+**EXT. SETTLEMENT — THREE DAYS AGO — EVENING**
+
+Settlement vẫn còn nguyên.
+
+Không cháy.
+
+Người dân đi lại.
+
+Trẻ con chạy trên đường.
+
+Protagonist của ba ngày trước bước qua cổng.
+
+V01 đi bên cạnh.
+
+Nhưng—
+
+V01 trẻ hơn.
+
+Hoặc có thể chỉ là ký ức khiến nó trông khác.
+
+Protagonist hiện tại nhìn cảnh đó.
+
+**PROTAGONIST**
+
+That's me.
+
+**PAST SELF**
+
+Yes.
+
+**PROTAGONIST**
+
+I remember this.
+
+Past Self nhìn họ.
+
+**PAST SELF**
+
+No.
+
+Một beat.
+
+**PAST SELF**
+
+You remember watching it.
+
+Protagonist im lặng.
+
+Trong ký ức, một WOMAN chạy đến.
+
+**WOMAN**
+
+You came back.
+
+Past Self dừng.
+
+**PAST SELF**
+
+I told you not to wait.
+
+**WOMAN**
+
+You said you'd fix it.
+
+Past Self không trả lời.
+
+Người phụ nữ nhìn V01.
+
+Rồi nhìn protagonist.
+
+**WOMAN**
+
+Did you find it?
+
+Past Self nhìn metal object.
+
+**PAST SELF**
+
+Yes.
+
+Protagonist hiện tại nhìn xuống tay mình.
+
+Metal object vẫn ở đó.
+
+### MEMORY
+
+Past Self bước vào một căn nhà.
+
+Cửa đóng.
+
+---
+
+### BACK TO SCENE
+
+Protagonist quay sang Past Self.
+
+**PROTAGONIST**
+
+What was inside?
+
+Past Self không trả lời.
+
+**PROTAGONIST**
+
+What was inside?
+
+**PAST SELF**
+
+You don't want to see it.
+
+**PROTAGONIST**
+
+You keep saying that.
+
+**PAST SELF**
+
+Because you keep asking the wrong question.
+
+**PROTAGONIST**
+
+Then what's the right one?
+
+Past Self nhìn họ.
+
+**PAST SELF**
+
+Why did you come back?
+
+---
+
+## SCENE 04-04 — THE HOUSE
+
+### SCENE HEADING
+
+**INT. MEMORY — ABANDONED HOUSE — NIGHT**
+
+Protagonist hiện tại đang đứng trong ký ức.
+
+Cùng một căn nhà.
+
+Nhưng lần này—
+
+không hoang.
+
+Có người sống ở đây.
+
+Một chiếc bàn.
+
+Một chiếc giường.
+
+Một chiếc đèn.
+
+Trên tường—
+
+những ký hiệu giống metal object.
+
+Past Self bước vào.
+
+Một MAN đứng chờ.
+
+### DIALOGUE
+
+**MAN**
+
+You shouldn't have come back.
+
+**PAST SELF**
+
+I had to.
+
+**MAN**
+
+No.
+
+Người đàn ông nhìn V01.
+
+**MAN**
+
+You wanted to.
+
+Past Self không phản ứng.
+
+**MAN**
+
+There's a difference.
+
+Protagonist hiện tại nhìn Past Self.
+
+**PROTAGONIST**
+
+Who is he?
+
+Past Self không trả lời.
+
+Người đàn ông nhìn thẳng vào protagonist hiện tại.
+
+Như thể—
+
+ông ta có thể nhìn thấy họ.
+
+**MAN**
+
+You're still trying to change it.
+
+Protagonist giật mình.
+
+**PROTAGONIST**
+
+Can you see me?
+
+Người đàn ông không trả lời.
+
+Past Self quay lại.
+
+**PAST SELF**
+
+Don't listen to him.
+
+**MAN**
+
+You said that before.
+
+Past Self tiến tới.
+
+**PAST SELF**
+
+Give me the object.
+
+Người đàn ông lắc đầu.
+
+**MAN**
+
+You know what happens when you use it.
+
+Past Self im lặng.
+
+**MAN**
+
+You forget.
+
+**PAST SELF**
+
+That's the point.
+
+**MAN**
+
+No.
+
+Một beat.
+
+**MAN**
+
+That's the lie.
+
+---
+
+## SCENE 04-05 — THE FIRST CHOICE
+
+### SCENE HEADING
+
+**INT. MEMORY — ABANDONED HOUSE — CONTINUOUS**
+
+Past Self lấy metal object.
+
+Đặt nó lên bàn.
+
+Các ký hiệu trên tường sáng lên.
+
+Protagonist hiện tại nhìn.
+
+Một loạt hình ảnh xuất hiện.
+
+Không phải ký ức.
+
+**Các khả năng.**
+
+Settlement cháy.
+
+Settlement không cháy.
+
+Người dân chạy.
+
+Người dân ở lại.
+
+V01 biến mất.
+
+V01 đứng bên protagonist.
+
+Past Self nhìn tất cả.
+
+**PAST SELF**
+
+There was no clean choice.
+
+**PROTAGONIST**
+
+So you chose the fire.
+
+**PAST SELF**
+
+I chose the only thing I thought would end it.
+
+**PROTAGONIST**
+
+End what?
+
+Past Self nhìn họ.
+
+Lần đầu tiên—
+
+có sợ hãi trong mắt Past Self.
+
+**PAST SELF**
+
+Me.
+
+Protagonist không hiểu.
+
+**PROTAGONIST**
+
+What?
+
+**PAST SELF**
+
+Not my life.
+
+Một beat.
+
+**PAST SELF**
+
+My memory.
+
+Protagonist nhìn những ký hiệu.
+
+**PAST SELF**
+
+Every time they remembered me...
+
+Một hình ảnh lóe lên.
+
+Một ngôi nhà khác.
+
+Một người khác.
+
+Một đứa trẻ.
+
+Một trận chiến.
+
+**PAST SELF**
+
+...the same thing happened again.
+
+Protagonist nhìn những hình ảnh.
+
+**PROTAGONIST**
+
+What happened?
+
+Past Self không trả lời.
+
+Thay vào đó—
+
+**PAST SELF**
+
+Ask V01.
+
+---
+
+## SCENE 04-06 — V01
+
+### SCENE HEADING
+
+**INT. MEMORY ARCHIVE — UNKNOWN CHAMBER**
+
+Căn phòng biến mất.
+
+Protagonist rơi xuống nền đá.
+
+V01 đang đứng trước mặt.
+
+Một mình.
+
+Protagonist đứng dậy.
+
+**PROTAGONIST**
+
+You knew.
+
+V01 nhìn họ.
+
+**PROTAGONIST**
+
+You knew who I was.
+
+V01 không phản ứng.
+
+**PROTAGONIST**
+
+You knew I had done this before.
+
+V01 cúi đầu.
+
+**PROTAGONIST**
+
+You knew I erased myself.
+
+Một khoảng im lặng.
+
+**PROTAGONIST**
+
+Why didn't you tell me?
+
+V01 tiến lại gần.
+
+Protagonist lùi lại.
+
+**PROTAGONIST**
+
+No.
+
+V01 dừng.
+
+**PROTAGONIST**
+
+Don't.
+
+Protagonist nhìn nó.
+
+**PROTAGONIST**
+
+Every time I asked you...
+
+Họ nghẹn lại.
+
+**PROTAGONIST**
+
+...you just walked away.
+
+V01 nhìn protagonist.
+
+Rồi—
+
+nó đặt chân xuống nền đá.
+
+KENG.
+
+Một âm thanh quen thuộc.
+
+Một ký ức mở ra.
+
+### MEMORY
+
+Protagonist của ba ngày trước quỳ trước V01.
+
+**PAST SELF**
+
+When I wake up—
+
+V01 nhìn họ.
+
+**PAST SELF**
+
+Don't tell me.
+
+Một beat.
+
+**PAST SELF**
+
+Let me choose.
+
+V01 không di chuyển.
+
+**PAST SELF**
+
+If I ask you who I was...
+
+Past Self đặt tay lên đầu V01.
+
+**PAST SELF**
+
+...don't answer.
+
+### BACK TO SCENE
+
+Protagonist hiện tại nhìn V01.
+
+Hiểu.
+
+Không phải V01 phản bội họ.
+
+V01 đã làm đúng điều protagonist từng yêu cầu.
+
+**PROTAGONIST**
+
+I told you not to tell me.
+
+V01 cúi đầu.
+
+**PROTAGONIST**
+
+And then I hated you for obeying.
+
+V01 nhìn lên.
+
+Protagonist bật cười.
+
+Một tiếng cười rất nhỏ.
+
+Đau.
+
+**PROTAGONIST**
+
+That's cruel.
+
+V01 không phản ứng.
+
+**PROTAGONIST**
+
+I made you carry it.
+
+---
+
+## SCENE 04-07 — THE OTHER ME
+
+### SCENE HEADING
+
+**INT. MEMORY ARCHIVE — THE WHITE FIELD**
+
+Protagonist bước ra khỏi bóng tối.
+
+Trước mặt—
+
+cánh đồng ban đầu.
+
+Sương.
+
+Ánh sáng trắng.
+
+Và Past Self đứng giữa cánh đồng.
+
+Không còn trẻ hơn.
+
+Không còn già hơn.
+
+Chỉ là—
+
+**một phiên bản khác của chính họ.**
+
+Protagonist tiến lại.
+
+**PROTAGONIST**
+
+You knew I would come here.
+
+**PAST SELF**
+
+Yes.
+
+**PROTAGONIST**
+
+You knew I would hate you.
+
+**PAST SELF**
+
+I hoped you would.
+
+Protagonist dừng.
+
+**PROTAGONIST**
+
+Why?
+
+Past Self nhìn settlement ở xa.
+
+**PAST SELF**
+
+Because if you forgave me too quickly...
+
+Một beat.
+
+**PAST SELF**
+
+...you'd become me again.
+
+Protagonist im lặng.
+
+Đây là lần đầu tiên họ hiểu.
+
+Past Self không để lại ký ức để được tha thứ.
+
+Họ để lại nó như một **cảnh báo**.
+
+**PROTAGONIST**
+
+Then what am I supposed to do with you?
+
+Past Self nhìn thẳng vào họ.
+
+**PAST SELF**
+
+Nothing.
+
+**PROTAGONIST**
+
+Nothing?
+
+**PAST SELF**
+
+You don't have to become me.
+
+Protagonist nhìn họ.
+
+**PAST SELF**
+
+And you don't have to destroy me.
+
+Một beat.
+
+**PAST SELF**
+
+I'm what you were.
+
+**PROTAGONIST**
+
+Not what I am.
+
+Past Self mỉm cười.
+
+Lần đầu tiên.
+
+**PAST SELF**
+
+Exactly.
+
+---
+
+## SCENE 04-08 — THE CHOICE
+
+### SCENE HEADING
+
+**INT. MEMORY ARCHIVE — CORE CHAMBER**
+
+Một căn phòng khổng lồ.
+
+Ở trung tâm—
+
+một vòng tròn bằng đá.
+
+Bên trong vòng tròn:
+
+hàng nghìn ánh sáng.
+
+Mỗi ánh sáng là một phiên bản ký ức.
+
+Past Self đứng một bên.
+
+Protagonist đứng bên kia.
+
+V01 ở giữa.
+
+Metal object nằm trên nền đá.
+
+Past Self nhìn nó.
+
+**PAST SELF**
+
+Take it.
+
+Protagonist không di chuyển.
+
+**PROTAGONIST**
+
+What happens?
+
+**PAST SELF**
+
+You remember everything.
+
+Protagonist nhìn hàng nghìn ánh sáng.
+
+**PROTAGONIST**
+
+Everything?
+
+**PAST SELF**
+
+Everything you chose.
+
+Một beat.
+
+**PAST SELF**
+
+Everything you failed to choose.
+
+**PROTAGONIST**
+
+And then?
+
+Past Self nhìn họ.
+
+**PAST SELF**
+
+Then you decide whether I'm you.
+
+Protagonist tiến tới metal object.
+
+Đưa tay.
+
+Dừng lại.
+
+Một nhịp.
+
+Hai nhịp.
+
+Họ không nhặt nó.
+
+Thay vào đó—
+
+Protagonist quay sang Past Self.
+
+**PROTAGONIST**
+
+I don't need to know everything.
+
+Past Self nhìn họ.
+
+**PAST SELF**
+
+No?
+
+**PROTAGONIST**
+
+I need to know enough.
+
+**PAST SELF**
+
+Enough for what?
+
+Protagonist nhìn V01.
+
+Rồi nhìn metal object.
+
+Cuối cùng nhìn chính mình.
+
+**PROTAGONIST**
+
+To choose what happens next.
+
+Past Self không nói.
+
+Protagonist bước qua metal object.
+
+Không lấy.
+
+Không phá.
+
+Chỉ bỏ lại.
+
+---
+
+## SCENE 04-09 — THE PERSON YOU ARE
+
+### SCENE HEADING
+
+**INT. MEMORY ARCHIVE — CONTINUOUS**
+
+Các ký ức bắt đầu tắt.
+
+Từng cái một.
+
+Không bị xóa.
+
+Chỉ trở về bóng tối.
+
+Past Self cũng bắt đầu mờ đi.
+
+Protagonist nhìn họ.
+
+**PROTAGONIST**
+
+Will I remember you?
+
+Past Self nhìn protagonist.
+
+**PAST SELF**
+
+Probably not the way you want.
+
+**PROTAGONIST**
+
+Then how?
+
+Past Self suy nghĩ.
+
+**PAST SELF**
+
+As a choice.
+
+Protagonist gật đầu.
+
+Past Self biến mất.
+
+Không có ánh sáng.
+
+Không có tiếng động.
+
+Chỉ—
+
+trống rỗng.
+
+Protagonist đứng một mình.
+
+V01 tiến đến.
+
+Protagonist nhìn nó.
+
+Lần này không hỏi:
+
+*What do you remember?*
+
+Họ hỏi:
+
+**PROTAGONIST**
+
+What do you want?
+
+V01 nhìn họ.
+
+Một khoảng im lặng.
+
+Rồi nó quay đi.
+
+Không phải để bỏ protagonist.
+
+Mà để dẫn đường.
+
+Protagonist đi theo.
+
+---
+
+## SCENE 04-10 — THE WORLD OUTSIDE
+
+### SCENE HEADING
+
+**EXT. FOREST — MORNING**
+
+Cánh cửa Archive mở.
+
+Protagonist và V01 bước ra.
+
+Ánh sáng buổi sáng.
+
+Gió.
+
+Cây.
+
+Tiếng chim.
+
+Thế giới vẫn ở đó.
+
+Không thay đổi.
+
+Protagonist đứng trước cửa.
+
+Nhìn metal object trong tay.
+
+Họ đã lấy nó lúc nào—
+
+không rõ.
+
+Nhưng lần này nó không phát sáng.
+
+Không chỉ dẫn.
+
+Không xác nhận ký ức.
+
+Chỉ là một vật thể.
+
+Protagonist nhìn nó một lúc.
+
+Rồi—
+
+họ cất nó đi.
+
+V01 nhìn protagonist.
+
+**PROTAGONIST**
+
+I still don't know who I was.
+
+V01 không phản ứng.
+
+**PROTAGONIST**
+
+Maybe that's okay.
+
+Họ bước đi.
+
+Một lúc sau—
+
+Protagonist dừng.
+
+Nhìn về phía xa.
+
+Settlement.
+
+Khói vẫn còn.
+
+Những người sống sót vẫn còn ở đó.
+
+Protagonist nhìn.
+
+**PROTAGONIST**
+
+But they know.
+
+V01 nhìn settlement.
+
+**PROTAGONIST**
+
+They remember someone.
+
+Một beat.
+
+**PROTAGONIST**
+
+And that person was me.
+
+Họ tiếp tục bước.
+
+### FINAL IMAGE OF ACT IV
+
+Camera ở lại.
+
+Protagonist và V01 nhỏ dần giữa con đường.
+
+Phía sau—
+
+cánh cửa Archive từ từ đóng.
+
+Không khóa.
+
+Không biến mất.
+
+Chỉ đóng.
+
+Trên mặt đá xuất hiện một dòng chữ:
+
+**THE PERSON YOU WERE IS NOT THE PERSON YOU MUST BECOME.**
+
+Fade.
+
+---
+
+# ACT IV REVEAL
+
+Act IV không reveal rằng Past Self là “evil version” hay một kẻ khác.
+
+Reveal thực sự là:
+
+- Protagonist **đã biết mình có thể quên**.
+- Protagonist **đã chủ động yêu cầu V01 không nói sự thật**.
+- V01 không phản bội protagonist; nó đang giữ đúng lời hứa mà protagonist quá khứ đã yêu cầu.
+- Past Self không tìm kiếm sự tha thứ.
+- Past Self muốn protagonist hiện tại **không lặp lại chính mình**.
+- Protagonist không cần khôi phục toàn bộ quá khứ để có quyền hành động.
+- **Ký ức có thể giải thích một lựa chọn, nhưng không quyết định lựa chọn tiếp theo.**
+
+### ACT IV CORE LINE
+
+> **“I'm what you were.”**
+>
+> **“Not what I am.”**
+
+### TRANSITION TO ACT V
+
+Act IV kết thúc khi protagonist lần đầu tiên **không còn đi tìm con người mình từng là**.
+
+Họ bắt đầu đối diện với câu hỏi lớn hơn:
+
+> **Nếu thế giới đã nhớ về tôi theo những cách khác nhau — tôi sẽ để nó nhớ về tôi như thế nào?**
+
+Đó là điểm chuyển từ **Identity** sang **Consequence / Agency** của Act V.
