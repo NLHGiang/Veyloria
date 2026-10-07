@@ -49,10 +49,13 @@ Các ví dụ cụ thể để kiểm chứng concept bằng gameplay thực t�
 - **[The Bridge](maps/bridge.md)**  
   Mini-map mẫu: một vấn đề rõ ràng, một hành động chính, một thay đổi của thế giới và một lớp story chưa được giải thích.
 
-### 🧭 Working Direction
+### 🧭 Step 4 — DNA Proposal
+
+- **[DNA V2 Proposal](decisions/dna-v2-proposal.md)**  
+  Bản đề xuất DNA được đưa ra để tranh luận/chốt; chưa phải canon và không phải Veyloria V1 chính thức.
 
 - **[Working Direction — Step 4](decisions/working-direction.md)**  
-  Ghi nhận các quyết định nền tảng của Bước 4: vai trò của DNA và prototype, trạng thái Pre-V1, không tạo DNA V2 và thứ tự phát triển tiếp theo.
+  Ghi nhận hướng làm việc và nguyên tắc tích hợp quyết định trực tiếp vào source hiện tại.
 
 ### 📐 Design Principles
 
