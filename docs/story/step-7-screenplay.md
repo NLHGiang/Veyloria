@@ -8396,3 +8396,1116 @@ Veyloria does not end with its past repaired.
 It ends with its people being allowed to carry that past themselves.
 
 And that is the first time the world is truly free.
+
+
+---
+
+# EPILOGUE — THE WORLD REMEMBERS
+
+> **EPILOGUE THEME:** A person's story does not end when they leave it.
+>
+> **PURPOSE:** Show the long-term consequence of the protagonist's choice without undoing the ambiguity of the story.
+>
+> **EPILOGUE QUESTION:** What remains after the person who caused the story is gone?
+
+---
+
+## SCENE EP-01 — YEARS LATER
+
+### SCENE HEADING
+
+**EXT. SETTLEMENT — MORNING**
+
+Years have passed.
+
+The settlement has changed.
+
+Some houses are new.
+
+Some old walls remain.
+
+The road has been repaired.
+
+The field is larger.
+
+Children run through the same courtyard where people once argued about the past.
+
+Life continued.
+
+That is the first thing we see.
+
+Not ruins.
+
+Not tragedy.
+
+**Life.**
+
+A young girl carries a bundle of papers toward the community hall.
+
+She is perhaps ten.
+
+She stops beside an old stone marker.
+
+The same kind of marker seen earlier.
+
+She touches it.
+
+Nothing happens.
+
+She smiles anyway.
+
+Then continues.
+
+---
+
+## SCENE EP-02 — THE ROOM OF MANY STORIES
+
+### SCENE HEADING
+
+**INT. COMMUNITY HALL — MORNING**
+
+The room has changed.
+
+The old records are still there.
+
+But they are no longer hidden.
+
+Shelves contain:
+
+Letters.
+
+Drawings.
+
+Objects.
+
+Names.
+
+Different accounts of the same events.
+
+A large wooden board hangs on the wall.
+
+At the top:
+
+> **WHAT WE REMEMBER**
+
+Below it are many entries.
+
+Some contradict one another.
+
+Some have been crossed out.
+
+Some have been corrected.
+
+Some have notes beside them:
+
+> **UNCERTAIN**
+
+> **SECOND-HAND**
+
+> **WITNESSED**
+
+> **DISPUTED**
+
+The young girl places a new page among them.
+
+An OLD WOMAN watches.
+
+She is older than before.
+
+She recognizes the handwriting.
+
+**OLD WOMAN**
+
+What's that?
+
+**GIRL**
+
+My mother's story.
+
+**OLD WOMAN**
+
+About what?
+
+The girl hesitates.
+
+**GIRL**
+
+About them.
+
+The Old Woman looks at the page.
+
+She understands.
+
+---
+
+## SCENE EP-03 — THE NAME
+
+### SCENE HEADING
+
+**INT. COMMUNITY HALL — CONTINUOUS**
+
+The page contains a drawing.
+
+A person walking beside a strange creature.
+
+V01.
+
+The drawing is crude.
+
+The Old Woman smiles.
+
+**OLD WOMAN**
+
+That's not what they looked like.
+
+The girl looks up.
+
+**GIRL**
+
+You saw them?
+
+The Old Woman pauses.
+
+A long pause.
+
+**OLD WOMAN**
+
+Yes.
+
+**GIRL**
+
+Were they a hero?
+
+The Old Woman considers the question.
+
+**OLD WOMAN**
+
+No.
+
+The girl looks disappointed.
+
+**GIRL**
+
+A villain?
+
+The Old Woman shakes her head.
+
+**OLD WOMAN**
+
+No.
+
+**GIRL**
+
+Then what were they?
+
+The Old Woman looks at the drawing.
+
+**OLD WOMAN**
+
+Someone who made a terrible choice.
+
+A beat.
+
+**OLD WOMAN**
+
+And then learned they couldn't undo it.
+
+The girl thinks about this.
+
+**GIRL**
+
+Did they become good?
+
+The Old Woman smiles faintly.
+
+**OLD WOMAN**
+
+They became responsible.
+
+That answer stays with the girl.
+
+---
+
+## SCENE EP-04 — THE STORY CHANGES
+
+### SCENE HEADING
+
+**EXT. SETTLEMENT — AFTERNOON**
+
+The girl walks through the settlement.
+
+She hears different people telling different versions.
+
+A FARMER speaks to his son.
+
+**FARMER**
+
+They saved the children.
+
+Across the courtyard:
+
+An OLD MAN speaks to a neighbor.
+
+**OLD MAN**
+
+They caused the fire.
+
+Near the well:
+
+A WOMAN speaks quietly.
+
+**WOMAN**
+
+They tried to stop something worse.
+
+The girl listens.
+
+Three versions.
+
+She looks confused.
+
+She approaches the Old Woman.
+
+**GIRL**
+
+Which one is true?
+
+The Old Woman looks at her.
+
+**OLD WOMAN**
+
+What do you think?
+
+The girl thinks.
+
+**GIRL**
+
+All three?
+
+The Old Woman smiles.
+
+**OLD WOMAN**
+
+Maybe.
+
+A beat.
+
+**OLD WOMAN**
+
+Maybe none of them.
+
+The girl frowns.
+
+**OLD WOMAN**
+
+That's why we keep the stories.
+
+---
+
+## SCENE EP-05 — V01
+
+### SCENE HEADING
+
+**EXT. FOREST EDGE — EVENING**
+
+A small animal moves through the grass.
+
+It stops.
+
+Looks toward the road.
+
+V01.
+
+Older.
+
+Scarred.
+
+Slower.
+
+Still recognizable.
+
+V01 approaches a tree.
+
+At its base is a small collection of objects.
+
+A piece of wood.
+
+A faded ribbon.
+
+A child's drawing.
+
+A stone.
+
+V01 looks at them.
+
+Then sits.
+
+No supernatural event.
+
+No voice.
+
+Only memory.
+
+V01 looks down the road.
+
+For a moment:
+
+### MEMORY FRAGMENT
+
+The protagonist walking beside V01.
+
+Years earlier.
+
+**PROTAGONIST**
+
+You don't have to follow me.
+
+V01 keeps walking.
+
+**PROTAGONIST**
+
+You know that, right?
+
+V01 keeps walking.
+
+### BACK TO SCENE
+
+V01 closes its eyes.
+
+The memory fades.
+
+V01 remains.
+
+---
+
+## SCENE EP-06 — THE EMPTY CHAIR
+
+### SCENE HEADING
+
+**INT. COMMUNITY HALL — NIGHT**
+
+The hall is almost empty.
+
+The Old Woman sits at the long table.
+
+Across from her:
+
+An empty chair.
+
+She places an old metal clasp on the table.
+
+The same type of clasp from the underground chamber.
+
+She looks at it.
+
+**OLD WOMAN**
+
+I remember you differently.
+
+A beat.
+
+**OLD WOMAN**
+
+I remember being angry.
+
+She looks toward the empty chair.
+
+**OLD WOMAN**
+
+I still am.
+
+Another beat.
+
+**OLD WOMAN**
+
+But I remember the child you carried too.
+
+Silence.
+
+**OLD WOMAN**
+
+I don't know which memory should win.
+
+She touches the table.
+
+**OLD WOMAN**
+
+So neither will.
+
+She places the clasp beside the other records.
+
+Then closes the book.
+
+---
+
+## SCENE EP-07 — THE NEXT GENERATION
+
+### SCENE HEADING
+
+**INT. COMMUNITY HALL — DAY**
+
+The young girl sits at the table.
+
+Several children surround her.
+
+The old records are open.
+
+One child points at a page.
+
+**BOY**
+
+This says the fire happened at night.
+
+Another child points to another page.
+
+**GIRL**
+
+This says dawn.
+
+The first child looks confused.
+
+**BOY**
+
+That's impossible.
+
+The young girl thinks.
+
+**GIRL**
+
+Maybe they were both awake at different times.
+
+The other children look at her.
+
+**BOY**
+
+Then how do we know?
+
+The girl looks toward the board.
+
+At the words:
+
+> **UNCERTAIN**
+
+She points.
+
+**GIRL**
+
+We don't.
+
+The children are silent.
+
+Then one of them smiles.
+
+**BOY**
+
+That's annoying.
+
+The girl laughs.
+
+**GIRL**
+
+Yeah.
+
+They continue reading.
+
+---
+
+## SCENE EP-08 — THE ARCHIVE
+
+### SCENE HEADING
+
+**INT. ARCHIVE — YEARS LATER**
+
+The Memory Archive still exists.
+
+But it has changed.
+
+There are no priests.
+
+No authority.
+
+No single voice.
+
+The entrance is open.
+
+People enter freely.
+
+Records are labeled.
+
+Witnesses are named.
+
+Uncertainty is acknowledged.
+
+A young HISTORIAN walks through the shelves.
+
+She stops before an old inscription.
+
+The same contradiction:
+
+> **WE REMEMBERED.**
+
+Beside it:
+
+> **WE FORGOT.**
+
+Underneath, someone has added:
+
+> **WE ARE STILL HERE.**
+
+The historian touches the words.
+
+She does not activate anything.
+
+She simply reads.
+
+---
+
+## SCENE EP-09 — THE OBJECT REMAINS
+
+### SCENE HEADING
+
+**EXT. RIDGE — SUNSET**
+
+The stone where the protagonist left the metal object.
+
+The object is still there.
+
+But no longer untouched.
+
+Someone has built a simple shelter over it.
+
+A wooden sign stands beside it.
+
+It reads:
+
+> **DO NOT USE WITHOUT WITNESSES.**
+
+Below:
+
+> **DO NOT USE TO MAKE MEMORY AGREE.**
+
+And beneath that:
+
+> **IF YOU USE IT, RECORD WHY.**
+
+A group of young people stand nearby.
+
+One of them asks:
+
+**YOUNG MAN**
+
+Why don't we destroy it?
+
+An older woman answers:
+
+**OLDER WOMAN**
+
+Because pretending dangerous things don't exist is another kind of forgetting.
+
+The young man looks at the object.
+
+**YOUNG MAN**
+
+Will we ever use it?
+
+The older woman looks at him.
+
+**OLDER WOMAN**
+
+I hope not.
+
+A beat.
+
+**OLDER WOMAN**
+
+But hope is not a safety system.
+
+The young man nods.
+
+They leave.
+
+The object remains.
+
+---
+
+## SCENE EP-10 — NO STATUE
+
+### SCENE HEADING
+
+**EXT. SETTLEMENT SQUARE — YEARS LATER**
+
+There is no statue of the protagonist.
+
+No monument.
+
+No heroic inscription.
+
+Instead:
+
+A simple wall.
+
+Hundreds of names.
+
+People who died.
+
+People who survived.
+
+People who rebuilt.
+
+People whose memories were lost.
+
+At the center:
+
+No single name.
+
+Only:
+
+> **WE WERE HERE.**
+
+Children play beneath it.
+
+An old man sits nearby.
+
+He watches them.
+
+Smiles.
+
+---
+
+## SCENE EP-11 — THE ROAD
+
+### SCENE HEADING
+
+**EXT. FOREST ROAD — DUSK**
+
+A traveler walks alone.
+
+Not the protagonist.
+
+A young person carrying a bag.
+
+They reach the fork from Act VII.
+
+Three paths.
+
+They stop.
+
+Look at the choices.
+
+A small creature crosses the road.
+
+The traveler watches.
+
+The creature disappears into the trees.
+
+The traveler chooses a path.
+
+We do not follow.
+
+The camera remains behind.
+
+The road continues.
+
+---
+
+## SCENE EP-12 — V01'S LAST MEMORY
+
+### SCENE HEADING
+
+**EXT. FOREST CLEARING — NIGHT**
+
+V01 lies beneath a tree.
+
+Older now.
+
+Very old.
+
+The moon is visible through the branches.
+
+V01 breathes slowly.
+
+A final memory appears.
+
+### MEMORY
+
+The protagonist and V01 walk together.
+
+No fire.
+
+No Archive.
+
+No ruins.
+
+Only the road.
+
+The protagonist looks at V01.
+
+**PROTAGONIST**
+
+You stayed.
+
+V01 looks at them.
+
+**PROTAGONIST**
+
+You always stayed.
+
+The protagonist smiles.
+
+**PROTAGONIST**
+
+Thank you.
+
+The memory does not break violently.
+
+It simply becomes lighter.
+
+The road becomes sunlight.
+
+The protagonist walks farther ahead.
+
+V01 follows.
+
+### BACK TO SCENE
+
+V01 opens its eyes.
+
+Looks toward the road.
+
+Nothing is there.
+
+V01 closes its eyes.
+
+The forest continues.
+
+Wind through leaves.
+
+A distant bird.
+
+Silence.
+
+---
+
+## SCENE EP-13 — THE STORY TOLD AGAIN
+
+### SCENE HEADING
+
+**INT. COMMUNITY HALL — NIGHT**
+
+The young girl from the beginning is now older.
+
+She sits before a group of children.
+
+An old book rests in front of her.
+
+The children wait.
+
+**CHILD**
+
+Tell us about the traveler.
+
+She smiles.
+
+**OLDER GIRL**
+
+Which story?
+
+The children laugh.
+
+One child answers:
+
+**CHILD**
+
+All of them.
+
+She opens the book.
+
+But before she begins:
+
+She adds a blank page at the end.
+
+She writes:
+
+> **WHAT HAPPENED NEXT?**
+
+Then leaves the page open.
+
+---
+
+## SCENE EP-14 — WHAT REMAINS
+
+### SCENE HEADING
+
+**EXT. VEYLORIA — DAWN**
+
+The camera moves across Veyloria.
+
+The settlement.
+
+The village.
+
+The forest.
+
+The Archive.
+
+The ridge.
+
+The roads.
+
+People wake.
+
+Doors open.
+
+Fires are lit.
+
+Fields are worked.
+
+Children run.
+
+Old people tell stories.
+
+Some stories contradict.
+
+Some are forgotten.
+
+Some are corrected.
+
+Some remain uncertain forever.
+
+And that is okay.
+
+Because the world is no longer trying to make memory perfect.
+
+It is trying to make memory honest.
+
+---
+
+# FINAL IMAGE
+
+### SCENE HEADING
+
+**EXT. VEYLORIA — MORNING**
+
+A child walks along a road.
+
+They stop beside a weathered wooden marker.
+
+There is no name on it.
+
+Only a sentence:
+
+> **REMEMBER, THEN CHOOSE.**
+
+The child reads it.
+
+Looks toward the horizon.
+
+Then keeps walking.
+
+The camera rises.
+
+The road becomes one line among thousands.
+
+The world stretches beyond it.
+
+No protagonist.
+
+No V01.
+
+No Archive.
+
+No object.
+
+Only Veyloria.
+
+Alive.
+
+### FINAL VOICE
+
+**OLDER GIRL (V.O.)**
+
+People always ask what happened.
+
+A beat.
+
+**OLDER GIRL (V.O.)**
+
+We tell them what we remember.
+
+Another beat.
+
+**OLDER GIRL (V.O.)**
+
+Then we tell them what we don't.
+
+Silence.
+
+**OLDER GIRL (V.O.)**
+
+That's how the story stays alive.
+
+FADE TO BLACK.
+
+---
+
+# EPILOGUE REVEAL
+
+The Epilogue does not reveal a final hidden truth.
+
+It reveals something quieter:
+
+**the protagonist's final choice worked.**
+
+Not because Veyloria became unified.
+
+It did not.
+
+Not because everyone learned the same version.
+
+They did not.
+
+Not because the Memory Conflict disappeared.
+
+It did not.
+
+The world changed because people learned to live with uncertainty without immediately turning uncertainty into authority.
+
+The protagonist is gradually transformed from:
+
+**a person people argue about**
+
+into:
+
+**a story people continue to argue about.**
+
+That distinction matters.
+
+Their identity is no longer controlled by their own recovered memories.
+
+It is no longer controlled by an Archive.
+
+It is no longer controlled by the player.
+
+It belongs to the people who remember them.
+
+---
+
+# THE FATE OF V01
+
+V01 does not receive a heroic death scene.
+
+V01's ending is intentionally quiet.
+
+It eventually dies naturally, after a long life.
+
+Its final memory is not the fire.
+
+Not the Archive.
+
+Not the protagonist's mistake.
+
+It is:
+
+**the road.**
+
+This closes the relationship between the protagonist and V01.
+
+V01 spent the story protecting the protagonist's choice.
+
+In the end, it is remembered not as a guardian of truth.
+
+But as the companion who stayed beside someone while they learned how to live without controlling the past.
+
+---
+
+# THE FATE OF THE METAL OBJECT
+
+The object is never destroyed.
+
+It becomes a historical artifact.
+
+But unlike the Memory Archive, it is not worshipped.
+
+It is documented.
+
+Its uses are recorded.
+
+Its dangers are taught.
+
+Its history includes the protagonist's mistakes.
+
+No one is allowed to pretend it was invented for noble purposes.
+
+No one is allowed to pretend it was purely evil.
+
+It becomes a permanent reminder:
+
+> **A tool does not become safe because the person holding it has good intentions.**
+
+---
+
+# THE FATE OF THE PROTAGONIST
+
+The protagonist's ultimate fate remains unknown.
+
+There is no corpse.
+
+No confirmed death.
+
+No final return.
+
+No revelation that they became a legendary ruler.
+
+No prophecy.
+
+No monument.
+
+No canonical heroic ending.
+
+They simply continue beyond the story.
+
+Somewhere in Veyloria:
+
+A traveler may have seen them.
+
+A village may remember them.
+
+A child may have heard a story.
+
+Someone may hate them.
+
+Someone may forgive them.
+
+Someone may never know their name.
+
+That ambiguity is intentional.
+
+The protagonist wanted to stop controlling the past.
+
+The story therefore refuses to control their future.
+
+---
+
+# FINAL THEMATIC STATEMENT
+
+The story began with a person who could not remember who they were.
+
+It ends with a world that accepts that it cannot remember everything.
+
+The protagonist learned:
+
+> **You do not need a perfect memory to take responsibility.**
+
+Veyloria learned:
+
+> **You do not need one shared memory to remain a people.**
+
+And the player is left with:
+
+> **What will you do with what you remember?**
+
+---
+
+# FINAL LINE OF VEYLORIA
+
+> **“Remember, then choose.”**
