@@ -49,6 +49,11 @@ Các ví dụ cụ thể để kiểm chứng concept bằng gameplay thực t�
 - **[The Bridge](maps/bridge.md)**  
   Mini-map mẫu: một vấn đề rõ ràng, một hành động chính, một thay đổi của thế giới và một lớp story chưa được giải thích.
 
+### 🧭 Working Direction
+
+- **[Working Direction — Step 4](decisions/working-direction.md)**  
+  Ghi nhận các quyết định nền tảng của Bước 4: vai trò của DNA và prototype, trạng thái Pre-V1, không tạo DNA V2 và thứ tự phát triển tiếp theo.
+
 ### 📐 Design Principles
 
 - **[Design Principles](design-principles.md)**  
