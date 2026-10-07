@@ -1,5 +1,9 @@
 # Veyloria
 
+> **Trạng thái tài liệu:** Pre-V1 / Working Source  
+> Toàn bộ nội dung hiện tại là nguồn đang được xây dựng và kiểm chứng. Chưa có tài liệu nào được xem là **Veyloria V1 chính thức**. Không tạo nhánh tài liệu "DNA V2"; các quyết định mới sẽ được tích hợp trực tiếp vào bộ source hiện tại khi được chốt.
+
+
 > **Gameplay clean — Story open-ended.**
 
 Veyloria là một thế giới nơi những gì được nhớ, bị quên hoặc bị thay đổi có thể tác động trực tiếp đến thực tại.
