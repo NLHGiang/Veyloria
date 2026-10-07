@@ -6925,3 +6925,1474 @@ The next question is no longer:
 It is:
 
 > **Who gets to decide what the world remembers?**
+
+# ACT VII — WHAT SHOULD VEYLORIA REMEMBER?
+
+> **ACT THEME:** A world does not need one memory to remain whole. It needs the freedom to remember without being controlled.
+>
+> **CENTRAL CONFLICT:** The protagonist discovers that revealing the truth is not the same as deciding what the world should remember. The final danger is not forgetting. It is replacing every contradiction with one authorized story.
+>
+> **ACT QUESTION:** What should Veyloria remember?
+
+---
+
+## SCENE 07-01 — THE ROAD DOES NOT END
+
+### SCENE HEADING
+
+**EXT. FOREST ROAD — MORNING**
+
+The protagonist and V01 walk.
+
+The settlement is already far behind them.
+
+No one follows.
+
+No one calls them back.
+
+The road is narrow.
+
+Trees on both sides.
+
+Morning light moves through the branches.
+
+For the first time in a long time, the protagonist is not searching for a memory.
+
+They are simply walking.
+
+V01 stops.
+
+The protagonist stops too.
+
+Ahead:
+
+A fork in the road.
+
+Three paths.
+
+No signs.
+
+No markings.
+
+The protagonist looks at V01.
+
+**PROTAGONIST**
+
+Which one?
+
+V01 looks at all three.
+
+Then chooses the middle path.
+
+The protagonist follows.
+
+After several steps:
+
+**PROTAGONIST**
+
+You don't know either.
+
+V01 looks back.
+
+The protagonist smiles.
+
+**PROTAGONIST**
+
+Good.
+
+They continue.
+
+### EMOTIONAL BEAT
+
+For most of the story, uncertainty was something the protagonist feared.
+
+Now:
+
+**uncertainty is freedom.**
+
+---
+
+## SCENE 07-02 — THE FIRST VILLAGE
+
+### SCENE HEADING
+
+**EXT. HILLSIDE VILLAGE — AFTERNOON**
+
+The village is larger than the settlement.
+
+Stone houses.
+
+Terraced fields.
+
+A bell tower.
+
+Children running between buildings.
+
+Life.
+
+Ordinary life.
+
+The protagonist and V01 enter.
+
+A WOMAN notices the protagonist.
+
+She freezes.
+
+Her expression changes.
+
+Recognition.
+
+Fear.
+
+Then confusion.
+
+**WOMAN**
+
+You.
+
+The protagonist stops.
+
+**PROTAGONIST**
+
+Do I know you?
+
+The woman studies them.
+
+**WOMAN**
+
+No.
+
+A beat.
+
+**WOMAN**
+
+But I know what you did.
+
+The protagonist does not defend themselves.
+
+**PROTAGONIST**
+
+What did I do?
+
+The woman points toward the bell tower.
+
+**WOMAN**
+
+You burned the archive.
+
+V01 becomes still.
+
+The protagonist looks at the tower.
+
+**PROTAGONIST**
+
+When?
+
+**WOMAN**
+
+Before my grandmother was born.
+
+The protagonist looks at V01.
+
+There is no recognition.
+
+No memory.
+
+The woman continues.
+
+**WOMAN**
+
+You destroyed everything they knew.
+
+The protagonist looks toward the village.
+
+**PROTAGONIST**
+
+And what happened afterward?
+
+The woman hesitates.
+
+**WOMAN**
+
+We rebuilt.
+
+A beat.
+
+**WOMAN**
+
+But we never agreed on why.
+
+The protagonist understands.
+
+Another contradiction.
+
+---
+
+## SCENE 07-03 — THE VILLAGE'S VERSION
+
+### SCENE HEADING
+
+**INT. VILLAGE HALL — EVENING**
+
+A long wooden table.
+
+Old people sit around it.
+
+The protagonist stands at the other end.
+
+An ELDER places an old book on the table.
+
+Its cover is burned.
+
+**ELDER**
+
+This is what we kept.
+
+He opens it.
+
+Most pages are empty.
+
+Only fragments remain.
+
+**ELDER**
+
+According to this, you came here.
+
+**ELDER**
+
+You entered the archive.
+
+**ELDER**
+
+You burned it.
+
+**ELDER**
+
+Then you disappeared.
+
+The protagonist listens.
+
+**PROTAGONIST**
+
+Why?
+
+The Elder looks at the others.
+
+No one answers.
+
+Finally:
+
+**ELDER**
+
+Some say you wanted to erase the past.
+
+Another villager interrupts.
+
+**VILLAGER**
+
+Some say you were trying to stop the archive from spreading.
+
+The Elder looks at them.
+
+**ELDER**
+
+Some say there was never an archive.
+
+The protagonist looks at the burned pages.
+
+**PROTAGONIST**
+
+Which one do you believe?
+
+The Elder closes the book.
+
+**ELDER**
+
+The one my father taught me.
+
+A beat.
+
+**ELDER**
+
+Until someone brings me something better.
+
+The protagonist nods.
+
+Not offended.
+
+Not relieved.
+
+Simply listening.
+
+---
+
+## SCENE 07-04 — THE SECOND ARCHIVE
+
+### SCENE HEADING
+
+**INT. VILLAGE HALL — NIGHT**
+
+The protagonist walks through a storage room.
+
+V01 follows.
+
+Old objects line the walls.
+
+Broken pottery.
+
+Tools.
+
+Weapons.
+
+Children's drawings.
+
+Letters.
+
+A small metal box.
+
+The protagonist opens it.
+
+Inside:
+
+A fragment of the same symbol.
+
+The metal object reacts faintly.
+
+The protagonist does not touch it.
+
+V01 looks at the box.
+
+### MEMORY FRAGMENT
+
+A younger version of the village.
+
+People running.
+
+A fire.
+
+Someone carrying the metal box.
+
+A person shouting:
+
+**VOICE**
+
+Don't let them choose for us.
+
+The memory breaks.
+
+### BACK TO SCENE
+
+The protagonist closes the box.
+
+**PROTAGONIST**
+
+It happened here too.
+
+V01 nods.
+
+**PROTAGONIST**
+
+Before me.
+
+V01 nods again.
+
+The protagonist looks toward the village hall.
+
+**PROTAGONIST**
+
+Then this isn't something I can fix.
+
+V01 remains beside them.
+
+**PROTAGONIST**
+
+Maybe it was never something anyone could fix.
+
+---
+
+## SCENE 07-05 — THE TEMPTATION
+
+### SCENE HEADING
+
+**INT. VILLAGE HALL — LATE NIGHT**
+
+Everyone is asleep.
+
+The protagonist sits alone.
+
+The damaged book is open.
+
+Beside it:
+
+The metal object.
+
+The protagonist studies it.
+
+A faint vibration.
+
+The object seems almost alive.
+
+Not speaking.
+
+Not commanding.
+
+Offering.
+
+The protagonist reaches toward it.
+
+Stops.
+
+### MEMORY FRAGMENT
+
+The protagonist sees the settlement.
+
+The fire.
+
+The people.
+
+The Archive.
+
+Their own hand activating the object.
+
+Then:
+
+The village.
+
+Another fire.
+
+Another contradiction.
+
+Another use.
+
+Another attempt to control what people remember.
+
+The protagonist pulls their hand away.
+
+Silence.
+
+**PROTAGONIST**
+
+No.
+
+The room returns to normal.
+
+V01 enters.
+
+The protagonist looks at it.
+
+**PROTAGONIST**
+
+I could make them remember.
+
+V01 watches.
+
+**PROTAGONIST**
+
+I could make all of them remember the same thing.
+
+V01 does not move.
+
+**PROTAGONIST**
+
+And that would be the same mistake.
+
+V01 approaches.
+
+The protagonist places the object on the table.
+
+**PROTAGONIST**
+
+Truth isn't permission to control people.
+
+---
+
+## SCENE 07-06 — WHAT SHOULD BE REMEMBERED
+
+### SCENE HEADING
+
+**EXT. VILLAGE SQUARE — MORNING**
+
+The villagers gather.
+
+The protagonist stands before them.
+
+The damaged book is on a table.
+
+Beside it:
+
+The metal box.
+
+And the protagonist's metal object.
+
+The Elder speaks.
+
+**ELDER**
+
+You said you knew what happened.
+
+**PROTAGONIST**
+
+I know what I can prove.
+
+The villagers exchange looks.
+
+**ELDER**
+
+And what can you prove?
+
+The protagonist looks at the objects.
+
+**PROTAGONIST**
+
+That something happened.
+
+A beat.
+
+**PROTAGONIST**
+
+That people were hurt.
+
+Another beat.
+
+**PROTAGONIST**
+
+That people made choices.
+
+The protagonist looks around the square.
+
+**PROTAGONIST**
+
+That those choices had consequences.
+
+The Elder watches carefully.
+
+**ELDER**
+
+And the rest?
+
+**PROTAGONIST**
+
+The rest belongs to memory.
+
+Silence.
+
+A YOUNG WOMAN steps forward.
+
+**YOUNG WOMAN**
+
+Then what should we remember?
+
+The protagonist looks at her.
+
+This is the question.
+
+The protagonist takes a breath.
+
+**PROTAGONIST**
+
+Not me.
+
+The villagers listen.
+
+**PROTAGONIST**
+
+Remember what happened to the people who were there.
+
+**PROTAGONIST**
+
+Remember what was lost.
+
+**PROTAGONIST**
+
+Remember what was chosen.
+
+**PROTAGONIST**
+
+Remember what it cost.
+
+A beat.
+
+**PROTAGONIST**
+
+But don't remember one version because someone told you that it was the only one.
+
+The square becomes silent.
+
+**PROTAGONIST**
+
+Remember enough to know what must not happen again.
+
+---
+
+## SCENE 07-07 — THE TESTIMONIES
+
+### SCENE HEADING
+
+**EXT. VILLAGE SQUARE — LATER**
+
+The villagers begin speaking.
+
+One at a time.
+
+An OLD MAN.
+
+**OLD MAN**
+
+My grandfather said the archive was destroyed by a stranger.
+
+A WOMAN:
+
+**WOMAN**
+
+My grandmother said she destroyed it herself.
+
+A FARMER:
+
+**FARMER**
+
+My father said there was no fire.
+
+A CHILD:
+
+**CHILD**
+
+My mother said there was.
+
+The protagonist listens.
+
+No correction.
+
+No judgment.
+
+The testimonies overlap.
+
+Contradict.
+
+Complete pieces of one another.
+
+The Elder finally stands.
+
+**ELDER**
+
+Write them all down.
+
+A younger villager looks confused.
+
+**YOUNG VILLAGER**
+
+Even the ones that are wrong?
+
+The Elder looks at the protagonist.
+
+Then at the villagers.
+
+**ELDER**
+
+Especially those.
+
+A beat.
+
+**ELDER**
+
+If we erase every memory that disagrees with us, eventually we'll have nothing left but ourselves.
+
+The protagonist looks at V01.
+
+For the first time:
+
+V01 appears almost relieved.
+
+---
+
+## SCENE 07-08 — THE CHOICE RETURNS
+
+### SCENE HEADING
+
+**INT. VILLAGE HALL — EVENING**
+
+The metal object lies on the table.
+
+The protagonist.
+
+V01.
+
+The Elder.
+
+A few villagers.
+
+Everyone watches.
+
+The Elder speaks.
+
+**ELDER**
+
+What will you do with it?
+
+The protagonist looks at the object.
+
+**PROTAGONIST**
+
+Leave it.
+
+The Elder frowns.
+
+**ELDER**
+
+Here?
+
+**PROTAGONIST**
+
+Where people can see it.
+
+**ELDER**
+
+Someone could use it.
+
+**PROTAGONIST**
+
+Yes.
+
+**ELDER**
+
+Someone could misuse it.
+
+**PROTAGONIST**
+
+Yes.
+
+The Elder looks confused.
+
+**ELDER**
+
+Then why leave it?
+
+The protagonist looks around the room.
+
+**PROTAGONIST**
+
+Because hiding dangerous knowledge doesn't make people safer.
+
+A beat.
+
+**PROTAGONIST**
+
+It only makes them helpless when they find it.
+
+The Elder considers this.
+
+**PROTAGONIST**
+
+Let them know what it is.
+
+**PROTAGONIST**
+
+Let them know what I did with it.
+
+**PROTAGONIST**
+
+Let them decide whether it should ever be used again.
+
+The Elder slowly nods.
+
+---
+
+## SCENE 07-09 — V01'S LAST SECRET
+
+### SCENE HEADING
+
+**EXT. VILLAGE OUTSKIRTS — NIGHT**
+
+The protagonist and V01 sit beside a small fire.
+
+The village lights glow behind them.
+
+The protagonist watches the flames.
+
+**PROTAGONIST**
+
+You could have told me.
+
+V01 looks at them.
+
+**PROTAGONIST**
+
+Before all this.
+
+Silence.
+
+**PROTAGONIST**
+
+You could have told me who I was.
+
+V01 remains silent.
+
+The protagonist smiles faintly.
+
+**PROTAGONIST**
+
+No.
+
+A beat.
+
+**PROTAGONIST**
+
+That's not right.
+
+They look at V01.
+
+**PROTAGONIST**
+
+You did tell me.
+
+V01 tilts its head.
+
+**PROTAGONIST**
+
+You just didn't tell me with words.
+
+The protagonist remembers.
+
+Every refusal.
+
+Every hesitation.
+
+Every moment V01 allowed them to discover instead of being told.
+
+**PROTAGONIST**
+
+You wanted me to choose without knowing what I would choose.
+
+V01 looks at the fire.
+
+**PROTAGONIST**
+
+Thank you.
+
+V01 rests its head against the protagonist.
+
+No dialogue.
+
+The fire continues.
+
+---
+
+## SCENE 07-10 — THE MEMORY THAT MUST REMAIN
+
+### SCENE HEADING
+
+**EXT. VILLAGE — DAWN**
+
+The village wakes.
+
+A new board has been placed beside the hall.
+
+On it are written many accounts of the same event.
+
+Different names.
+
+Different memories.
+
+Contradictions preserved.
+
+At the bottom is a single sentence:
+
+> **NO SINGLE MEMORY SPEAKS FOR EVERYONE.**
+
+The protagonist reads it.
+
+Then notices something beneath.
+
+A child has added another sentence in uneven handwriting:
+
+> **BUT WE WERE ALL THERE.**
+
+The protagonist smiles.
+
+V01 watches.
+
+The protagonist does not remove it.
+
+---
+
+## SCENE 07-11 — THE ROAD HOME
+
+### SCENE HEADING
+
+**EXT. FOREST ROAD — MORNING**
+
+The protagonist and V01 leave the village.
+
+They walk for a long time.
+
+No dialogue.
+
+The protagonist eventually looks back.
+
+The village is small in the distance.
+
+The protagonist stops.
+
+**PROTAGONIST**
+
+Do you think they'll remember me?
+
+V01 looks back too.
+
+The protagonist waits.
+
+V01 gives no answer.
+
+The protagonist smiles.
+
+**PROTAGONIST**
+
+That's okay.
+
+They continue walking.
+
+---
+
+## SCENE 07-12 — VEYLORIA
+
+### SCENE HEADING
+
+**EXT. RIDGE OVERLOOKING THE VALLEY — DAY**
+
+The road rises.
+
+The protagonist and V01 reach the top of a ridge.
+
+Below:
+
+Veyloria.
+
+Not one settlement.
+
+Not one history.
+
+A vast landscape.
+
+Villages.
+
+Rivers.
+
+Ruins.
+
+Forests.
+
+Old roads.
+
+Places the protagonist has never seen.
+
+Places that have been remembering long before them.
+
+Wind moves across the valley.
+
+The protagonist looks down.
+
+V01 stands beside them.
+
+**PROTAGONIST**
+
+I thought I was trying to remember who I was.
+
+A beat.
+
+**PROTAGONIST**
+
+I was wrong.
+
+V01 looks at them.
+
+**PROTAGONIST**
+
+I was trying to make the past stop changing.
+
+Silence.
+
+**PROTAGONIST**
+
+It was never mine to control.
+
+The protagonist looks across Veyloria.
+
+**PROTAGONIST**
+
+Neither is this.
+
+---
+
+## SCENE 07-13 — THE LAST MEMORY
+
+### SCENE HEADING
+
+**EXT. RIDGE — CONTINUOUS**
+
+The protagonist closes their eyes.
+
+For the first time, they do not force a memory to appear.
+
+They simply allow whatever comes.
+
+### MEMORY FRAGMENTS
+
+The settlement.
+
+The fire.
+
+The child.
+
+The Old Woman.
+
+The Archive.
+
+The Figure.
+
+The stone marker.
+
+The village.
+
+The people who disagreed.
+
+V01.
+
+Their own hand holding the metal object.
+
+Their own hand letting it go.
+
+Every memory overlaps.
+
+None replaces another.
+
+The protagonist sees themselves in all of them.
+
+Not hero.
+
+Not villain.
+
+Not victim.
+
+Not savior.
+
+A person who made a choice.
+
+A person who caused harm.
+
+A person who tried to repair it.
+
+A person who finally stopped trying to own the answer.
+
+The memories begin to fade.
+
+The protagonist opens their eyes.
+
+The valley remains.
+
+Nothing has been rewritten.
+
+---
+
+## SCENE 07-14 — WHAT SHOULD VEYLORIA REMEMBER?
+
+### SCENE HEADING
+
+**EXT. RIDGE — SUNSET**
+
+The sun lowers behind the mountains.
+
+V01 sits beside the protagonist.
+
+The protagonist watches the valley.
+
+**PROTAGONIST**
+
+What should Veyloria remember?
+
+Silence.
+
+Wind.
+
+Then:
+
+**PROTAGONIST**
+
+Everything?
+
+The protagonist shakes their head.
+
+**PROTAGONIST**
+
+No one can remember everything.
+
+A beat.
+
+**PROTAGONIST**
+
+One truth?
+
+Another shake of the head.
+
+**PROTAGONIST**
+
+No one can own that either.
+
+The protagonist looks toward the distant settlements.
+
+**PROTAGONIST**
+
+Then maybe...
+
+They search for the words.
+
+**PROTAGONIST**
+
+...Veyloria should remember that it can be wrong.
+
+V01 looks at them.
+
+**PROTAGONIST**
+
+And still choose.
+
+A long silence.
+
+**PROTAGONIST**
+
+It should remember the people.
+
+Not just the events.
+
+The lives inside them.
+
+The cost.
+
+The choices.
+
+The consequences.
+
+The things we did to one another.
+
+The things we tried to do better.
+
+A breath.
+
+**PROTAGONIST**
+
+And it should remember that forgetting is not the same as being forgiven.
+
+V01 looks toward the horizon.
+
+The protagonist stands.
+
+---
+
+## SCENE 07-15 — THE OBJECT
+
+### SCENE HEADING
+
+**EXT. RIDGE — NIGHT**
+
+The protagonist takes out the metal object.
+
+They look at it one final time.
+
+It is old.
+
+Scarred.
+
+Ordinary.
+
+The protagonist places it on a flat stone.
+
+V01 watches.
+
+The protagonist does not destroy it.
+
+Does not activate it.
+
+Does not hide it.
+
+They leave it where someone can find it.
+
+Beside it, they place a small piece of wood.
+
+On the wood:
+
+A single sentence.
+
+> **KNOW WHAT IT DOES BEFORE YOU USE IT.**
+
+The protagonist steps away.
+
+V01 follows.
+
+After several steps, the protagonist looks back.
+
+The object remains.
+
+The wind moves over it.
+
+Nothing supernatural happens.
+
+That is the point.
+
+---
+
+## SCENE 07-16 — THE LAST WALK
+
+### SCENE HEADING
+
+**EXT. RIDGE ROAD — NIGHT**
+
+The protagonist and V01 walk into darkness.
+
+The road disappears between the trees.
+
+The protagonist no longer carries the metal object.
+
+No Archive.
+
+No record.
+
+No proof.
+
+Only themselves.
+
+V01 walks beside them.
+
+The protagonist stops.
+
+**PROTAGONIST**
+
+Where are we going?
+
+V01 looks ahead.
+
+The protagonist smiles.
+
+**PROTAGONIST**
+
+You don't know.
+
+V01 continues walking.
+
+The protagonist follows.
+
+---
+
+# FINAL IMAGE
+
+### SCENE HEADING
+
+**EXT. VEYLORIA — VARIOUS LOCATIONS — DAWN**
+
+A sequence of images.
+
+A child listens to an old story.
+
+An old woman tells a different version.
+
+Two people argue over what happened.
+
+A historian writes both accounts.
+
+A ruined house is rebuilt.
+
+A grave is cleaned.
+
+A name is spoken.
+
+Another name is forgotten.
+
+A road disappears beneath grass.
+
+Another road is made.
+
+A village bell rings.
+
+A person opens an old box.
+
+Inside:
+
+The burned wood.
+
+The child's toy.
+
+The broken clasp.
+
+The objects remain.
+
+No voice tells us which story is correct.
+
+The camera rises.
+
+Veyloria stretches beyond the horizon.
+
+Thousands of lives.
+
+Thousands of memories.
+
+Thousands of contradictions.
+
+The world continues.
+
+### FINAL VOICE
+
+**PROTAGONIST (V.O.)**
+
+We thought remembering would save us.
+
+A beat.
+
+**PROTAGONIST (V.O.)**
+
+Then we thought forgetting would.
+
+Another beat.
+
+**PROTAGONIST (V.O.)**
+
+Maybe neither was the answer.
+
+The camera continues rising.
+
+**PROTAGONIST (V.O.)**
+
+Maybe what matters is what we choose to do...
+
+A final pause.
+
+**PROTAGONIST (V.O.)**
+
+...after we remember.
+
+FADE TO BLACK.
+
+Silence.
+
+Then:
+
+A child's voice.
+
+**CHILD (V.O.)**
+
+Tell me what happened.
+
+Another voice answers.
+
+**OLDER VOICE (V.O.)**
+
+Which version?
+
+The child thinks.
+
+**CHILD (V.O.)**
+
+All of them.
+
+CUT TO BLACK.
+
+---
+
+# ACT VII REVEAL
+
+Act VII resolves the final thematic conflict without selecting a single canonical memory.
+
+The protagonist discovers that the ultimate danger is not merely forgetting.
+
+It is **controlled remembering**.
+
+If one person, institution, Archive, device, or authority decides what everyone must remember, Veyloria loses the freedom that makes its people human.
+
+The protagonist therefore refuses three possible solutions:
+
+1. **Restore every memory.**
+2. **Destroy every memory.**
+3. **Choose one memory as the official truth.**
+
+Instead, they choose a fourth path:
+
+> **Preserve the truth of consequences without controlling the memories of those who experienced them.**
+
+The protagonist accepts that different people may remember the same event differently.
+
+They accept that some memories will be incomplete.
+
+They accept that some memories will be wrong.
+
+They accept that they themselves may be remembered differently by different people.
+
+And they accept that they cannot force forgiveness by controlling the past.
+
+### ACT VII CORE LINE
+
+> **“Maybe what matters is what we choose to do after we remember.”**
+
+### FINAL THEMATIC RESOLUTION
+
+**Memory:**  
+Memory is plural.
+
+**Truth:**  
+Truth can be reconstructed, but no person owns it.
+
+**Identity:**  
+The protagonist is not defined by one recovered memory.
+
+**Consequence:**  
+Understanding why a choice was made does not erase what it caused.
+
+**Forgiveness:**  
+Forgiveness cannot be manufactured by rewriting memory.
+
+**Freedom:**  
+People must be allowed to remember differently.
+
+**Veyloria:**  
+Veyloria does not need to remember one story.
+
+It needs to remember that its people have the right to tell their own.
+
+---
+
+# FINAL STORY STATEMENT
+
+Veyloria began with a question:
+
+> **Who am I if I cannot remember myself?**
+
+It became:
+
+> **What happened if everyone remembers differently?**
+
+Then:
+
+> **What is true when memories contradict one another?**
+
+And finally:
+
+> **What should a world choose to remember?**
+
+The answer is not:
+
+**Everything.**
+
+The answer is not:
+
+**Nothing.**
+
+The answer is:
+
+> **Remember enough to understand the cost of what we do.**
+>
+> **Remember enough to recognize one another.**
+>
+> **Remember enough to avoid repeating the same harm.**
+>
+> **But never remember in a way that takes away another person's right to remember differently.**
+
+Veyloria does not end with its past repaired.
+
+It ends with its people being allowed to carry that past themselves.
+
+And that is the first time the world is truly free.
