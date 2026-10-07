@@ -173,3 +173,9 @@ Và:
 Cùng với:
 
 > **Ký ức là core mechanic phía sau; người chơi không nhất thiết phải liên tục được nhắc rằng họ đang "chơi một game về ký ức".**
+
+
+## 🎬 Step 7 — Production Screenplay
+
+- **[Production Screenplay — Step 7](story/step-7-screenplay.md)**  
+  Kịch bản dài dạng production screenplay hiện đã được triển khai qua Prologue, Act I và Act II, gồm scene heading, action, dialogue, character beats, reveals, transitions và continuity lock.
