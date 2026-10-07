@@ -179,3 +179,12 @@ Cùng với:
 
 - **[Production Screenplay — Step 7](story/step-7-screenplay.md)**  
   Kịch bản dài dạng production screenplay hiện đã được triển khai qua Prologue, Act I và Act II, gồm scene heading, action, dialogue, character beats, reveals, transitions và continuity lock.
+
+
+## 🎮 Step 8 — Gameplay Adaptation
+
+- **[Step 8 — Gameplay Adaptation](gameplay/step-8-gameplay-adaptation.md)**  
+  Khung chuyển hóa World, Story Bible và Screenplay thành gameplay architecture; gồm roadmap từ 8.1 đến 8.10.
+
+- **[8.1 — Player Fantasy + Gameplay Pillars + Core Gameplay Loop](gameplay/step-8-1-player-fantasy-gameplay-pillars-core-loop.md)**  
+  Định nghĩa player fantasy, player agency, 5 gameplay pillars, core gameplay loop, macro loop và progression philosophy.
