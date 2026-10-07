@@ -62,6 +62,11 @@ Các ví dụ cụ thể để kiểm chứng concept bằng gameplay thực t�
 - **[Step 5 Decision](decisions/step-5-world-premise-themes-core-fantasy.md)**  
   Bản định nghĩa World, Premise, Themes và Core Fantasy được xây dựng từ Step 4; hiện là working decision và chờ chốt cuối cùng.
 
+### 📖 Step 6 — Story Bible
+
+- **[Story Bible](story/story-bible.md)**  
+  Xương sống narrative của Veyloria: protagonist, V01, narrative progression, mystery architecture, emotional/thematic arcs, canon hierarchy và các vùng bí mật chưa được khóa.
+
 ### 📐 Design Principles
 
 - **[Design Principles](design-principles.md)**  
