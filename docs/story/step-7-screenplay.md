@@ -3068,3 +3068,536 @@ A second line slowly emerges.
 **BUT IT DOES NOT AGREE.**
 
 CUT TO BLACK.
+
+
+---
+
+## ACT III — THE CONTRADICTION (CONTINUATION / LOCKED DRAFT)
+
+> **Note:** This section extends the existing Act III screenplay with the revised continuation agreed in Step 7. It is appended after the current Act III material and should be treated as the latest continuation draft.
+
+### SCENE 03-05 — THE ROAD OUT
+
+**EXT. SETTLEMENT OUTSKIRTS — DAWN**
+
+Sương thấp phủ mặt đất.
+
+Settlement phía sau vẫn còn âm ỉ sau đêm cháy.
+
+Không phải một đám cháy lớn nữa.
+
+Chỉ còn những cột khói mỏng.
+
+Những mái nhà cháy đen.
+
+Một chiếc chuông nhỏ treo trên một cột gỗ bị cháy mất nửa thân.
+
+Nó không còn đủ nguyên vẹn để rung.
+
+Nhưng gió vẫn làm nó chuyển động.
+
+**KENG.**
+
+Một âm thanh rất nhỏ.
+
+Protagonist đứng bên ngoài settlement.
+
+Ba lô trên vai.
+
+Metal object nằm trong tay.
+
+Họ nhìn nó.
+
+Không có gì thay đổi.
+
+V01 đứng cách đó vài bước.
+
+Nó không nhìn protagonist.
+
+Nó nhìn settlement.
+
+Một lúc lâu.
+
+**PROTAGONIST**
+We can't stay.
+
+V01 không phản ứng.
+
+**PROTAGONIST**
+They're afraid of me.
+
+V01 quay đầu.
+
+**PROTAGONIST**
+And I don't blame them.
+
+Một khoảng im lặng.
+
+**PROTAGONIST**
+I remember what I did.
+
+V01 nhìn thẳng vào protagonist.
+
+**PROTAGONIST**
+At least...
+
+Nhân vật dừng.
+
+**PROTAGONIST**
+I think I do.
+
+V01 quay đi.
+
+Bắt đầu bước về phía con đường.
+
+Protagonist nhìn nó.
+
+Rồi đi theo.
+
+---
+
+### SCENE 03-06 — THE OTHER VERSION
+
+**EXT. RIVER CROSSING — AFTERNOON**
+
+Một con sông nhỏ cắt ngang đường.
+
+Một chiếc cầu gỗ cũ.
+
+Một người đàn ông lớn tuổi đang sửa dây buộc.
+
+Protagonist và V01 tiến đến.
+
+Người đàn ông nhìn họ.
+
+Ông lập tức nhận ra protagonist.
+
+**OLDER MAN**
+You.
+
+Protagonist dừng.
+
+**OLDER MAN**
+I heard what happened.
+
+**PROTAGONIST**
+Then you heard wrong.
+
+**OLDER MAN**
+Did I?
+
+Ông nhìn protagonist thật lâu.
+
+**PROTAGONIST**
+I stopped the fire.
+
+**OLDER MAN**
+You started it.
+
+Im lặng.
+
+**PROTAGONIST**
+No.
+
+**OLDER MAN**
+I saw you.
+
+**PROTAGONIST**
+You saw me light it.
+
+**OLDER MAN**
+Yes.
+
+**PROTAGONIST**
+Then you saw why.
+
+**OLDER MAN**
+Why?
+
+Protagonist im lặng.
+
+**OLDER MAN**
+You told us there was something inside.
+
+**PROTAGONIST**
+I did?
+
+**OLDER MAN**
+You said the fire was the only way.
+
+Người đàn ông nhìn metal object.
+
+**OLDER MAN**
+You came here three days ago.
+
+Protagonist chết lặng.
+
+**PROTAGONIST**
+What?
+
+**OLDER MAN**
+Three days ago.
+
+**PROTAGONIST**
+That's impossible.
+
+**OLDER MAN**
+You asked me where the old archive was.
+
+Protagonist nhìn ông.
+
+**OLDER MAN**
+You said you had forgotten something.
+
+**PROTAGONIST**
+I wasn't here three days ago.
+
+Người đàn ông nhìn họ với vẻ thương hại.
+
+**OLDER MAN**
+You said that last time.
+
+---
+
+### SCENE 03-07 — THE EMPTY MEMORY
+
+**EXT. RIVERBANK — LATER**
+
+Protagonist ngồi bên bờ sông.
+
+V01 ở gần đó.
+
+Nước chảy.
+
+Protagonist mở tay.
+
+Metal object nằm trên lòng bàn tay.
+
+**PROTAGONIST**
+Three days.
+
+Họ nhắm mắt.
+
+Cố nhớ.
+
+Một căn phòng.
+
+Một cánh cửa.
+
+Ánh sáng.
+
+Một giọng nói.
+
+Không nghe được lời.
+
+Protagonist mở mắt.
+
+**PROTAGONIST**
+Nothing.
+
+V01 tiến lại gần.
+
+**PROTAGONIST**
+You remember.
+
+V01 nhìn họ.
+
+**PROTAGONIST**
+Don't you?
+
+V01 ngồi xuống.
+
+**PROTAGONIST**
+Tell me.
+
+V01 im lặng.
+
+**PROTAGONIST**
+Please.
+
+Lần đầu tiên protagonist nói từ này.
+
+V01 nhìn họ lâu hơn bình thường.
+
+Rồi nó chạm nhẹ vào metal object.
+
+**CLICK.**
+
+Một âm thanh cơ học.
+
+Trên bề mặt vật thể xuất hiện một đường sáng.
+
+Một biểu tượng.
+
+Chính biểu tượng đã xuất hiện trên tường settlement.
+
+**PROTAGONIST**
+I've seen this.
+
+V01 lắc đầu.
+
+Protagonist cau mày.
+
+**PROTAGONIST**
+What?
+
+V01 lắc đầu lần nữa.
+
+Nó chỉ vào đầu protagonist.
+
+Rồi lại chỉ vào metal object.
+
+Protagonist nhìn nó.
+
+Một ý nghĩ đáng sợ xuất hiện.
+
+**PROTAGONIST**
+It doesn't show me memories.
+
+V01 im lặng.
+
+**PROTAGONIST**
+It tells me which memories are wrong.
+
+V01 không xác nhận.
+
+Không phủ nhận.
+
+Nhưng lần đầu tiên—
+
+nó không bước đi.
+
+---
+
+### SCENE 03-08 — THE ARCHIVE
+
+**EXT. OLD ARCHIVE ENTRANCE — DUSK**
+
+Một cấu trúc bằng đá nằm sâu trong rừng.
+
+Không có biển hiệu.
+
+Không có cửa lớn.
+
+Chỉ có một bức tường đá bị rễ cây nuốt gần hết.
+
+Trên tường:
+
+**cùng một biểu tượng.**
+
+Protagonist đứng trước nó.
+
+**PROTAGONIST**
+This is the place.
+
+V01 nhìn cánh cửa.
+
+**PROTAGONIST**
+You brought me here before.
+
+V01 không trả lời.
+
+**PROTAGONIST**
+Three days ago.
+
+Protagonist đặt tay lên cửa.
+
+Không có gì xảy ra.
+
+Họ nhìn V01.
+
+**PROTAGONIST**
+What did I do?
+
+V01 tiến đến.
+
+Nó đặt chân lên một phiến đá.
+
+**KENG.**
+
+Âm thanh giống tiếng chuông.
+
+Cả bức tường rung nhẹ.
+
+Những đường nứt phát sáng.
+
+Một cánh cửa ẩn từ từ mở.
+
+Bên trong tối hoàn toàn.
+
+Protagonist nhìn vào.
+
+**PROTAGONIST**
+If I went here before...
+
+Họ bước vào.
+
+**PROTAGONIST**
+...why don't I remember?
+
+V01 theo sau.
+
+Cánh cửa đóng lại.
+
+---
+
+### SCENE 03-09 — MEMORY ARCHIVE
+
+**INT. MEMORY ARCHIVE — CONTINUOUS**
+
+Không gian khổng lồ.
+
+Không giống thư viện.
+
+Không có sách.
+
+Không có giấy.
+
+Thay vào đó—
+
+hàng nghìn vật thể treo trong bóng tối.
+
+Một chiếc cốc.
+
+Một chiếc giày.
+
+Một chiếc chuông.
+
+Một mảnh gỗ cháy.
+
+Một con dao.
+
+Một bông hoa khô.
+
+Mỗi vật thể chứa một ánh sáng nhỏ.
+
+Như thể mỗi thứ là một ký ức.
+
+Protagonist bước giữa chúng.
+
+Một chiếc cốc bay ngang qua.
+
+Họ chạm vào.
+
+**FLASH.**
+
+Một căn bếp.
+
+Một người phụ nữ cười.
+
+Một đứa trẻ làm đổ nước.
+
+FLASH.
+
+Trở lại Archive.
+
+Protagonist thở gấp.
+
+**PROTAGONIST**
+That wasn't mine.
+
+V01 nhìn họ.
+
+**PROTAGONIST**
+Was it?
+
+Không phản ứng.
+
+Protagonist nhìn những ký ức khác.
+
+Một chiếc chuông.
+
+Họ chạm.
+
+**FLASH.**
+
+Settlement.
+
+Nhưng khác.
+
+Ban ngày.
+
+Mọi người đang tụ tập.
+
+Protagonist đứng giữa họ.
+
+Một người đang nói.
+
+FLASH.
+
+Một phiên bản khác.
+
+Settlement ban đêm.
+
+Ngọn lửa.
+
+Protagonist đứng trước tòa nhà.
+
+Nhưng lần này—
+
+họ không cầm đuốc.
+
+Có một người khác phía sau.
+
+Không nhìn rõ mặt.
+
+FLASH.
+
+Một phiên bản khác.
+
+Protagonist chạy khỏi tòa nhà.
+
+Đang mang theo metal object.
+
+FLASH.
+
+Một phiên bản khác.
+
+Protagonist đứng trước cửa Archive.
+
+Ba ngày trước.
+
+Rõ ràng.
+
+Không thể phủ nhận.
+
+Protagonist nhìn chính mình trong ký ức.
+
+Ký ức-version protagonist quay đầu.
+
+Như thể—
+
+đã biết protagonist hiện tại đang nhìn.
+
+**PROTAGONIST — MEMORY**
+If you're seeing this...
+
+Protagonist đông cứng.
+
+**PROTAGONIST — MEMORY**
+...then it worked.
+
+CUT TO BLACK.
+
+Một nhịp.
+
+Không có nhạc.
+
+Rồi giọng nói tiếp tục trong bóng tối.
+
+**PROTAGONIST — MEMORY**
+You don't remember choosing.
+
+---
+
+## ACT III — PART I END
+
+### Continuity Lock
+
+- Protagonist đã từng tới Memory Archive trước khi câu chuyện hiện tại bắt đầu.
+- Khoảng trống **“three days”** trở thành mystery trực tiếp.
+- Metal object không đơn thuần là chìa khóa; nó liên quan đến việc phân biệt / kiểm tra ký ức.
+- Archive chứa nhiều phiên bản ký ức, không phải một lịch sử duy nhất.
+- Người xem/player lần đầu thấy protagonist trong quá khứ chủ động để lại một thông điệp cho chính mình.
+- Reveal hiện tại mới chỉ là: **“I don't remember choosing.”**
+- Chưa reveal ai can thiệp ký ức, tại sao protagonist tự xóa/để mất ký ức, sự kiện thật sự ở settlement, V01 biết bao nhiêu, metal object thực sự là gì, và vì sao thế giới có thể “remember” những hành động mà protagonist không nhớ.
