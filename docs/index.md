@@ -57,6 +57,11 @@ Các ví dụ cụ thể để kiểm chứng concept bằng gameplay thực t�
 - **[Working Direction — Step 4](decisions/working-direction.md)**  
   Ghi nhận hướng làm việc và nguyên tắc tích hợp quyết định trực tiếp vào source hiện tại.
 
+### 📐 Step 5 — World + Premise + Themes + Core Fantasy
+
+- **[Step 5 Decision](decisions/step-5-world-premise-themes-core-fantasy.md)**  
+  Bản định nghĩa World, Premise, Themes và Core Fantasy được xây dựng từ Step 4; hiện là working decision và chờ chốt cuối cùng.
+
 ### 📐 Design Principles
 
 - **[Design Principles](design-principles.md)**  
