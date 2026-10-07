@@ -4928,3 +4928,773 @@ Họ bắt đầu đối diện với câu hỏi lớn hơn:
 > **Nếu thế giới đã nhớ về tôi theo những cách khác nhau — tôi sẽ để nó nhớ về tôi như thế nào?**
 
 Đó là điểm chuyển từ **Identity** sang **Consequence / Agency** của Act V.
+
+
+---
+
+# ACT V — CONSEQUENCE
+
+> **ACT THEME:** You cannot undo what you did. You can decide what it means now.
+>
+> **CENTRAL CONFLICT:** The protagonist returns to a settlement that remembers them differently from how they remember themselves.
+>
+> **ACT QUESTION:** If you cannot erase the consequences of your past, what can you still choose?
+
+---
+
+## SCENE 05-01 — THE RETURN
+
+### SCENE HEADING
+
+**EXT. SETTLEMENT EDGE — MORNING**
+
+The protagonist and V01 return to the settlement.
+
+Some houses are burned or damaged.
+
+Others have been rebuilt.
+
+The protagonist looks at the settlement for a long moment.
+
+### DIALOGUE
+
+**PROTAGONIST**
+How long has it been?
+
+V01 looks toward the houses.
+
+**PROTAGONIST**
+Three days.
+
+A beat.
+
+**PROTAGONIST**
+Feels longer.
+
+They continue toward the settlement.
+
+---
+
+## SCENE 05-02 — THE FIRST PERSON
+
+### SCENE HEADING
+
+**EXT. SETTLEMENT — MAIN ROAD — MORNING**
+
+Residents notice the protagonist.
+
+The reactions are not uniform.
+
+Some step away.
+
+Some stare.
+
+Some simply continue working.
+
+An OLD MAN watches from beside a damaged wall.
+
+**OLD MAN**
+You know what they told you.
+
+The protagonist stops.
+
+**OLD MAN**
+That's different.
+
+**PROTAGONIST**
+Tell me the truth.
+
+The Old Man looks at the houses.
+
+**OLD MAN**
+Truth doesn't make anything better.
+
+A beat.
+
+**OLD MAN**
+That's what you came back to learn.
+
+The protagonist says nothing.
+
+---
+
+## SCENE 05-03 — WHAT THEY REMEMBER
+
+### SCENE HEADING
+
+**INT. SETTLEMENT HALL — DAY**
+
+The WOMAN from the earlier memories is repairing a chair.
+
+She does not look surprised to see the protagonist.
+
+**WOMAN**
+You hurt me.
+
+A beat.
+
+**WOMAN**
+You also saved people.
+
+The protagonist looks at her.
+
+**PROTAGONIST**
+Which one is true?
+
+The Woman keeps repairing the chair.
+
+**WOMAN**
+Both.
+
+She looks up.
+
+**WOMAN**
+You always want the answer to be one thing.
+
+A beat.
+
+**WOMAN**
+Both are true.
+
+**PROTAGONIST**
+Why did I do it?
+
+The Woman studies them.
+
+**WOMAN**
+You already know.
+
+**PROTAGONIST**
+I don't.
+
+**WOMAN**
+You know enough.
+
+A beat.
+
+**WOMAN**
+You just don't like the answer.
+
+---
+
+## SCENE 05-04 — THE PEOPLE WHO STAYED
+
+### SCENE HEADING
+
+**EXT. SETTLEMENT — COURTYARD — DAY**
+
+Residents rebuild.
+
+Boards are carried.
+
+Walls are repaired.
+
+A roof is lifted back into place.
+
+The protagonist helps without being asked.
+
+A worker notices the metal object.
+
+He freezes.
+
+**WORKER**
+You still have it.
+
+The protagonist looks down.
+
+**PROTAGONIST**
+What does it do?
+
+The Worker shakes his head.
+
+**WORKER**
+Nothing anymore.
+
+**PROTAGONIST**
+Why?
+
+The Worker looks at the protagonist.
+
+**WORKER**
+Because you used it.
+
+A beat.
+
+**WORKER**
+Its cost was memory.
+
+The protagonist looks at V01.
+
+**WORKER**
+Every time you used it, the world forgot something.
+
+The protagonist looks at the object.
+
+There are three visible marks.
+
+V01 looks at them.
+
+Three.
+
+**PROTAGONIST**
+Three times.
+
+V01 does not answer.
+
+---
+
+## SCENE 05-05 — THE THIRD MEMORY
+
+### SCENE HEADING
+
+**INT. SETTLEMENT HALL — LATER**
+
+The Woman places a small wooden box on the table.
+
+**WOMAN**
+You left this.
+
+The protagonist opens it.
+
+Inside is a folded note.
+
+They unfold it.
+
+The handwriting is theirs.
+
+> **IF I COME BACK WITHOUT REMEMBERING, DON'T GIVE THIS TO ME.**
+
+The protagonist looks up.
+
+**PROTAGONIST**
+Why did you keep it?
+
+**WOMAN**
+Because you asked me to.
+
+The protagonist looks back into the box.
+
+Inside is a long list of names.
+
+Some are crossed out.
+
+Some are not.
+
+The protagonist reads silently.
+
+One name catches their attention.
+
+They recognize it.
+
+But cannot remember why.
+
+**PROTAGONIST**
+What's this?
+
+The Woman answers quietly.
+
+**WOMAN**
+Not a memory.
+
+A beat.
+
+**WOMAN**
+A responsibility.
+
+The protagonist closes the box.
+
+---
+
+## SCENE 05-06 — THE LAST PERSON
+
+### SCENE HEADING
+
+**EXT. SETTLEMENT — ABANDONED HOUSE — EVENING**
+
+The Man from the earlier memory is waiting outside the abandoned house.
+
+The protagonist approaches.
+
+**MAN**
+So it worked.
+
+**PROTAGONIST**
+What worked?
+
+**MAN**
+Forgetting.
+
+The protagonist's expression hardens.
+
+**PROTAGONIST**
+You knew.
+
+**MAN**
+Yes.
+
+**PROTAGONIST**
+And you let me do it.
+
+**MAN**
+You made the choice.
+
+**PROTAGONIST**
+You could have stopped me.
+
+**MAN**
+You didn't want me to.
+
+A beat.
+
+**MAN**
+You knew the cost.
+
+The protagonist looks toward the settlement.
+
+**MAN**
+Ask the people who survived.
+
+**MAN**
+Ask them what your choice was worth.
+
+The protagonist says nothing.
+
+---
+
+## SCENE 05-07 — THE CONSEQUENCE
+
+### SCENE HEADING
+
+**EXT. SETTLEMENT — NIGHT**
+
+The community gathers.
+
+No weapons.
+
+No ceremony.
+
+They simply stand around the protagonist.
+
+The protagonist looks from face to face.
+
+**PROTAGONIST**
+I don't remember everything.
+
+No one answers.
+
+**PROTAGONIST**
+I know that doesn't make it less real.
+
+The Old Woman steps forward.
+
+**OLD WOMAN**
+Don't run.
+
+A beat.
+
+**OLD WOMAN**
+Don't explain.
+
+Another beat.
+
+**OLD WOMAN**
+Don't ask us to forgive you.
+
+The protagonist looks at her.
+
+**OLD WOMAN**
+Remember.
+
+The word hangs in the air.
+
+**OLD WOMAN**
+Remember what you did.
+
+**OLD WOMAN**
+Remember what it cost.
+
+**OLD WOMAN**
+And don't make yourself innocent just because you cannot remember.
+
+The protagonist lowers their eyes.
+
+**PROTAGONIST**
+I won't.
+
+---
+
+## SCENE 05-08 — THE CHOICE TO STAY
+
+### SCENE HEADING
+
+**EXT. SETTLEMENT — DAWN**
+
+The protagonist repairs a damaged house.
+
+No grand montage.
+
+Just physical labor.
+
+A board.
+
+A nail.
+
+A hammer.
+
+A wall slowly becoming whole.
+
+Later, the protagonist sits beside V01 near a small fire.
+
+The metal object rests between them.
+
+**PROTAGONIST**
+If I destroy it, does any of this go away?
+
+V01 looks at the object.
+
+Then at the settlement.
+
+The answer is obvious.
+
+**PROTAGONIST**
+No.
+
+A beat.
+
+The protagonist puts the object inside a wooden box.
+
+They close the lid.
+
+They do not lock it.
+
+**PROTAGONIST**
+Someone should remember what it did.
+
+V01 stays beside them.
+
+---
+
+## SCENE 05-09 — THE NEW MEMORY
+
+### SCENE HEADING
+
+**EXT. SETTLEMENT — COURTYARD — SUNSET**
+
+The Woman approaches carrying a small stone.
+
+A name has been carved into it.
+
+She gives it to the protagonist.
+
+**PROTAGONIST**
+Who is this?
+
+**WOMAN**
+Someone you forgot.
+
+The protagonist looks at the name.
+
+**PROTAGONIST**
+Where should it go?
+
+The Woman looks toward the graves.
+
+Then back at the protagonist.
+
+**WOMAN**
+You tell me.
+
+The protagonist walks to the graves.
+
+They place the stone among the others.
+
+They do not remember the person.
+
+They do not pretend to.
+
+They simply acknowledge that the person existed.
+
+---
+
+## SCENE 05-10 — WHAT REMAINS
+
+### SCENE HEADING
+
+**EXT. SETTLEMENT — NIGHT**
+
+A CHILD approaches the protagonist.
+
+They look toward the damaged houses.
+
+**CHILD**
+Are you the one who burned them?
+
+The protagonist looks at the child.
+
+No escape.
+
+**PROTAGONIST**
+Yes.
+
+The child waits.
+
+**CHILD**
+Why?
+
+The protagonist almost answers.
+
+No choice.
+
+Trying to save everyone.
+
+I don't remember.
+
+They stop themselves.
+
+**PROTAGONIST**
+Because I thought I knew what was right.
+
+The child thinks about that.
+
+**CHILD**
+Were you right?
+
+The protagonist looks at the rebuilt house.
+
+Then at the people.
+
+Then at V01.
+
+**PROTAGONIST**
+No.
+
+A beat.
+
+**PROTAGONIST**
+But I'm here now.
+
+---
+
+## SCENE 05-11 — THE LAST DOOR
+
+### SCENE HEADING
+
+**EXT. FOREST — NIGHT**
+
+The protagonist and V01 leave the settlement.
+
+They walk in silence.
+
+V01 stops.
+
+It looks back.
+
+In the distance, the Archive is visible.
+
+Its door is open again.
+
+A faint light spills into the forest.
+
+The protagonist watches.
+
+**PROTAGONIST**
+There's still something there.
+
+V01 remains still.
+
+The protagonist looks at it.
+
+**PROTAGONIST**
+One more memory.
+
+V01 turns toward the Archive.
+
+Then begins walking.
+
+The protagonist follows.
+
+---
+
+## SCENE 05-12 — THE FINAL CONSEQUENCE
+
+### SCENE HEADING
+
+**INT. MEMORY ARCHIVE — CORE CHAMBER**
+
+One final memory remains.
+
+The protagonist enters the chamber.
+
+The light at the center activates.
+
+A younger version of the protagonist appears.
+
+Not the Past Self from Act IV.
+
+This is the protagonist immediately before the story began.
+
+They look directly toward the present.
+
+### MEMORY
+
+**PAST PROTAGONIST**
+If you're seeing this...
+
+A beat.
+
+**PAST PROTAGONIST**
+...then you survived.
+
+The present protagonist says nothing.
+
+**PAST PROTAGONIST**
+You may not be forgiven.
+
+A beat.
+
+**PAST PROTAGONIST**
+And forgiveness should never be the reason you continue.
+
+The image begins to fade.
+
+**PAST PROTAGONIST**
+Make it the reason you don't.
+
+The memory ends.
+
+No twist.
+
+No hidden identity.
+
+No new secret.
+
+Only a choice left behind.
+
+---
+
+## SCENE 05-13 — THE ANSWER
+
+### SCENE HEADING
+
+**INT. MEMORY ARCHIVE — CONTINUOUS**
+
+The protagonist stands in silence.
+
+They look at the empty space where the memory was.
+
+**PROTAGONIST**
+I thought I came here to remember.
+
+V01 waits.
+
+**PROTAGONIST**
+But I came here to stop remembering.
+
+A beat.
+
+**PROTAGONIST**
+That's different.
+
+They turn toward the exit.
+
+**PROTAGONIST**
+Let's go.
+
+V01 follows.
+
+They leave the chamber.
+
+---
+
+## SCENE 05-14 — THE PERSON YOU BECOME
+
+### SCENE HEADING
+
+**EXT. FOREST — DAWN**
+
+The protagonist and V01 walk into the morning.
+
+There is no destination.
+
+No quest marker.
+
+No prophecy.
+
+No voice telling them what comes next.
+
+Only a road.
+
+The protagonist does not turn back.
+
+V01 walks beside them.
+
+The road stretches toward the horizon.
+
+Not away from the past.
+
+Toward the future.
+
+FADE TO BLACK.
+
+---
+
+# ACT V REVEAL
+
+Act V deliberately refuses a final identity twist.
+
+There is no reveal that the protagonist is secretly someone else.
+
+There is no hidden evil identity.
+
+There is no final memory that reverses the meaning of the story.
+
+The final reveal is the **absence of a reveal**.
+
+The protagonist must live with irreversible consequences.
+
+Some people remember them as a destroyer.
+
+Some remember them as a savior.
+
+Some remember only fragments.
+
+Some cannot remember them at all.
+
+The protagonist does not need a complete past to choose who they are now.
+
+But responsibility remains.
+
+### ACT V CORE LINE
+
+> **“Were you right?”**
+>
+> **“No.”**
+>
+> **“But I'm here now.”**
+
+### FINAL STORY PRINCIPLE
+
+The protagonist's past explains them.
+
+It does not excuse them.
+
+Their memories may remain incomplete.
+
+Their responsibility does not.
+
+### OPTIONAL EPILOGUE
+
+Black screen.
+
+After a long silence:
+
+> **SOME MEMORIES SHOULD RETURN.**
+>
+> **SOME SHOULD REMAIN LOST.**
+
+Then:
+
+**THE END**
+
+A single footstep is heard after the screen has already gone completely black.
+
