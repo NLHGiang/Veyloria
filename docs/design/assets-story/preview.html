@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<title>Nhân vật top-down</title>
+<style>
+  body { margin: 0; background: #161616; color: #eee; font: 15px Segoe UI, sans-serif; }
+  h1 { font-size: 20px; font-weight: 600; margin: 24px 24px 8px; }
+  p { margin: 0 24px 20px; color: #aaa; }
+  section { margin: 0 24px 28px; }
+  h2 { font-size: 16px; margin: 0 0 10px; }
+  .row { display: flex; align-items: flex-end; gap: 8px; margin-bottom: 8px; }
+  .tag { width: 52px; color: #888; font-size: 13px; padding-bottom: 8px; }
+  canvas { background-color: #2a2a2a; background-image:
+    linear-gradient(45deg, #3a3a3a 25%, transparent 25%),
+    linear-gradient(-45deg, #3a3a3a 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, #3a3a3a 75%),
+    linear-gradient(-45deg, transparent 75%, #3a3a3a 75%);
+    background-size: 16px 16px;
+    background-position: 0 0, 0 8px, 8px -8px, -8px 0;
+    image-rendering: pixelated; }
+</style>
+</head>
+<body>
+<h1>Nhân vật top-down</h1>
+<p>Aren và Ruu giữ mẫu prototype. Người còn lại mỗi người một dáng. Nền caro là chỗ trong suốt.</p>
+<div id="board"></div>
+<script>
+const SHEETS = [{"image": "aren-ruu.png", "width": 1398, "height": 984, "alphaThreshold": 16, "frameOrder": ["idle", "leftstep", "rightstep"], "Aren": {"down": [{"x": 42, "y": 17, "w": 149, "h": 213}, {"x": 273, "y": 16, "w": 152, "h": 214}, {"x": 506, "y": 16, "w": 152, "h": 214}], "left": [{"x": 41, "y": 267, "w": 151, "h": 209}, {"x": 271, "y": 265, "w": 156, "h": 211}, {"x": 505, "y": 264, "w": 154, "h": 212}], "right": [{"x": 39, "y": 515, "w": 154, "h": 207}, {"x": 268, "y": 515, "w": 163, "h": 207}, {"x": 506, "y": 514, "w": 153, "h": 208}], "up": [{"x": 41, "y": 761, "w": 151, "h": 207}, {"x": 274, "y": 760, "w": 151, "h": 208}, {"x": 508, "y": 761, "w": 148, "h": 207}]}, "Ruu": {"down": [{"x": 742, "y": 90, "w": 147, "h": 140}, {"x": 975, "y": 83, "w": 147, "h": 147}, {"x": 1206, "y": 81, "w": 151, "h": 149}], "left": [{"x": 715, "y": 317, "w": 200, "h": 159}, {"x": 951, "y": 317, "w": 195, "h": 159}, {"x": 1182, "y": 317, "w": 198, "h": 159}], "right": [{"x": 716, "y": 563, "w": 198, "h": 159}, {"x": 948, "y": 563, "w": 201, "h": 159}, {"x": 1183, "y": 563, "w": 196, "h": 159}], "up": [{"x": 748, "y": 812, "w": 135, "h": 156}, {"x": 980, "y": 811, "w": 136, "h": 157}, {"x": 1213, "y": 810, "w": 136, "h": 158}]}}, {"image": "elira-nilo.png", "width": 774, "height": 748, "alphaThreshold": 16, "frameOrder": ["idle", "leftstep", "rightstep"], "Elira": {"down": [{"x": 14, "y": 12, "w": 100, "h": 163}, {"x": 144, "y": 13, "w": 99, "h": 162}, {"x": 273, "y": 13, "w": 98, "h": 162}], "left": [{"x": 12, "y": 206, "w": 105, "h": 156}, {"x": 142, "y": 206, "w": 102, "h": 156}, {"x": 272, "y": 206, "w": 101, "h": 156}], "right": [{"x": 12, "y": 395, "w": 104, "h": 154}, {"x": 143, "y": 395, "w": 101, "h": 154}, {"x": 273, "y": 396, "w": 99, "h": 153}], "up": [{"x": 17, "y": 581, "w": 95, "h": 155}, {"x": 147, "y": 581, "w": 92, "h": 155}, {"x": 276, "y": 581, "w": 93, "h": 155}]}, "Nilo": {"down": [{"x": 414, "y": 47, "w": 75, "h": 128}, {"x": 542, "y": 48, "w": 76, "h": 127}, {"x": 671, "y": 47, "w": 76, "h": 128}], "left": [{"x": 414, "y": 223, "w": 74, "h": 139}, {"x": 543, "y": 224, "w": 75, "h": 138}, {"x": 672, "y": 224, "w": 74, "h": 138}], "right": [{"x": 414, "y": 411, "w": 74, "h": 138}, {"x": 544, "y": 411, "w": 73, "h": 138}, {"x": 674, "y": 411, "w": 71, "h": 138}], "up": [{"x": 415, "y": 598, "w": 73, "h": 138}, {"x": 544, "y": 598, "w": 73, "h": 138}, {"x": 674, "y": 599, "w": 71, "h": 137}]}}, {"image": "cael-eira.png", "width": 696, "height": 776, "alphaThreshold": 16, "frameOrder": ["idle", "leftstep", "rightstep"], "Cael": {"down": [{"x": 14, "y": 12, "w": 87, "h": 170}, {"x": 130, "y": 12, "w": 88, "h": 170}, {"x": 246, "y": 13, "w": 87, "h": 169}], "left": [{"x": 23, "y": 211, "w": 70, "h": 165}, {"x": 139, "y": 211, "w": 70, "h": 165}, {"x": 255, "y": 211, "w": 70, "h": 165}], "right": [{"x": 24, "y": 405, "w": 68, "h": 165}, {"x": 139, "y": 406, "w": 69, "h": 164}, {"x": 255, "y": 406, "w": 69, "h": 164}], "up": [{"x": 15, "y": 599, "w": 86, "h": 165}, {"x": 130, "y": 599, "w": 87, "h": 165}, {"x": 247, "y": 599, "w": 86, "h": 165}]}, "Eira": {"down": [{"x": 367, "y": 34, "w": 78, "h": 148}, {"x": 483, "y": 35, "w": 77, "h": 147}, {"x": 599, "y": 35, "w": 77, "h": 147}], "left": [{"x": 360, "y": 223, "w": 92, "h": 153}, {"x": 478, "y": 223, "w": 88, "h": 153}, {"x": 595, "y": 223, "w": 86, "h": 153}], "right": [{"x": 360, "y": 417, "w": 91, "h": 153}, {"x": 476, "y": 417, "w": 91, "h": 153}, {"x": 593, "y": 417, "w": 89, "h": 153}], "up": [{"x": 370, "y": 609, "w": 72, "h": 155}, {"x": 486, "y": 608, "w": 71, "h": 156}, {"x": 602, "y": 610, "w": 72, "h": 154}]}}, {"image": "aster-veyra.png", "width": 762, "height": 772, "alphaThreshold": 16, "frameOrder": ["idle", "leftstep", "rightstep"], "Aster": {"down": [{"x": 16, "y": 12, "w": 94, "h": 169}, {"x": 144, "y": 13, "w": 93, "h": 168}, {"x": 271, "y": 13, "w": 93, "h": 168}], "left": [{"x": 14, "y": 209, "w": 98, "h": 165}, {"x": 139, "y": 208, "w": 103, "h": 166}, {"x": 271, "y": 208, "w": 93, "h": 166}], "right": [{"x": 14, "y": 400, "w": 98, "h": 167}, {"x": 140, "y": 400, "w": 100, "h": 167}, {"x": 267, "y": 399, "w": 100, "h": 168}], "up": [{"x": 18, "y": 599, "w": 91, "h": 161}, {"x": 145, "y": 599, "w": 90, "h": 161}, {"x": 272, "y": 599, "w": 90, "h": 161}]}, "Veyra": {"down": [{"x": 404, "y": 29, "w": 81, "h": 152}, {"x": 530, "y": 29, "w": 82, "h": 152}, {"x": 657, "y": 29, "w": 82, "h": 152}], "left": [{"x": 400, "y": 212, "w": 89, "h": 162}, {"x": 526, "y": 212, "w": 90, "h": 162}, {"x": 652, "y": 211, "w": 92, "h": 163}], "right": [{"x": 399, "y": 404, "w": 90, "h": 163}, {"x": 526, "y": 404, "w": 90, "h": 163}, {"x": 652, "y": 404, "w": 92, "h": 163}], "up": [{"x": 402, "y": 599, "w": 84, "h": 161}, {"x": 530, "y": 599, "w": 83, "h": 161}, {"x": 656, "y": 599, "w": 84, "h": 161}]}}];
+const LABELS = {"down": "Xuống", "left": "Trái", "right": "Phải", "up": "Lên"};
+const SCALE = 2;
+const board = document.getElementById('board');
+for (const sheet of SHEETS) {
+  const img = new Image();
+  img.src = sheet.image;
+  img.onload = () => {
+    const names = Object.keys(sheet).filter(k => sheet[k] && sheet[k].down);
+    for (const name of names) {
+      const section = document.createElement('section');
+      const title = document.createElement('h2');
+      title.textContent = name;
+      section.append(title);
+      for (const dir of ['down','left','right','up']) {
+        const row = document.createElement('div');
+        row.className = 'row';
+        const tag = document.createElement('div');
+        tag.className = 'tag';
+        tag.textContent = LABELS[dir];
+        row.append(tag);
+        const frames = sheet[name][dir];
+        const tall = Math.max(...frames.map(f => f.h));
+        for (const frame of frames) {
+          const canvas = document.createElement('canvas');
+          canvas.width = frame.w * SCALE;
+          canvas.height = tall * SCALE;
+          const g = canvas.getContext('2d');
+          g.imageSmoothingEnabled = false;
+          const foot = (tall - frame.h) * SCALE;
+          g.drawImage(img, frame.x, frame.y, frame.w, frame.h, 0, foot, frame.w * SCALE, frame.h * SCALE);
+          row.append(canvas);
+        }
+        section.append(row);
+      }
+      board.append(section);
+    }
+  };
+}
+</script>
+</body>
+</html>
